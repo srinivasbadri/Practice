@@ -1,0 +1,1856 @@
+[
+    {
+        "nickname": "Ace",
+        "birth_city": "Madurai",
+        "living_city": "Federal Way",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Archer",
+        "birth_city": "Mysore",
+        "living_city": "Tukwila",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Guardian",
+        "birth_city": "Karimnagar",
+        "living_city": "Seattle",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Hack",
+        "birth_city": "Tiruppur",
+        "living_city": "Federal Way",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Hades",
+        "birth_city": "Mangalore",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Hammer",
+        "birth_city": "Tiruppur",
+        "living_city": "Kent",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Harlequin",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "SeaTac",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Hawk",
+        "birth_city": "Hubli",
+        "living_city": "Burien",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Hecate",
+        "birth_city": "Bangalore",
+        "living_city": "Mercer Island",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Hera",
+        "birth_city": "Vellore",
+        "living_city": "Tukwila",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Hermes",
+        "birth_city": "Guntur",
+        "living_city": "Everett",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Hero1",
+        "birth_city": "Coimbatore",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Ares",
+        "birth_city": "Karimnagar",
+        "living_city": "Renton",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Hero10",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Bothell",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Hero2",
+        "birth_city": "Kochi",
+        "living_city": "Issaquah",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Hero3",
+        "birth_city": "Tirunelveli",
+        "living_city": "Shoreline",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Hero4",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Hero5",
+        "birth_city": "Tirunelveli",
+        "living_city": "Renton",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Hero6",
+        "birth_city": "Vellore",
+        "living_city": "Tukwila",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Hero7",
+        "birth_city": "Vijayawada",
+        "living_city": "Lynnwood",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Hero8",
+        "birth_city": "Guntur",
+        "living_city": "Newcastle",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Hero9",
+        "birth_city": "Madurai",
+        "living_city": "Kirkland",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Hestia",
+        "birth_city": "Erode",
+        "living_city": "Lynnwood",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Arrow",
+        "birth_city": "Salem",
+        "living_city": "Lynnwood",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Hex",
+        "birth_city": "Vellore",
+        "living_city": "Shoreline",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Hulk",
+        "birth_city": "Tiruppur",
+        "living_city": "Mercer Island",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Hunter",
+        "birth_city": "Kochi",
+        "living_city": "Issaquah",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Ice",
+        "birth_city": "Hubli",
+        "living_city": "Kent",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Impact",
+        "birth_city": "Vellore",
+        "living_city": "Renton",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Iris",
+        "birth_city": "Nellore",
+        "living_city": "Mountlake Terrace",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Jester",
+        "birth_city": "Madurai",
+        "living_city": "Shoreline",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Jinx",
+        "birth_city": "Chennai",
+        "living_city": "Mountlake Terrace",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Joker",
+        "birth_city": "Tirunelveli",
+        "living_city": "Lynnwood",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Juggernaut",
+        "birth_city": "Coimbatore",
+        "living_city": "Burien",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Artemis",
+        "birth_city": "Erode",
+        "living_city": "Redmond",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Kappa",
+        "birth_city": "Trivandrum",
+        "living_city": "Sammamish",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Keeper",
+        "birth_city": "Puducherry",
+        "living_city": "Everett",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Kinetic",
+        "birth_city": "Erode",
+        "living_city": "Bellevue",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "King",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Tukwila",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Knight",
+        "birth_city": "Vellore",
+        "living_city": "Everett",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Lady",
+        "birth_city": "Vijayawada",
+        "living_city": "Bellevue",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Lambda",
+        "birth_city": "Vellore",
+        "living_city": "Tacoma",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Lance",
+        "birth_city": "Erode",
+        "living_city": "Federal Way",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Laser",
+        "birth_city": "Coimbatore",
+        "living_city": "Bothell",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Legend1",
+        "birth_city": "Karimnagar",
+        "living_city": "Tacoma",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Artifact",
+        "birth_city": "Tirunelveli",
+        "living_city": "Everett",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Legend10",
+        "birth_city": "Salem",
+        "living_city": "Everett",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Legend2",
+        "birth_city": "Tirunelveli",
+        "living_city": "Burien",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Legend3",
+        "birth_city": "Warangal",
+        "living_city": "Edmonds",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Legend4",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Kirkland",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Legend5",
+        "birth_city": "Tiruppur",
+        "living_city": "Seattle",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Legend6",
+        "birth_city": "Hyderabad",
+        "living_city": "SeaTac",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Legend7",
+        "birth_city": "Tiruppur",
+        "living_city": "Woodinville",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Legend8",
+        "birth_city": "Belgaum",
+        "living_city": "Kent",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Legend9",
+        "birth_city": "Vijayawada",
+        "living_city": "Mercer Island",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Leviathan",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Woodinville",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Assassin",
+        "birth_city": "Hubli",
+        "living_city": "Sammamish",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Lightning",
+        "birth_city": "Nellore",
+        "living_city": "Mercer Island",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Link",
+        "birth_city": "Hyderabad",
+        "living_city": "Sammamish",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Lion",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Kenmore",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Loki",
+        "birth_city": "Guntur",
+        "living_city": "Shoreline",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Lord",
+        "birth_city": "Karimnagar",
+        "living_city": "Mercer Island",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Mace",
+        "birth_city": "Mangalore",
+        "living_city": "Edmonds",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Mage",
+        "birth_city": "Vijayawada",
+        "living_city": "Tacoma",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Magma",
+        "birth_city": "Coimbatore",
+        "living_city": "Shoreline",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Major",
+        "birth_city": "Vellore",
+        "living_city": "Snoqualmie",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Mammoth",
+        "birth_city": "Puducherry",
+        "living_city": "SeaTac",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Astro",
+        "birth_city": "Mysore",
+        "living_city": "Federal Way",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Marksman",
+        "birth_city": "Mangalore",
+        "living_city": "Mercer Island",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Master",
+        "birth_city": "Hubli",
+        "living_city": "Sammamish",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Matrix",
+        "birth_city": "Mysore",
+        "living_city": "Redmond",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Meteor",
+        "birth_city": "Karimnagar",
+        "living_city": "Bellevue",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Mimic",
+        "birth_city": "Hubli",
+        "living_city": "Seattle",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Missile",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Shoreline",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Momentum",
+        "birth_city": "Kochi",
+        "living_city": "Redmond",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Monster",
+        "birth_city": "Karimnagar",
+        "living_city": "Edmonds",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Moon",
+        "birth_city": "Coimbatore",
+        "living_city": "Federal Way",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Motion",
+        "birth_city": "Belgaum",
+        "living_city": "Mountlake Terrace",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Athena",
+        "birth_city": "Erode",
+        "living_city": "Redmond",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Mystic",
+        "birth_city": "Madurai",
+        "living_city": "Kenmore",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Nebula",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Mercer Island",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Necromancer",
+        "birth_city": "Trivandrum",
+        "living_city": "Burien",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Neutron",
+        "birth_city": "Hyderabad",
+        "living_city": "Sammamish",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Nike",
+        "birth_city": "Trivandrum",
+        "living_city": "SeaTac",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Ninja",
+        "birth_city": "Vijayawada",
+        "living_city": "SeaTac",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Noble",
+        "birth_city": "Hubli",
+        "living_city": "Newcastle",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Node",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Bellevue",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Nova",
+        "birth_city": "Vellore",
+        "living_city": "Tukwila",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Odin",
+        "birth_city": "Nellore",
+        "living_city": "Seattle",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Atlas",
+        "birth_city": "Madurai",
+        "living_city": "Woodinville",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Omega",
+        "birth_city": "Chennai",
+        "living_city": "Renton",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Orange",
+        "birth_city": "Belgaum",
+        "living_city": "Federal Way",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Orb",
+        "birth_city": "Mangalore",
+        "living_city": "Bothell",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Orbit",
+        "birth_city": "Tirunelveli",
+        "living_city": "Bothell",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Paladin",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Seattle",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Panther",
+        "birth_city": "Belgaum",
+        "living_city": "Everett",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Peak",
+        "birth_city": "Puducherry",
+        "living_city": "Seattle",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Persephone",
+        "birth_city": "Salem",
+        "living_city": "Woodinville",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Phantom",
+        "birth_city": "Bangalore",
+        "living_city": "Everett",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Phoenix",
+        "birth_city": "Belgaum",
+        "living_city": "Redmond",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Axe",
+        "birth_city": "Mysore",
+        "living_city": "SeaTac",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Photon",
+        "birth_city": "Hyderabad",
+        "living_city": "Seattle",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Pink",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Lynnwood",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Pinnacle",
+        "birth_city": "Warangal",
+        "living_city": "Shoreline",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Pixel",
+        "birth_city": "Nellore",
+        "living_city": "Kirkland",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Plague",
+        "birth_city": "Salem",
+        "living_city": "Tacoma",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Plasma",
+        "birth_city": "Vellore",
+        "living_city": "Edmonds",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Player1",
+        "birth_city": "Tiruppur",
+        "living_city": "Everett",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Player10",
+        "birth_city": "Kochi",
+        "living_city": "Woodinville",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Player2",
+        "birth_city": "Belgaum",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Player3",
+        "birth_city": "Erode",
+        "living_city": "Burien",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Acid",
+        "birth_city": "Warangal",
+        "living_city": "Sammamish",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Banshee",
+        "birth_city": "Warangal",
+        "living_city": "Kenmore",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Player4",
+        "birth_city": "Hubli",
+        "living_city": "SeaTac",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Player5",
+        "birth_city": "Salem",
+        "living_city": "Edmonds",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Player6",
+        "birth_city": "Puducherry",
+        "living_city": "Sammamish",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Player7",
+        "birth_city": "Chennai",
+        "living_city": "Tacoma",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Player8",
+        "birth_city": "Kochi",
+        "living_city": "Shoreline",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Player9",
+        "birth_city": "Trivandrum",
+        "living_city": "Snoqualmie",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Poison",
+        "birth_city": "Hubli",
+        "living_city": "Kent",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Poseidon",
+        "birth_city": "Mangalore",
+        "living_city": "Edmonds",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Power",
+        "birth_city": "Hyderabad",
+        "living_city": "Woodinville",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Prankster",
+        "birth_city": "Erode",
+        "living_city": "Seattle",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Baron",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Tukwila",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Prime",
+        "birth_city": "Chennai",
+        "living_city": "Mountlake Terrace",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Prince",
+        "birth_city": "Puducherry",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Pro1",
+        "birth_city": "Madurai",
+        "living_city": "Newcastle",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Pro10",
+        "birth_city": "Guntur",
+        "living_city": "Bellevue",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Pro2",
+        "birth_city": "Tirunelveli",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Pro3",
+        "birth_city": "Karimnagar",
+        "living_city": "Bellevue",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Pro4",
+        "birth_city": "Thanjavur",
+        "living_city": "Redmond",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Pro5",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Seattle",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Pro6",
+        "birth_city": "Warangal",
+        "living_city": "Newcastle",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Pro7",
+        "birth_city": "Hyderabad",
+        "living_city": "Federal Way",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Beast",
+        "birth_city": "Kochi",
+        "living_city": "Issaquah",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Pro8",
+        "birth_city": "Trivandrum",
+        "living_city": "SeaTac",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Pro9",
+        "birth_city": "Puducherry",
+        "living_city": "Burien",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Protector",
+        "birth_city": "Hyderabad",
+        "living_city": "Lynnwood",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Proton",
+        "birth_city": "Madurai",
+        "living_city": "Edmonds",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Purple",
+        "birth_city": "Trivandrum",
+        "living_city": "Sammamish",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Quark",
+        "birth_city": "Belgaum",
+        "living_city": "Tukwila",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Queen",
+        "birth_city": "Puducherry",
+        "living_city": "Sammamish",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Quick",
+        "birth_city": "Kochi",
+        "living_city": "Shoreline",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Ranger",
+        "birth_city": "Bangalore",
+        "living_city": "Bellevue",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Rapid",
+        "birth_city": "Trivandrum",
+        "living_city": "Bellevue",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Behemoth",
+        "birth_city": "Guntur",
+        "living_city": "Mercer Island",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Raven",
+        "birth_city": "Tiruppur",
+        "living_city": "Bellevue",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Red",
+        "birth_city": "Guntur",
+        "living_city": "Newcastle",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Relic",
+        "birth_city": "Mangalore",
+        "living_city": "Redmond",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Ring",
+        "birth_city": "Tiruppur",
+        "living_city": "Shoreline",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Rocket",
+        "birth_city": "Erode",
+        "living_city": "Mercer Island",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Rogue",
+        "birth_city": "Thanjavur",
+        "living_city": "Mountlake Terrace",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Ronin",
+        "birth_city": "Thanjavur",
+        "living_city": "Sammamish",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Rush",
+        "birth_city": "Puducherry",
+        "living_city": "Tukwila",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Samurai",
+        "birth_city": "Hubli",
+        "living_city": "Kent",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Scepter",
+        "birth_city": "Tirunelveli",
+        "living_city": "Issaquah",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Beta",
+        "birth_city": "Erode",
+        "living_city": "Shoreline",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Scout",
+        "birth_city": "Coimbatore",
+        "living_city": "Kent",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Sentinel",
+        "birth_city": "Nellore",
+        "living_city": "Tacoma",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Seraph",
+        "birth_city": "Vellore",
+        "living_city": "Kent",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Shadow",
+        "birth_city": "Vijayawada",
+        "living_city": "Snoqualmie",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Shaman",
+        "birth_city": "Tiruppur",
+        "living_city": "Kent",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Shield",
+        "birth_city": "Erode",
+        "living_city": "Sammamish",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Shogun",
+        "birth_city": "Madurai",
+        "living_city": "Everett",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Sigma",
+        "birth_city": "Warangal",
+        "living_city": "Lynnwood",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Silver",
+        "birth_city": "Mangalore",
+        "living_city": "Seattle",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Sniper",
+        "birth_city": "Bangalore",
+        "living_city": "Lynnwood",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Black",
+        "birth_city": "Vijayawada",
+        "living_city": "Renton",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Sonic",
+        "birth_city": "Nellore",
+        "living_city": "Sammamish",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Sorcerer",
+        "birth_city": "Belgaum",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Spartan",
+        "birth_city": "Tirunelveli",
+        "living_city": "Kent",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Spear",
+        "birth_city": "Hubli",
+        "living_city": "Kenmore",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Specter",
+        "birth_city": "Puducherry",
+        "living_city": "Shoreline",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Speed",
+        "birth_city": "Nellore",
+        "living_city": "SeaTac",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Spirit",
+        "birth_city": "Hyderabad",
+        "living_city": "Kirkland",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Star",
+        "birth_city": "Warangal",
+        "living_city": "Sammamish",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Steel",
+        "birth_city": "Mysore",
+        "living_city": "Shoreline",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Storm",
+        "birth_city": "Vijayawada",
+        "living_city": "Sammamish",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Blade",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Newcastle",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Summit",
+        "birth_city": "Vijayawada",
+        "living_city": "Bellevue",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Summoner",
+        "birth_city": "Karimnagar",
+        "living_city": "Woodinville",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Sun",
+        "birth_city": "Tirunelveli",
+        "living_city": "Shoreline",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Supreme",
+        "birth_city": "Warangal",
+        "living_city": "Kirkland",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Swift",
+        "birth_city": "Coimbatore",
+        "living_city": "Mountlake Terrace",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Sword",
+        "birth_city": "Tirunelveli",
+        "living_city": "Kirkland",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Talisman",
+        "birth_city": "Karimnagar",
+        "living_city": "Sammamish",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Tank",
+        "birth_city": "Hubli",
+        "living_city": "Snoqualmie",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Thief",
+        "birth_city": "Salem",
+        "living_city": "Snoqualmie",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Thor",
+        "birth_city": "Guntur",
+        "living_city": "Mountlake Terrace",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Blaze",
+        "birth_city": "Hubli",
+        "living_city": "Kent",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Throne",
+        "birth_city": "Tiruppur",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Thrust",
+        "birth_city": "Guntur",
+        "living_city": "Renton",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Thunder",
+        "birth_city": "Mysore",
+        "living_city": "Edmonds",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Tiger",
+        "birth_city": "Erode",
+        "living_city": "Redmond",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Titan",
+        "birth_city": "Erode",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Titan1",
+        "birth_city": "Madurai",
+        "living_city": "Shoreline",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Titan10",
+        "birth_city": "Mangalore",
+        "living_city": "Redmond",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Titan2",
+        "birth_city": "Erode",
+        "living_city": "Federal Way",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Titan3",
+        "birth_city": "Guntur",
+        "living_city": "Redmond",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Titan4",
+        "birth_city": "Kochi",
+        "living_city": "Kent",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Blight",
+        "birth_city": "Mysore",
+        "living_city": "Kent",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Titan5",
+        "birth_city": "Madurai",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Titan6",
+        "birth_city": "Vijayawada",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Titan7",
+        "birth_city": "Karimnagar",
+        "living_city": "Mountlake Terrace",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Titan8",
+        "birth_city": "Salem",
+        "living_city": "Shoreline",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Titan9",
+        "birth_city": "Erode",
+        "living_city": "Redmond",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Top",
+        "birth_city": "Salem",
+        "living_city": "Mountlake Terrace",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Torpedo",
+        "birth_city": "Mangalore",
+        "living_city": "Kent",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Toxic",
+        "birth_city": "Tirunelveli",
+        "living_city": "Shoreline",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Tracker",
+        "birth_city": "Tirunelveli",
+        "living_city": "Kirkland",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Treasure",
+        "birth_city": "Hubli",
+        "living_city": "Redmond",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Blue",
+        "birth_city": "Kochi",
+        "living_city": "SeaTac",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Trickster",
+        "birth_city": "Chennai",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Velocity",
+        "birth_city": "Puducherry",
+        "living_city": "Sammamish",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Venom",
+        "birth_city": "Nellore",
+        "living_city": "Shoreline",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Viking",
+        "birth_city": "Warangal",
+        "living_city": "Snoqualmie",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Viper",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "SeaTac",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Virus",
+        "birth_city": "Trivandrum",
+        "living_city": "Tacoma",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Warden",
+        "birth_city": "Madurai",
+        "living_city": "Kenmore",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Warlock",
+        "birth_city": "Nellore",
+        "living_city": "Snoqualmie",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Warrior",
+        "birth_city": "Karimnagar",
+        "living_city": "Federal Way",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Water",
+        "birth_city": "Hyderabad",
+        "living_city": "Mercer Island",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Admiral",
+        "birth_city": "Tiruppur",
+        "living_city": "Federal Way",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Bolt",
+        "birth_city": "Vijayawada",
+        "living_city": "Kenmore",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "White",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Tukwila",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Wind",
+        "birth_city": "Hubli",
+        "living_city": "Federal Way",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Wizard",
+        "birth_city": "Kochi",
+        "living_city": "Woodinville",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Wolf",
+        "birth_city": "Vellore",
+        "living_city": "Mercer Island",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Wraith",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Tukwila",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Yellow",
+        "birth_city": "Thanjavur",
+        "living_city": "Renton",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Zenith",
+        "birth_city": "Salem",
+        "living_city": "Edmonds",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Zeta",
+        "birth_city": "Mangalore",
+        "living_city": "Lynnwood",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Zeus",
+        "birth_city": "Thanjavur",
+        "living_city": "Mountlake Terrace",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Zoom",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Sammamish",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Boss",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Newcastle",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Bruiser",
+        "birth_city": "Hyderabad",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Buffoon",
+        "birth_city": "Trivandrum",
+        "living_city": "Tacoma",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Byte",
+        "birth_city": "Mysore",
+        "living_city": "Seattle",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Cannon",
+        "birth_city": "Hyderabad",
+        "living_city": "Kirkland",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Captain",
+        "birth_city": "Vellore",
+        "living_city": "Tukwila",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Chief",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Edmonds",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Chip",
+        "birth_city": "Madurai",
+        "living_city": "SeaTac",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Clown",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Federal Way",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Alpha",
+        "birth_city": "Guntur",
+        "living_city": "Shoreline",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Cobra",
+        "birth_city": "Bangalore",
+        "living_city": "Redmond",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Code",
+        "birth_city": "Tiruppur",
+        "living_city": "Renton",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Colonel",
+        "birth_city": "Salem",
+        "living_city": "Sammamish",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Colossus",
+        "birth_city": "Salem",
+        "living_city": "Tukwila",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Comedian",
+        "birth_city": "Coimbatore",
+        "living_city": "Edmonds",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Comet",
+        "birth_city": "Thanjavur",
+        "living_city": "SeaTac",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Commander",
+        "birth_city": "Mangalore",
+        "living_city": "Edmonds",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Cosmos",
+        "birth_city": "Trivandrum",
+        "living_city": "Renton",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Crown",
+        "birth_city": "Erode",
+        "living_city": "Bellevue",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Crown2",
+        "birth_city": "Hyderabad",
+        "living_city": "Bothell",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Amulet",
+        "birth_city": "Belgaum",
+        "living_city": "Lynnwood",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Crusader",
+        "birth_city": "Coimbatore",
+        "living_city": "Lynnwood",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Crusader2",
+        "birth_city": "Karimnagar",
+        "living_city": "Edmonds",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Crystal",
+        "birth_city": "Mysore",
+        "living_city": "Newcastle",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Curse",
+        "birth_city": "Madurai",
+        "living_city": "Redmond",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Cyber",
+        "birth_city": "Thanjavur",
+        "living_city": "Snoqualmie",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Dagger",
+        "birth_city": "Coimbatore",
+        "living_city": "SeaTac",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Dash",
+        "birth_city": "Tirunelveli",
+        "living_city": "Kenmore",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Data",
+        "birth_city": "Belgaum",
+        "living_city": "Lynnwood",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Defender",
+        "birth_city": "Chennai",
+        "living_city": "Issaquah",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Delta",
+        "birth_city": "Kochi",
+        "living_city": "Mercer Island",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Angel",
+        "birth_city": "Thanjavur",
+        "living_city": "Edmonds",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Demeter",
+        "birth_city": "Nellore",
+        "living_city": "Edmonds",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Demon",
+        "birth_city": "Coimbatore",
+        "living_city": "Sammamish",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Devil",
+        "birth_city": "Belgaum",
+        "living_city": "Kenmore",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Diamond",
+        "birth_city": "Karimnagar",
+        "living_city": "Bothell",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Dragon",
+        "birth_city": "Puducherry",
+        "living_city": "Renton",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Drive",
+        "birth_city": "Karimnagar",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Druid",
+        "birth_city": "Nellore",
+        "living_city": "Issaquah",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Duke",
+        "birth_city": "Erode",
+        "living_city": "Bothell",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Eagle",
+        "birth_city": "Nellore",
+        "living_city": "Bellevue",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Earl",
+        "birth_city": "Coimbatore",
+        "living_city": "Redmond",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Apex",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Burien",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Earth",
+        "birth_city": "Chennai",
+        "living_city": "Bellevue",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Eclipse",
+        "birth_city": "Bangalore",
+        "living_city": "Bothell",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Elite",
+        "birth_city": "Vijayawada",
+        "living_city": "Bellevue",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Enchanter",
+        "birth_city": "Trivandrum",
+        "living_city": "Newcastle",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Energy",
+        "birth_city": "Mysore",
+        "living_city": "Federal Way",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Epsilon",
+        "birth_city": "Warangal",
+        "living_city": "Everett",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Falcon",
+        "birth_city": "Madurai",
+        "living_city": "Mercer Island",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Fire",
+        "birth_city": "Vellore",
+        "living_city": "Burien",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Flash",
+        "birth_city": "Mysore",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Fool",
+        "birth_city": "Vellore",
+        "living_city": "Mercer Island",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Aphrodite",
+        "birth_city": "Bangalore",
+        "living_city": "Newcastle",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Force",
+        "birth_city": "Trivandrum",
+        "living_city": "Woodinville",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Frost",
+        "birth_city": "Trivandrum",
+        "living_city": "Sammamish",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Galaxy",
+        "birth_city": "Mysore",
+        "living_city": "Newcastle",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Gamer1",
+        "birth_city": "Mangalore",
+        "living_city": "Tukwila",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Gamer10",
+        "birth_city": "Erode",
+        "living_city": "Mercer Island",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Gamer2",
+        "birth_city": "Guntur",
+        "living_city": "Redmond",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Gamer3",
+        "birth_city": "Mysore",
+        "living_city": "Issaquah",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Gamer4",
+        "birth_city": "Puducherry",
+        "living_city": "Redmond",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Gamer5",
+        "birth_city": "Mysore",
+        "living_city": "Lynnwood",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Gamer6",
+        "birth_city": "Tiruppur",
+        "living_city": "Kenmore",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Apollo",
+        "birth_city": "Mangalore",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Gamer7",
+        "birth_city": "Puducherry",
+        "living_city": "Renton",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Gamer8",
+        "birth_city": "Vijayawada",
+        "living_city": "Burien",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Gamer9",
+        "birth_city": "Mysore",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Gamma",
+        "birth_city": "Tirunelveli",
+        "living_city": "Woodinville",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "General",
+        "birth_city": "Guntur",
+        "living_city": "Kent",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Ghost",
+        "birth_city": "Trivandrum",
+        "living_city": "Everett",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Giant",
+        "birth_city": "Salem",
+        "living_city": "Kent",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Gladiator",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Federal Way",
+        "generation": "Millennial"
+    },
+    {
+        "nickname": "Goliath",
+        "birth_city": "Hubli",
+        "living_city": "Kirkland",
+        "generation": "Generation X"
+    },
+    {
+        "nickname": "Green",
+        "birth_city": "Tiruppur",
+        "living_city": "Lynnwood",
+        "generation": "Generation X"
+    }
+]
