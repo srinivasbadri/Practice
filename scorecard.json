@@ -1,4 +1,4 @@
-{
+[
     {
         "round": "Round 1",
         "fastest": "Mystic",
@@ -49,4 +49,5 @@
         "points": 8258
     }
 
-}
+]
+
