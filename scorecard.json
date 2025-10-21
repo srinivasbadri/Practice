@@ -1,0 +1,51 @@
+[
+    {
+        "round": "Round 1",
+        "fastest": "Mystic",
+        "fastesttime": 0.502,
+        "pointsleader": "Poison",
+        "points": 4672
+    },
+    {
+        "round": "Round 2",
+        "fastest": "Node",
+        "fastesttime": 0.502,
+        "pointsleader": "Knight",
+        "points": 5641
+    },
+    {
+        "round": "Round 3",
+        "fastest": "Poison",
+        "fastesttime": 0.505,
+        "pointsleader": "Knight",
+        "points": 5353
+    },
+    {
+        "round": "Round 4",
+        "fastest": "Photon",
+        "fastesttime": 0.502,
+        "pointsleader": "Knight",
+        "points": 4838
+    },
+    {
+        "round": "Round 5",
+        "fastest": "Scout",
+        "fastesttime": 0.503,
+        "pointsleader": "Knight",
+        "points": 6058
+    },
+    {
+        "round": "Round 6",
+        "fastest": "Peak",
+        "fastesttime": 0.507,
+        "pointsleader": "Knight",
+        "points": 5104
+    },
+    {
+        "round": "Round 7",
+        "fastest": "Legend3",
+        "fastesttime": 0.502,
+        "pointsleader": "Knight",
+        "points": 8258
+    }
+]
