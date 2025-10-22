@@ -1,5 +1,9 @@
 {
     "RoundsCompleted": 2,
     "RoundsRemaining": 7,
-    "LastRoundWinner": "KnightRider"
+    "LastRoundWinner": "KnightRider",
+    "LastRoundFastestAnswer" : "PoisonIvy",
+    "LastRoundFastestAnswerTime": 2.3
+    "LastRoundAllCorrect": 200
+
 }
