@@ -1,2474 +1,2474 @@
 [
     {
         "nickname": "Ace",
-        "birth_city": "Madurai",
-        "living_city": "Federal Way",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c23j0wy8"
-    },
-    {
-        "nickname": "Archer",
-        "birth_city": "Mysore",
-        "living_city": "Tukwila",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23n1fkk"
-    },
-    {
-        "nickname": "Guardian",
-        "birth_city": "Karimnagar",
-        "living_city": "Seattle",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c23nb62q"
-    },
-    {
-        "nickname": "Hack",
         "birth_city": "Tiruppur",
-        "living_city": "Federal Way",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c23j0wy8"
-    },
-    {
-        "nickname": "Hades",
-        "birth_city": "Mangalore",
-        "living_city": "Lake Forest Park",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdm1rquq",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Hammer",
-        "birth_city": "Tiruppur",
-        "living_city": "Kent",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Harlequin",
-        "birth_city": "Tiruchirappalli",
-        "living_city": "SeaTac",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9zvqur5",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Hawk",
-        "birth_city": "Hubli",
-        "living_city": "Burien",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c22ypctz"
-    },
-    {
-        "nickname": "Hecate",
-        "birth_city": "Bangalore",
-        "living_city": "Mercer Island",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdr1v9qt",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Hera",
-        "birth_city": "Vellore",
-        "living_city": "Tukwila",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c23n1fkk"
-    },
-    {
-        "nickname": "Hermes",
-        "birth_city": "Guntur",
-        "living_city": "Everett",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfchy2s1",
-        "living_city_geohash": "c290gnr1"
-    },
-    {
-        "nickname": "Hero1",
-        "birth_city": "Coimbatore",
-        "living_city": "Lake Forest Park",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9ywxjt9",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Ares",
-        "birth_city": "Karimnagar",
-        "living_city": "Renton",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c23n4gup"
-    },
-    {
-        "nickname": "Hero10",
-        "birth_city": "Tiruchirappalli",
-        "living_city": "Bothell",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9zvqur5",
-        "living_city_geohash": "c23penue"
-    },
-    {
-        "nickname": "Hero2",
-        "birth_city": "Kochi",
-        "living_city": "Issaquah",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9y0rxbj",
-        "living_city_geohash": "c23nrhdd"
-    },
-    {
-        "nickname": "Hero3",
-        "birth_city": "Tirunelveli",
-        "living_city": "Shoreline",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Hero4",
-        "birth_city": "Tiruchirappalli",
-        "living_city": "Lake Forest Park",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9zvqur5",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Hero5",
-        "birth_city": "Tirunelveli",
         "living_city": "Renton",
         "generation": "Millennial",
-        "birth_city_geohash": "t9x396kd",
+        "birth_city_geohash": "t9yzpynp",
         "living_city_geohash": "c23n4gup"
-    },
-    {
-        "nickname": "Hero6",
-        "birth_city": "Vellore",
-        "living_city": "Tukwila",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c23n1fkk"
-    },
-    {
-        "nickname": "Hero7",
-        "birth_city": "Vijayawada",
-        "living_city": "Lynnwood",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfcmghy5",
-        "living_city_geohash": "c29009sb"
-    },
-    {
-        "nickname": "Hero8",
-        "birth_city": "Guntur",
-        "living_city": "Newcastle",
-        "generation": "Generation X",
-        "birth_city_geohash": "tfchy2s1",
-        "living_city_geohash": "c23nkq00"
-    },
-    {
-        "nickname": "Hero9",
-        "birth_city": "Madurai",
-        "living_city": "Kirkland",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c23p704k"
-    },
-    {
-        "nickname": "Hestia",
-        "birth_city": "Erode",
-        "living_city": "Lynnwood",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c29009sb"
-    },
-    {
-        "nickname": "Arrow",
-        "birth_city": "Salem",
-        "living_city": "Lynnwood",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdpd672j",
-        "living_city_geohash": "c29009sb"
-    },
-    {
-        "nickname": "Hex",
-        "birth_city": "Vellore",
-        "living_city": "Shoreline",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Hulk",
-        "birth_city": "Tiruppur",
-        "living_city": "Mercer Island",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Hunter",
-        "birth_city": "Kochi",
-        "living_city": "Issaquah",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9y0rxbj",
-        "living_city_geohash": "c23nrhdd"
-    },
-    {
-        "nickname": "Ice",
-        "birth_city": "Hubli",
-        "living_city": "Kent",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Impact",
-        "birth_city": "Vellore",
-        "living_city": "Renton",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c23n4gup"
-    },
-    {
-        "nickname": "Iris",
-        "birth_city": "Nellore",
-        "living_city": "Mountlake Terrace",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf8fhjhq",
-        "living_city_geohash": "c23pbg99"
-    },
-    {
-        "nickname": "Jester",
-        "birth_city": "Madurai",
-        "living_city": "Shoreline",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Jinx",
-        "birth_city": "Chennai",
-        "living_city": "Mountlake Terrace",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf346tek",
-        "living_city_geohash": "c23pbg99"
-    },
-    {
-        "nickname": "Joker",
-        "birth_city": "Tirunelveli",
-        "living_city": "Lynnwood",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c29009sb"
-    },
-    {
-        "nickname": "Juggernaut",
-        "birth_city": "Coimbatore",
-        "living_city": "Burien",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9ywxjt9",
-        "living_city_geohash": "c22ypctz"
-    },
-    {
-        "nickname": "Artemis",
-        "birth_city": "Erode",
-        "living_city": "Redmond",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Kappa",
-        "birth_city": "Trivandrum",
-        "living_city": "Sammamish",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Keeper",
-        "birth_city": "Puducherry",
-        "living_city": "Everett",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf0gbjfs",
-        "living_city_geohash": "c290gnr1"
-    },
-    {
-        "nickname": "Kinetic",
-        "birth_city": "Erode",
-        "living_city": "Bellevue",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23ng5ps"
-    },
-    {
-        "nickname": "King",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Tukwila",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c23n1fkk"
-    },
-    {
-        "nickname": "Knight",
-        "birth_city": "Vellore",
-        "living_city": "Everett",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c290gnr1"
-    },
-    {
-        "nickname": "Lady",
-        "birth_city": "Vijayawada",
-        "living_city": "Bellevue",
-        "generation": "Generation X",
-        "birth_city_geohash": "tfcmghy5",
-        "living_city_geohash": "c23ng5ps"
-    },
-    {
-        "nickname": "Lambda",
-        "birth_city": "Vellore",
-        "living_city": "Tacoma",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c22uvdnu"
-    },
-    {
-        "nickname": "Lance",
-        "birth_city": "Erode",
-        "living_city": "Federal Way",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23j0wy8"
-    },
-    {
-        "nickname": "Laser",
-        "birth_city": "Coimbatore",
-        "living_city": "Bothell",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9ywxjt9",
-        "living_city_geohash": "c23penue"
-    },
-    {
-        "nickname": "Legend1",
-        "birth_city": "Karimnagar",
-        "living_city": "Tacoma",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c22uvdnu"
-    },
-    {
-        "nickname": "Artifact",
-        "birth_city": "Tirunelveli",
-        "living_city": "Everett",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c290gnr1"
-    },
-    {
-        "nickname": "Legend10",
-        "birth_city": "Salem",
-        "living_city": "Everett",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdpd672j",
-        "living_city_geohash": "c290gnr1"
-    },
-    {
-        "nickname": "Legend2",
-        "birth_city": "Tirunelveli",
-        "living_city": "Burien",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c22ypctz"
-    },
-    {
-        "nickname": "Legend3",
-        "birth_city": "Warangal",
-        "living_city": "Edmonds",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg0w5pns",
-        "living_city_geohash": "c22zzpxm"
-    },
-    {
-        "nickname": "Legend4",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Kirkland",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c23p704k"
-    },
-    {
-        "nickname": "Legend5",
-        "birth_city": "Tiruppur",
-        "living_city": "Seattle",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c23nb62q"
-    },
-    {
-        "nickname": "Legend6",
-        "birth_city": "Hyderabad",
-        "living_city": "SeaTac",
-        "generation": "Millennial",
-        "birth_city_geohash": "tepffhb6",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Legend7",
-        "birth_city": "Tiruppur",
-        "living_city": "Woodinville",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c23psj7k"
-    },
-    {
-        "nickname": "Legend8",
-        "birth_city": "Belgaum",
-        "living_city": "Kent",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdufpjre",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Legend9",
-        "birth_city": "Vijayawada",
-        "living_city": "Mercer Island",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfcmghy5",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Leviathan",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Woodinville",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c23psj7k"
-    },
-    {
-        "nickname": "Assassin",
-        "birth_city": "Hubli",
-        "living_city": "Sammamish",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Lightning",
-        "birth_city": "Nellore",
-        "living_city": "Mercer Island",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf8fhjhq",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Link",
-        "birth_city": "Hyderabad",
-        "living_city": "Sammamish",
-        "generation": "Generation X",
-        "birth_city_geohash": "tepffhb6",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Lion",
-        "birth_city": "Tiruchirappalli",
-        "living_city": "Kenmore",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9zvqur5",
-        "living_city_geohash": "c23pdmbw"
-    },
-    {
-        "nickname": "Loki",
-        "birth_city": "Guntur",
-        "living_city": "Shoreline",
-        "generation": "Generation X",
-        "birth_city_geohash": "tfchy2s1",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Lord",
-        "birth_city": "Karimnagar",
-        "living_city": "Mercer Island",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Mace",
-        "birth_city": "Mangalore",
-        "living_city": "Edmonds",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdm1rquq",
-        "living_city_geohash": "c22zzpxm"
-    },
-    {
-        "nickname": "Mage",
-        "birth_city": "Vijayawada",
-        "living_city": "Tacoma",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfcmghy5",
-        "living_city_geohash": "c22uvdnu"
-    },
-    {
-        "nickname": "Magma",
-        "birth_city": "Coimbatore",
-        "living_city": "Shoreline",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9ywxjt9",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Major",
-        "birth_city": "Vellore",
-        "living_city": "Snoqualmie",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c23q7u36"
-    },
-    {
-        "nickname": "Mammoth",
-        "birth_city": "Puducherry",
-        "living_city": "SeaTac",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf0gbjfs",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Astro",
-        "birth_city": "Mysore",
-        "living_city": "Federal Way",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23j0wy8"
-    },
-    {
-        "nickname": "Marksman",
-        "birth_city": "Mangalore",
-        "living_city": "Mercer Island",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdm1rquq",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Master",
-        "birth_city": "Hubli",
-        "living_city": "Sammamish",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Matrix",
-        "birth_city": "Mysore",
-        "living_city": "Redmond",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Meteor",
-        "birth_city": "Karimnagar",
-        "living_city": "Bellevue",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c23ng5ps"
-    },
-    {
-        "nickname": "Mimic",
-        "birth_city": "Hubli",
-        "living_city": "Seattle",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23nb62q"
-    },
-    {
-        "nickname": "Missile",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Shoreline",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Momentum",
-        "birth_city": "Kochi",
-        "living_city": "Redmond",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9y0rxbj",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Monster",
-        "birth_city": "Karimnagar",
-        "living_city": "Edmonds",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c22zzpxm"
-    },
-    {
-        "nickname": "Moon",
-        "birth_city": "Coimbatore",
-        "living_city": "Federal Way",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9ywxjt9",
-        "living_city_geohash": "c23j0wy8"
-    },
-    {
-        "nickname": "Motion",
-        "birth_city": "Belgaum",
-        "living_city": "Mountlake Terrace",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdufpjre",
-        "living_city_geohash": "c23pbg99"
-    },
-    {
-        "nickname": "Athena",
-        "birth_city": "Erode",
-        "living_city": "Redmond",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Mystic",
-        "birth_city": "Madurai",
-        "living_city": "Kenmore",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c23pdmbw"
-    },
-    {
-        "nickname": "Nebula",
-        "birth_city": "Tiruchirappalli",
-        "living_city": "Mercer Island",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9zvqur5",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Necromancer",
-        "birth_city": "Trivandrum",
-        "living_city": "Burien",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c22ypctz"
-    },
-    {
-        "nickname": "Neutron",
-        "birth_city": "Hyderabad",
-        "living_city": "Sammamish",
-        "generation": "Generation X",
-        "birth_city_geohash": "tepffhb6",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Nike",
-        "birth_city": "Trivandrum",
-        "living_city": "SeaTac",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Ninja",
-        "birth_city": "Vijayawada",
-        "living_city": "SeaTac",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfcmghy5",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Noble",
-        "birth_city": "Hubli",
-        "living_city": "Newcastle",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23nkq00"
-    },
-    {
-        "nickname": "Node",
-        "birth_city": "Tiruchirappalli",
-        "living_city": "Bellevue",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9zvqur5",
-        "living_city_geohash": "c23ng5ps"
-    },
-    {
-        "nickname": "Nova",
-        "birth_city": "Vellore",
-        "living_city": "Tukwila",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c23n1fkk"
-    },
-    {
-        "nickname": "Odin",
-        "birth_city": "Nellore",
-        "living_city": "Seattle",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf8fhjhq",
-        "living_city_geohash": "c23nb62q"
-    },
-    {
-        "nickname": "Atlas",
-        "birth_city": "Madurai",
-        "living_city": "Woodinville",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c23psj7k"
-    },
-    {
-        "nickname": "Omega",
-        "birth_city": "Chennai",
-        "living_city": "Renton",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf346tek",
-        "living_city_geohash": "c23n4gup"
-    },
-    {
-        "nickname": "Orange",
-        "birth_city": "Belgaum",
-        "living_city": "Federal Way",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdufpjre",
-        "living_city_geohash": "c23j0wy8"
-    },
-    {
-        "nickname": "Orb",
-        "birth_city": "Mangalore",
-        "living_city": "Bothell",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdm1rquq",
-        "living_city_geohash": "c23penue"
-    },
-    {
-        "nickname": "Orbit",
-        "birth_city": "Tirunelveli",
-        "living_city": "Bothell",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c23penue"
-    },
-    {
-        "nickname": "Paladin",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Seattle",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c23nb62q"
-    },
-    {
-        "nickname": "Panther",
-        "birth_city": "Belgaum",
-        "living_city": "Everett",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdufpjre",
-        "living_city_geohash": "c290gnr1"
-    },
-    {
-        "nickname": "Peak",
-        "birth_city": "Puducherry",
-        "living_city": "Seattle",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf0gbjfs",
-        "living_city_geohash": "c23nb62q"
-    },
-    {
-        "nickname": "Persephone",
-        "birth_city": "Salem",
-        "living_city": "Woodinville",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdpd672j",
-        "living_city_geohash": "c23psj7k"
-    },
-    {
-        "nickname": "Phantom",
-        "birth_city": "Bangalore",
-        "living_city": "Everett",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdr1v9qt",
-        "living_city_geohash": "c290gnr1"
-    },
-    {
-        "nickname": "Phoenix",
-        "birth_city": "Belgaum",
-        "living_city": "Redmond",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdufpjre",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Axe",
-        "birth_city": "Mysore",
-        "living_city": "SeaTac",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Photon",
-        "birth_city": "Hyderabad",
-        "living_city": "Seattle",
-        "generation": "Millennial",
-        "birth_city_geohash": "tepffhb6",
-        "living_city_geohash": "c23nb62q"
-    },
-    {
-        "nickname": "Pink",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Lynnwood",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c29009sb"
-    },
-    {
-        "nickname": "Pinnacle",
-        "birth_city": "Warangal",
-        "living_city": "Shoreline",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg0w5pns",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Pixel",
-        "birth_city": "Nellore",
-        "living_city": "Kirkland",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf8fhjhq",
-        "living_city_geohash": "c23p704k"
-    },
-    {
-        "nickname": "Plague",
-        "birth_city": "Salem",
-        "living_city": "Tacoma",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdpd672j",
-        "living_city_geohash": "c22uvdnu"
-    },
-    {
-        "nickname": "Plasma",
-        "birth_city": "Vellore",
-        "living_city": "Edmonds",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c22zzpxm"
-    },
-    {
-        "nickname": "Player1",
-        "birth_city": "Tiruppur",
-        "living_city": "Everett",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c290gnr1"
-    },
-    {
-        "nickname": "Player10",
-        "birth_city": "Kochi",
-        "living_city": "Woodinville",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9y0rxbj",
-        "living_city_geohash": "c23psj7k"
-    },
-    {
-        "nickname": "Player2",
-        "birth_city": "Belgaum",
-        "living_city": "Lake Forest Park",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdufpjre",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Player3",
-        "birth_city": "Erode",
-        "living_city": "Burien",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c22ypctz"
     },
     {
         "nickname": "Acid",
-        "birth_city": "Warangal",
-        "living_city": "Sammamish",
+        "birth_city": "Kolkata",
+        "living_city": "Federal Way",
+        "generation": "Generation X",
+        "birth_city_geohash": "tunb6v0w",
+        "living_city_geohash": "c23j0wy8"
+    },
+    {
+        "nickname": "Admiral",
+        "birth_city": "Kolkata",
+        "living_city": "Auburn",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tunb6v0w",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Alpha",
+        "birth_city": "Mysore",
+        "living_city": "Everett",
         "generation": "Millennial",
+        "birth_city_geohash": "tdnmzyrh",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Amulet",
+        "birth_city": "Pune",
+        "living_city": "Tukwila",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tek92esc",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Angel",
+        "birth_city": "Davanagere",
+        "living_city": "Woodinville",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdtfr9ht",
+        "living_city_geohash": "c23psj7k"
+    },
+    {
+        "nickname": "Apex",
+        "birth_city": "Karimnagar",
+        "living_city": "Kent",
+        "generation": "Generation X",
+        "birth_city_geohash": "tg22bseu",
+        "living_city_geohash": "c23jd3rm"
+    },
+    {
+        "nickname": "Aphrodite",
+        "birth_city": "Jaipur",
+        "living_city": "Federal Way",
+        "generation": "Millennial",
+        "birth_city_geohash": "tsvche68",
+        "living_city_geohash": "c23j0wy8"
+    },
+    {
+        "nickname": "Apollo",
+        "birth_city": "Jaipur",
+        "living_city": "Des Moines",
+        "generation": "Millennial",
+        "birth_city_geohash": "tsvche68",
+        "living_city_geohash": "c23j8mnp"
+    },
+    {
+        "nickname": "Archer",
+        "birth_city": "Nellore",
+        "living_city": "Bellevue",
+        "generation": "Generation X",
+        "birth_city_geohash": "tf8fhjhq",
+        "living_city_geohash": "c23ng5ps"
+    },
+    {
+        "nickname": "Ares",
+        "birth_city": "Mangalore",
+        "living_city": "Kirkland",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdm1rquq",
+        "living_city_geohash": "c23p704k"
+    },
+    {
+        "nickname": "Arrow",
+        "birth_city": "Ahmedabad",
+        "living_city": "Kirkland",
+        "generation": "Generation Z",
+        "birth_city_geohash": "ts5dgrhg",
+        "living_city_geohash": "c23p704k"
+    },
+    {
+        "nickname": "Artemis",
+        "birth_city": "Warangal",
+        "living_city": "Shoreline",
+        "generation": "Generation Z",
         "birth_city_geohash": "tg0w5pns",
-        "living_city_geohash": "c23nzh23"
+        "living_city_geohash": "c23p8j9t"
+    },
+    {
+        "nickname": "Artifact",
+        "birth_city": "Karimnagar",
+        "living_city": "Auburn",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg22bseu",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Assassin",
+        "birth_city": "Chennai",
+        "living_city": "Auburn",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tf346tek",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Astro",
+        "birth_city": "Hyderabad",
+        "living_city": "Everett",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tepffhb6",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Athena",
+        "birth_city": "Pune",
+        "living_city": "Woodinville",
+        "generation": "Millennial",
+        "birth_city_geohash": "tek92esc",
+        "living_city_geohash": "c23psj7k"
+    },
+    {
+        "nickname": "Atlas",
+        "birth_city": "Jaipur",
+        "living_city": "Federal Way",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tsvche68",
+        "living_city_geohash": "c23j0wy8"
+    },
+    {
+        "nickname": "Axe",
+        "birth_city": "Kochi",
+        "living_city": "Renton",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9y0rxbj",
+        "living_city_geohash": "c23n4gup"
     },
     {
         "nickname": "Banshee",
         "birth_city": "Warangal",
-        "living_city": "Kenmore",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg0w5pns",
-        "living_city_geohash": "c23pdmbw"
-    },
-    {
-        "nickname": "Player4",
-        "birth_city": "Hubli",
-        "living_city": "SeaTac",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Player5",
-        "birth_city": "Salem",
-        "living_city": "Edmonds",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdpd672j",
-        "living_city_geohash": "c22zzpxm"
-    },
-    {
-        "nickname": "Player6",
-        "birth_city": "Puducherry",
-        "living_city": "Sammamish",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf0gbjfs",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Player7",
-        "birth_city": "Chennai",
-        "living_city": "Tacoma",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf346tek",
-        "living_city_geohash": "c22uvdnu"
-    },
-    {
-        "nickname": "Player8",
-        "birth_city": "Kochi",
         "living_city": "Shoreline",
         "generation": "Generation X",
-        "birth_city_geohash": "t9y0rxbj",
+        "birth_city_geohash": "tg0w5pns",
         "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Player9",
-        "birth_city": "Trivandrum",
-        "living_city": "Snoqualmie",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c23q7u36"
-    },
-    {
-        "nickname": "Poison",
-        "birth_city": "Hubli",
-        "living_city": "Kent",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Poseidon",
-        "birth_city": "Mangalore",
-        "living_city": "Edmonds",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdm1rquq",
-        "living_city_geohash": "c22zzpxm"
-    },
-    {
-        "nickname": "Power",
-        "birth_city": "Hyderabad",
-        "living_city": "Woodinville",
-        "generation": "Generation X",
-        "birth_city_geohash": "tepffhb6",
-        "living_city_geohash": "c23psj7k"
-    },
-    {
-        "nickname": "Prankster",
-        "birth_city": "Erode",
-        "living_city": "Seattle",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23nb62q"
     },
     {
         "nickname": "Baron",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Tukwila",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c23n1fkk"
-    },
-    {
-        "nickname": "Prime",
         "birth_city": "Chennai",
-        "living_city": "Mountlake Terrace",
-        "generation": "Generation X",
+        "living_city": "Edmonds",
+        "generation": "Millennial",
         "birth_city_geohash": "tf346tek",
-        "living_city_geohash": "c23pbg99"
-    },
-    {
-        "nickname": "Prince",
-        "birth_city": "Puducherry",
-        "living_city": "Lake Forest Park",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf0gbjfs",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Pro1",
-        "birth_city": "Madurai",
-        "living_city": "Newcastle",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c23nkq00"
-    },
-    {
-        "nickname": "Pro10",
-        "birth_city": "Guntur",
-        "living_city": "Bellevue",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfchy2s1",
-        "living_city_geohash": "c23ng5ps"
-    },
-    {
-        "nickname": "Pro2",
-        "birth_city": "Tirunelveli",
-        "living_city": "Lake Forest Park",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Pro3",
-        "birth_city": "Karimnagar",
-        "living_city": "Bellevue",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c23ng5ps"
-    },
-    {
-        "nickname": "Pro4",
-        "birth_city": "Thanjavur",
-        "living_city": "Redmond",
-        "generation": "Millennial",
-        "birth_city_geohash": "tcbm2gdq",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Pro5",
-        "birth_city": "Tiruchirappalli",
-        "living_city": "Seattle",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9zvqur5",
-        "living_city_geohash": "c23nb62q"
-    },
-    {
-        "nickname": "Pro6",
-        "birth_city": "Warangal",
-        "living_city": "Newcastle",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg0w5pns",
-        "living_city_geohash": "c23nkq00"
-    },
-    {
-        "nickname": "Pro7",
-        "birth_city": "Hyderabad",
-        "living_city": "Federal Way",
-        "generation": "Generation X",
-        "birth_city_geohash": "tepffhb6",
-        "living_city_geohash": "c23j0wy8"
+        "living_city_geohash": "c22zzpxm"
     },
     {
         "nickname": "Beast",
-        "birth_city": "Kochi",
-        "living_city": "Issaquah",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9y0rxbj",
-        "living_city_geohash": "c23nrhdd"
-    },
-    {
-        "nickname": "Pro8",
-        "birth_city": "Trivandrum",
-        "living_city": "SeaTac",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Pro9",
-        "birth_city": "Puducherry",
-        "living_city": "Burien",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf0gbjfs",
-        "living_city_geohash": "c22ypctz"
-    },
-    {
-        "nickname": "Protector",
-        "birth_city": "Hyderabad",
+        "birth_city": "Delhi",
         "living_city": "Lynnwood",
-        "generation": "Millennial",
-        "birth_city_geohash": "tepffhb6",
+        "generation": "Generation X",
+        "birth_city_geohash": "ttng692m",
         "living_city_geohash": "c29009sb"
-    },
-    {
-        "nickname": "Proton",
-        "birth_city": "Madurai",
-        "living_city": "Edmonds",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c22zzpxm"
-    },
-    {
-        "nickname": "Purple",
-        "birth_city": "Trivandrum",
-        "living_city": "Sammamish",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Quark",
-        "birth_city": "Belgaum",
-        "living_city": "Tukwila",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdufpjre",
-        "living_city_geohash": "c23n1fkk"
-    },
-    {
-        "nickname": "Queen",
-        "birth_city": "Puducherry",
-        "living_city": "Sammamish",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf0gbjfs",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Quick",
-        "birth_city": "Kochi",
-        "living_city": "Shoreline",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9y0rxbj",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Ranger",
-        "birth_city": "Bangalore",
-        "living_city": "Bellevue",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdr1v9qt",
-        "living_city_geohash": "c23ng5ps"
-    },
-    {
-        "nickname": "Rapid",
-        "birth_city": "Trivandrum",
-        "living_city": "Bellevue",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c23ng5ps"
     },
     {
         "nickname": "Behemoth",
-        "birth_city": "Guntur",
-        "living_city": "Mercer Island",
+        "birth_city": "Bangalore",
+        "living_city": "Lake Forest Park",
         "generation": "Millennial",
-        "birth_city_geohash": "tfchy2s1",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Raven",
-        "birth_city": "Tiruppur",
-        "living_city": "Bellevue",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c23ng5ps"
-    },
-    {
-        "nickname": "Red",
-        "birth_city": "Guntur",
-        "living_city": "Newcastle",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfchy2s1",
-        "living_city_geohash": "c23nkq00"
-    },
-    {
-        "nickname": "Relic",
-        "birth_city": "Mangalore",
-        "living_city": "Redmond",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdm1rquq",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Ring",
-        "birth_city": "Tiruppur",
-        "living_city": "Shoreline",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Rocket",
-        "birth_city": "Erode",
-        "living_city": "Mercer Island",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Rogue",
-        "birth_city": "Thanjavur",
-        "living_city": "Mountlake Terrace",
-        "generation": "Generation X",
-        "birth_city_geohash": "tcbm2gdq",
-        "living_city_geohash": "c23pbg99"
-    },
-    {
-        "nickname": "Ronin",
-        "birth_city": "Thanjavur",
-        "living_city": "Sammamish",
-        "generation": "Generation X",
-        "birth_city_geohash": "tcbm2gdq",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Rush",
-        "birth_city": "Puducherry",
-        "living_city": "Tukwila",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf0gbjfs",
-        "living_city_geohash": "c23n1fkk"
-    },
-    {
-        "nickname": "Samurai",
-        "birth_city": "Hubli",
-        "living_city": "Kent",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Scepter",
-        "birth_city": "Tirunelveli",
-        "living_city": "Issaquah",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c23nrhdd"
+        "birth_city_geohash": "tdr1v9qt",
+        "living_city_geohash": "c23p9mvg"
     },
     {
         "nickname": "Beta",
-        "birth_city": "Erode",
-        "living_city": "Shoreline",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Scout",
-        "birth_city": "Coimbatore",
-        "living_city": "Kent",
+        "birth_city": "Karur",
+        "living_city": "Edmonds",
         "generation": "Millennial",
-        "birth_city_geohash": "t9ywxjt9",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Sentinel",
-        "birth_city": "Nellore",
-        "living_city": "Tacoma",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf8fhjhq",
-        "living_city_geohash": "c22uvdnu"
-    },
-    {
-        "nickname": "Seraph",
-        "birth_city": "Vellore",
-        "living_city": "Kent",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Shadow",
-        "birth_city": "Vijayawada",
-        "living_city": "Snoqualmie",
-        "generation": "Generation X",
-        "birth_city_geohash": "tfcmghy5",
-        "living_city_geohash": "c23q7u36"
-    },
-    {
-        "nickname": "Shaman",
-        "birth_city": "Tiruppur",
-        "living_city": "Kent",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Shield",
-        "birth_city": "Erode",
-        "living_city": "Sammamish",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Shogun",
-        "birth_city": "Madurai",
-        "living_city": "Everett",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c290gnr1"
-    },
-    {
-        "nickname": "Sigma",
-        "birth_city": "Warangal",
-        "living_city": "Lynnwood",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg0w5pns",
-        "living_city_geohash": "c29009sb"
-    },
-    {
-        "nickname": "Silver",
-        "birth_city": "Mangalore",
-        "living_city": "Seattle",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdm1rquq",
-        "living_city_geohash": "c23nb62q"
-    },
-    {
-        "nickname": "Sniper",
-        "birth_city": "Bangalore",
-        "living_city": "Lynnwood",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdr1v9qt",
-        "living_city_geohash": "c29009sb"
+        "birth_city_geohash": "t9zw2ejx",
+        "living_city_geohash": "c22zzpxm"
     },
     {
         "nickname": "Black",
-        "birth_city": "Vijayawada",
-        "living_city": "Renton",
+        "birth_city": "Gulbarga",
+        "living_city": "Federal Way",
         "generation": "Millennial",
-        "birth_city_geohash": "tfcmghy5",
-        "living_city_geohash": "c23n4gup"
-    },
-    {
-        "nickname": "Sonic",
-        "birth_city": "Nellore",
-        "living_city": "Sammamish",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf8fhjhq",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Sorcerer",
-        "birth_city": "Belgaum",
-        "living_city": "Lake Forest Park",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdufpjre",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Spartan",
-        "birth_city": "Tirunelveli",
-        "living_city": "Kent",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Spear",
-        "birth_city": "Hubli",
-        "living_city": "Kenmore",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23pdmbw"
-    },
-    {
-        "nickname": "Specter",
-        "birth_city": "Puducherry",
-        "living_city": "Shoreline",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf0gbjfs",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Speed",
-        "birth_city": "Nellore",
-        "living_city": "SeaTac",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf8fhjhq",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Spirit",
-        "birth_city": "Hyderabad",
-        "living_city": "Kirkland",
-        "generation": "Millennial",
-        "birth_city_geohash": "tepffhb6",
-        "living_city_geohash": "c23p704k"
-    },
-    {
-        "nickname": "Star",
-        "birth_city": "Warangal",
-        "living_city": "Sammamish",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg0w5pns",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Steel",
-        "birth_city": "Mysore",
-        "living_city": "Shoreline",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Storm",
-        "birth_city": "Vijayawada",
-        "living_city": "Sammamish",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfcmghy5",
-        "living_city_geohash": "c23nzh23"
+        "birth_city_geohash": "tends6v0",
+        "living_city_geohash": "c23j0wy8"
     },
     {
         "nickname": "Blade",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Newcastle",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c23nkq00"
-    },
-    {
-        "nickname": "Summit",
-        "birth_city": "Vijayawada",
-        "living_city": "Bellevue",
-        "generation": "Generation X",
-        "birth_city_geohash": "tfcmghy5",
-        "living_city_geohash": "c23ng5ps"
-    },
-    {
-        "nickname": "Summoner",
-        "birth_city": "Karimnagar",
-        "living_city": "Woodinville",
+        "birth_city": "Davanagere",
+        "living_city": "Kent",
         "generation": "Millennial",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c23psj7k"
-    },
-    {
-        "nickname": "Sun",
-        "birth_city": "Tirunelveli",
-        "living_city": "Shoreline",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Supreme",
-        "birth_city": "Warangal",
-        "living_city": "Kirkland",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg0w5pns",
-        "living_city_geohash": "c23p704k"
-    },
-    {
-        "nickname": "Swift",
-        "birth_city": "Coimbatore",
-        "living_city": "Mountlake Terrace",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9ywxjt9",
-        "living_city_geohash": "c23pbg99"
-    },
-    {
-        "nickname": "Sword",
-        "birth_city": "Tirunelveli",
-        "living_city": "Kirkland",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c23p704k"
-    },
-    {
-        "nickname": "Talisman",
-        "birth_city": "Karimnagar",
-        "living_city": "Sammamish",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Tank",
-        "birth_city": "Hubli",
-        "living_city": "Snoqualmie",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23q7u36"
-    },
-    {
-        "nickname": "Thief",
-        "birth_city": "Salem",
-        "living_city": "Snoqualmie",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdpd672j",
-        "living_city_geohash": "c23q7u36"
-    },
-    {
-        "nickname": "Thor",
-        "birth_city": "Guntur",
-        "living_city": "Mountlake Terrace",
-        "generation": "Generation X",
-        "birth_city_geohash": "tfchy2s1",
-        "living_city_geohash": "c23pbg99"
+        "birth_city_geohash": "tdtfr9ht",
+        "living_city_geohash": "c23jd3rm"
     },
     {
         "nickname": "Blaze",
-        "birth_city": "Hubli",
-        "living_city": "Kent",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Throne",
-        "birth_city": "Tiruppur",
-        "living_city": "Lake Forest Park",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Thrust",
-        "birth_city": "Guntur",
-        "living_city": "Renton",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfchy2s1",
-        "living_city_geohash": "c23n4gup"
-    },
-    {
-        "nickname": "Thunder",
-        "birth_city": "Mysore",
-        "living_city": "Edmonds",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c22zzpxm"
-    },
-    {
-        "nickname": "Tiger",
-        "birth_city": "Erode",
-        "living_city": "Redmond",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Titan",
-        "birth_city": "Erode",
-        "living_city": "Lake Forest Park",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Titan1",
-        "birth_city": "Madurai",
-        "living_city": "Shoreline",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Titan10",
-        "birth_city": "Mangalore",
-        "living_city": "Redmond",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdm1rquq",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Titan2",
-        "birth_city": "Erode",
-        "living_city": "Federal Way",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23j0wy8"
-    },
-    {
-        "nickname": "Titan3",
-        "birth_city": "Guntur",
-        "living_city": "Redmond",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfchy2s1",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Titan4",
-        "birth_city": "Kochi",
-        "living_city": "Kent",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9y0rxbj",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Blight",
-        "birth_city": "Mysore",
-        "living_city": "Kent",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Titan5",
-        "birth_city": "Madurai",
-        "living_city": "Lake Forest Park",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Titan6",
-        "birth_city": "Vijayawada",
-        "living_city": "Lake Forest Park",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfcmghy5",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Titan7",
-        "birth_city": "Karimnagar",
-        "living_city": "Mountlake Terrace",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c23pbg99"
-    },
-    {
-        "nickname": "Titan8",
-        "birth_city": "Salem",
-        "living_city": "Shoreline",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdpd672j",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Titan9",
-        "birth_city": "Erode",
-        "living_city": "Redmond",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Top",
-        "birth_city": "Salem",
-        "living_city": "Mountlake Terrace",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdpd672j",
-        "living_city_geohash": "c23pbg99"
-    },
-    {
-        "nickname": "Torpedo",
-        "birth_city": "Mangalore",
-        "living_city": "Kent",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdm1rquq",
-        "living_city_geohash": "c23jd3rm"
-    },
-    {
-        "nickname": "Toxic",
-        "birth_city": "Tirunelveli",
-        "living_city": "Shoreline",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Tracker",
-        "birth_city": "Tirunelveli",
-        "living_city": "Kirkland",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c23p704k"
-    },
-    {
-        "nickname": "Treasure",
-        "birth_city": "Hubli",
-        "living_city": "Redmond",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Blue",
-        "birth_city": "Kochi",
-        "living_city": "SeaTac",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9y0rxbj",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Trickster",
-        "birth_city": "Chennai",
-        "living_city": "Lake Forest Park",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf346tek",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Velocity",
-        "birth_city": "Puducherry",
-        "living_city": "Sammamish",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf0gbjfs",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Venom",
-        "birth_city": "Nellore",
-        "living_city": "Shoreline",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf8fhjhq",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Viking",
-        "birth_city": "Warangal",
-        "living_city": "Snoqualmie",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg0w5pns",
-        "living_city_geohash": "c23q7u36"
-    },
-    {
-        "nickname": "Viper",
         "birth_city": "Tiruchirappalli",
-        "living_city": "SeaTac",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9zvqur5",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Virus",
-        "birth_city": "Trivandrum",
-        "living_city": "Tacoma",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c22uvdnu"
-    },
-    {
-        "nickname": "Warden",
-        "birth_city": "Madurai",
-        "living_city": "Kenmore",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c23pdmbw"
-    },
-    {
-        "nickname": "Warlock",
-        "birth_city": "Nellore",
-        "living_city": "Snoqualmie",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf8fhjhq",
-        "living_city_geohash": "c23q7u36"
-    },
-    {
-        "nickname": "Warrior",
-        "birth_city": "Karimnagar",
-        "living_city": "Federal Way",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c23j0wy8"
-    },
-    {
-        "nickname": "Water",
-        "birth_city": "Hyderabad",
-        "living_city": "Mercer Island",
-        "generation": "Millennial",
-        "birth_city_geohash": "tepffhb6",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Admiral",
-        "birth_city": "Tiruppur",
-        "living_city": "Federal Way",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c23j0wy8"
-    },
-    {
-        "nickname": "Bolt",
-        "birth_city": "Vijayawada",
-        "living_city": "Kenmore",
-        "generation": "Generation X",
-        "birth_city_geohash": "tfcmghy5",
-        "living_city_geohash": "c23pdmbw"
-    },
-    {
-        "nickname": "White",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Tukwila",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c23n1fkk"
-    },
-    {
-        "nickname": "Wind",
-        "birth_city": "Hubli",
-        "living_city": "Federal Way",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdtrmmp9",
-        "living_city_geohash": "c23j0wy8"
-    },
-    {
-        "nickname": "Wizard",
-        "birth_city": "Kochi",
-        "living_city": "Woodinville",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9y0rxbj",
-        "living_city_geohash": "c23psj7k"
-    },
-    {
-        "nickname": "Wolf",
-        "birth_city": "Vellore",
-        "living_city": "Mercer Island",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Wraith",
-        "birth_city": "Tiruchirappalli",
-        "living_city": "Tukwila",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9zvqur5",
-        "living_city_geohash": "c23n1fkk"
-    },
-    {
-        "nickname": "Yellow",
-        "birth_city": "Thanjavur",
-        "living_city": "Renton",
-        "generation": "Generation X",
-        "birth_city_geohash": "tcbm2gdq",
-        "living_city_geohash": "c23n4gup"
-    },
-    {
-        "nickname": "Zenith",
-        "birth_city": "Salem",
-        "living_city": "Edmonds",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdpd672j",
-        "living_city_geohash": "c22zzpxm"
-    },
-    {
-        "nickname": "Zeta",
-        "birth_city": "Mangalore",
-        "living_city": "Lynnwood",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdm1rquq",
-        "living_city_geohash": "c29009sb"
-    },
-    {
-        "nickname": "Zeus",
-        "birth_city": "Thanjavur",
-        "living_city": "Mountlake Terrace",
-        "generation": "Generation X",
-        "birth_city_geohash": "tcbm2gdq",
-        "living_city_geohash": "c23pbg99"
-    },
-    {
-        "nickname": "Zoom",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Sammamish",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Boss",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Newcastle",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c23nkq00"
-    },
-    {
-        "nickname": "Bruiser",
-        "birth_city": "Hyderabad",
-        "living_city": "Lake Forest Park",
-        "generation": "Generation X",
-        "birth_city_geohash": "tepffhb6",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Buffoon",
-        "birth_city": "Trivandrum",
-        "living_city": "Tacoma",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c22uvdnu"
-    },
-    {
-        "nickname": "Byte",
-        "birth_city": "Mysore",
-        "living_city": "Seattle",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23nb62q"
-    },
-    {
-        "nickname": "Cannon",
-        "birth_city": "Hyderabad",
-        "living_city": "Kirkland",
-        "generation": "Millennial",
-        "birth_city_geohash": "tepffhb6",
-        "living_city_geohash": "c23p704k"
-    },
-    {
-        "nickname": "Captain",
-        "birth_city": "Vellore",
-        "living_city": "Tukwila",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c23n1fkk"
-    },
-    {
-        "nickname": "Chief",
-        "birth_city": "Tiruchirappalli",
-        "living_city": "Edmonds",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9zvqur5",
-        "living_city_geohash": "c22zzpxm"
-    },
-    {
-        "nickname": "Chip",
-        "birth_city": "Madurai",
-        "living_city": "SeaTac",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Clown",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Federal Way",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c23j0wy8"
-    },
-    {
-        "nickname": "Alpha",
-        "birth_city": "Guntur",
-        "living_city": "Shoreline",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfchy2s1",
-        "living_city_geohash": "c23p8j9t"
-    },
-    {
-        "nickname": "Cobra",
-        "birth_city": "Bangalore",
-        "living_city": "Redmond",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdr1v9qt",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Code",
-        "birth_city": "Tiruppur",
-        "living_city": "Renton",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c23n4gup"
-    },
-    {
-        "nickname": "Colonel",
-        "birth_city": "Salem",
-        "living_city": "Sammamish",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdpd672j",
-        "living_city_geohash": "c23nzh23"
-    },
-    {
-        "nickname": "Colossus",
-        "birth_city": "Salem",
-        "living_city": "Tukwila",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdpd672j",
-        "living_city_geohash": "c23n1fkk"
-    },
-    {
-        "nickname": "Comedian",
-        "birth_city": "Coimbatore",
-        "living_city": "Edmonds",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9ywxjt9",
-        "living_city_geohash": "c22zzpxm"
-    },
-    {
-        "nickname": "Comet",
-        "birth_city": "Thanjavur",
-        "living_city": "SeaTac",
-        "generation": "Generation X",
-        "birth_city_geohash": "tcbm2gdq",
-        "living_city_geohash": "c23jchfz"
-    },
-    {
-        "nickname": "Commander",
-        "birth_city": "Mangalore",
-        "living_city": "Edmonds",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdm1rquq",
-        "living_city_geohash": "c22zzpxm"
-    },
-    {
-        "nickname": "Cosmos",
-        "birth_city": "Trivandrum",
-        "living_city": "Renton",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c23n4gup"
-    },
-    {
-        "nickname": "Crown",
-        "birth_city": "Erode",
         "living_city": "Bellevue",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdp282xf",
+        "generation": "Generation X",
+        "birth_city_geohash": "t9zvqur5",
         "living_city_geohash": "c23ng5ps"
     },
     {
-        "nickname": "Crown2",
-        "birth_city": "Hyderabad",
-        "living_city": "Bothell",
+        "nickname": "Blight",
+        "birth_city": "Mangalore",
+        "living_city": "Newcastle",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdm1rquq",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Blue",
+        "birth_city": "Madurai",
+        "living_city": "Lynnwood",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9z83wv4",
+        "living_city_geohash": "c29009sb"
+    },
+    {
+        "nickname": "Bolt",
+        "birth_city": "Kochi",
+        "living_city": "Kent",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9y0rxbj",
+        "living_city_geohash": "c23jd3rm"
+    },
+    {
+        "nickname": "Boss",
+        "birth_city": "Kakinada",
+        "living_city": "Everett",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg42xsfb",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Bruiser",
+        "birth_city": "Vellore",
+        "living_city": "Sammamish",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tf232xqs",
+        "living_city_geohash": "c23nzh23"
+    },
+    {
+        "nickname": "Buffoon",
+        "birth_city": "Guntur",
+        "living_city": "Kirkland",
+        "generation": "Millennial",
+        "birth_city_geohash": "tfchy2s1",
+        "living_city_geohash": "c23p704k"
+    },
+    {
+        "nickname": "Byte",
+        "birth_city": "Jaipur",
+        "living_city": "Burien",
         "generation": "Generation X",
-        "birth_city_geohash": "tepffhb6",
+        "birth_city_geohash": "tsvche68",
+        "living_city_geohash": "c22ypctz"
+    },
+    {
+        "nickname": "Cannon",
+        "birth_city": "Coimbatore",
+        "living_city": "Auburn",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9ywxjt9",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Captain",
+        "birth_city": "Mangalore",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdm1rquq",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Chief",
+        "birth_city": "Kakinada",
+        "living_city": "Kirkland",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg42xsfb",
+        "living_city_geohash": "c23p704k"
+    },
+    {
+        "nickname": "Chip",
+        "birth_city": "Warangal",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial",
+        "birth_city_geohash": "tg0w5pns",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Clown",
+        "birth_city": "Coimbatore",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9ywxjt9",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Cobra",
+        "birth_city": "Mangalore",
+        "living_city": "Kirkland",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdm1rquq",
+        "living_city_geohash": "c23p704k"
+    },
+    {
+        "nickname": "Code",
+        "birth_city": "Erode",
+        "living_city": "Kenmore",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdp282xf",
+        "living_city_geohash": "c23pdmbq"
+    },
+    {
+        "nickname": "Colonel",
+        "birth_city": "Kochi",
+        "living_city": "Kent",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9y0rxbj",
+        "living_city_geohash": "c23jd3rm"
+    },
+    {
+        "nickname": "Colossus",
+        "birth_city": "Karimnagar",
+        "living_city": "Federal Way",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg22bseu",
+        "living_city_geohash": "c23j0wy8"
+    },
+    {
+        "nickname": "Comedian",
+        "birth_city": "Guntur",
+        "living_city": "Kent",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tfchy2s1",
+        "living_city_geohash": "c23jd3rm"
+    },
+    {
+        "nickname": "Comet",
+        "birth_city": "Lucknow",
+        "living_city": "Issaquah",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tuc89zr1",
+        "living_city_geohash": "c23nrhdd"
+    },
+    {
+        "nickname": "Commander",
+        "birth_city": "Mumbai",
+        "living_city": "Kenmore",
+        "generation": "Millennial",
+        "birth_city_geohash": "te7ud2ev",
+        "living_city_geohash": "c23pdmbq"
+    },
+    {
+        "nickname": "Cosmos",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Sammamish",
+        "generation": "Millennial",
+        "birth_city_geohash": "tg5htevc",
+        "living_city_geohash": "c23nzh23"
+    },
+    {
+        "nickname": "Crown",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Bothell",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg5htevc",
         "living_city_geohash": "c23penue"
     },
     {
-        "nickname": "Amulet",
-        "birth_city": "Belgaum",
-        "living_city": "Lynnwood",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdufpjre",
-        "living_city_geohash": "c29009sb"
+        "nickname": "Crown2",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Shoreline",
+        "generation": "Generation X",
+        "birth_city_geohash": "t9zvqur5",
+        "living_city_geohash": "c23p8j9t"
     },
     {
         "nickname": "Crusader",
-        "birth_city": "Coimbatore",
-        "living_city": "Lynnwood",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9ywxjt9",
-        "living_city_geohash": "c29009sb"
+        "birth_city": "Hyderabad",
+        "living_city": "Woodinville",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tepffhb6",
+        "living_city_geohash": "c23psj7k"
     },
     {
         "nickname": "Crusader2",
-        "birth_city": "Karimnagar",
-        "living_city": "Edmonds",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c22zzpxm"
+        "birth_city": "Hubli",
+        "living_city": "Tukwila",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdtrmmp9",
+        "living_city_geohash": "c23n1fkk"
     },
     {
         "nickname": "Crystal",
-        "birth_city": "Mysore",
-        "living_city": "Newcastle",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23nkq00"
+        "birth_city": "Tirunelveli",
+        "living_city": "Auburn",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9x396kd",
+        "living_city_geohash": "c23j4s5b"
     },
     {
         "nickname": "Curse",
-        "birth_city": "Madurai",
-        "living_city": "Redmond",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c23pjncc"
+        "birth_city": "Hubli",
+        "living_city": "Burien",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdtrmmp9",
+        "living_city_geohash": "c22ypctz"
     },
     {
         "nickname": "Cyber",
-        "birth_city": "Thanjavur",
-        "living_city": "Snoqualmie",
-        "generation": "Millennial",
-        "birth_city_geohash": "tcbm2gdq",
-        "living_city_geohash": "c23q7u36"
+        "birth_city": "Davanagere",
+        "living_city": "Redmond",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdtfr9ht",
+        "living_city_geohash": "c23pjncc"
     },
     {
         "nickname": "Dagger",
-        "birth_city": "Coimbatore",
+        "birth_city": "Davanagere",
         "living_city": "SeaTac",
         "generation": "Millennial",
-        "birth_city_geohash": "t9ywxjt9",
+        "birth_city_geohash": "tdtfr9ht",
         "living_city_geohash": "c23jchfz"
     },
     {
         "nickname": "Dash",
-        "birth_city": "Tirunelveli",
-        "living_city": "Kenmore",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9x396kd",
-        "living_city_geohash": "c23pdmbw"
+        "birth_city": "Thanjavur",
+        "living_city": "Auburn",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tcbm2gdq",
+        "living_city_geohash": "c23j4s5b"
     },
     {
         "nickname": "Data",
-        "birth_city": "Belgaum",
-        "living_city": "Lynnwood",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdufpjre",
-        "living_city_geohash": "c29009sb"
+        "birth_city": "Davanagere",
+        "living_city": "Edmonds",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdtfr9ht",
+        "living_city_geohash": "c22zzpxm"
     },
     {
         "nickname": "Defender",
-        "birth_city": "Chennai",
-        "living_city": "Issaquah",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf346tek",
-        "living_city_geohash": "c23nrhdd"
+        "birth_city": "Salem",
+        "living_city": "Tacoma",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdpd672j",
+        "living_city_geohash": "c22uvdnu"
     },
     {
         "nickname": "Delta",
-        "birth_city": "Kochi",
-        "living_city": "Mercer Island",
+        "birth_city": "Karimnagar",
+        "living_city": "Des Moines",
         "generation": "Millennial",
-        "birth_city_geohash": "t9y0rxbj",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Angel",
-        "birth_city": "Thanjavur",
-        "living_city": "Edmonds",
-        "generation": "Generation X",
-        "birth_city_geohash": "tcbm2gdq",
-        "living_city_geohash": "c22zzpxm"
+        "birth_city_geohash": "tg22bseu",
+        "living_city_geohash": "c23j8mnp"
     },
     {
         "nickname": "Demeter",
-        "birth_city": "Nellore",
-        "living_city": "Edmonds",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf8fhjhq",
-        "living_city_geohash": "c22zzpxm"
+        "birth_city": "Visakhapatnam",
+        "living_city": "Tacoma",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg5htevc",
+        "living_city_geohash": "c22uvdnu"
     },
     {
         "nickname": "Demon",
-        "birth_city": "Coimbatore",
-        "living_city": "Sammamish",
+        "birth_city": "Mysore",
+        "living_city": "Edmonds",
         "generation": "Millennial",
-        "birth_city_geohash": "t9ywxjt9",
-        "living_city_geohash": "c23nzh23"
+        "birth_city_geohash": "tdnmzyrh",
+        "living_city_geohash": "c22zzpxm"
     },
     {
         "nickname": "Devil",
-        "birth_city": "Belgaum",
-        "living_city": "Kenmore",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdufpjre",
-        "living_city_geohash": "c23pdmbw"
-    },
-    {
-        "nickname": "Diamond",
-        "birth_city": "Karimnagar",
-        "living_city": "Bothell",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c23penue"
-    },
-    {
-        "nickname": "Dragon",
-        "birth_city": "Puducherry",
+        "birth_city": "Warangal",
         "living_city": "Renton",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf0gbjfs",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg0w5pns",
         "living_city_geohash": "c23n4gup"
     },
     {
-        "nickname": "Drive",
-        "birth_city": "Karimnagar",
-        "living_city": "Lake Forest Park",
+        "nickname": "Diamond",
+        "birth_city": "Mumbai",
+        "living_city": "Bellevue",
         "generation": "Millennial",
-        "birth_city_geohash": "tg22bseu",
-        "living_city_geohash": "c23p9mvb"
+        "birth_city_geohash": "te7ud2ev",
+        "living_city_geohash": "c23ng5ps"
+    },
+    {
+        "nickname": "Dragon",
+        "birth_city": "Mysore",
+        "living_city": "Auburn",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdnmzyrh",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Drive",
+        "birth_city": "Delhi",
+        "living_city": "Redmond",
+        "generation": "Generation X",
+        "birth_city_geohash": "ttng692m",
+        "living_city_geohash": "c23pjncc"
     },
     {
         "nickname": "Druid",
-        "birth_city": "Nellore",
-        "living_city": "Issaquah",
+        "birth_city": "Kochi",
+        "living_city": "SeaTac",
         "generation": "Millennial",
-        "birth_city_geohash": "tf8fhjhq",
-        "living_city_geohash": "c23nrhdd"
+        "birth_city_geohash": "t9y0rxbj",
+        "living_city_geohash": "c23jchfz"
     },
     {
         "nickname": "Duke",
-        "birth_city": "Erode",
-        "living_city": "Bothell",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23penue"
+        "birth_city": "Mysore",
+        "living_city": "Des Moines",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdnmzyrh",
+        "living_city_geohash": "c23j8mnp"
     },
     {
         "nickname": "Eagle",
         "birth_city": "Nellore",
-        "living_city": "Bellevue",
+        "living_city": "Burien",
         "generation": "Generation X",
         "birth_city_geohash": "tf8fhjhq",
-        "living_city_geohash": "c23ng5ps"
-    },
-    {
-        "nickname": "Earl",
-        "birth_city": "Coimbatore",
-        "living_city": "Redmond",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9ywxjt9",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Apex",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Burien",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg5htevc",
         "living_city_geohash": "c22ypctz"
     },
     {
+        "nickname": "Earl",
+        "birth_city": "Thanjavur",
+        "living_city": "Lynnwood",
+        "generation": "Generation X",
+        "birth_city_geohash": "tcbm2gdq",
+        "living_city_geohash": "c29009sb"
+    },
+    {
         "nickname": "Earth",
-        "birth_city": "Chennai",
-        "living_city": "Bellevue",
+        "birth_city": "Davanagere",
+        "living_city": "Mercer Island",
         "generation": "Millennial",
-        "birth_city_geohash": "tf346tek",
-        "living_city_geohash": "c23ng5ps"
+        "birth_city_geohash": "tdtfr9ht",
+        "living_city_geohash": "c23ndgbx"
     },
     {
         "nickname": "Eclipse",
-        "birth_city": "Bangalore",
-        "living_city": "Bothell",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdr1v9qt",
-        "living_city_geohash": "c23penue"
+        "birth_city": "Delhi",
+        "living_city": "Burien",
+        "generation": "Millennial",
+        "birth_city_geohash": "ttng692m",
+        "living_city_geohash": "c22ypctz"
     },
     {
         "nickname": "Elite",
-        "birth_city": "Vijayawada",
+        "birth_city": "Karimnagar",
         "living_city": "Bellevue",
-        "generation": "Generation X",
-        "birth_city_geohash": "tfcmghy5",
+        "generation": "Millennial",
+        "birth_city_geohash": "tg22bseu",
         "living_city_geohash": "c23ng5ps"
     },
     {
         "nickname": "Enchanter",
-        "birth_city": "Trivandrum",
-        "living_city": "Newcastle",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c23nkq00"
+        "birth_city": "Mangalore",
+        "living_city": "Shoreline",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdm1rquq",
+        "living_city_geohash": "c23p8j9t"
     },
     {
         "nickname": "Energy",
-        "birth_city": "Mysore",
-        "living_city": "Federal Way",
+        "birth_city": "Karimnagar",
+        "living_city": "Seattle",
         "generation": "Generation X",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23j0wy8"
+        "birth_city_geohash": "tg22bseu",
+        "living_city_geohash": "c23nb62q"
     },
     {
         "nickname": "Epsilon",
-        "birth_city": "Warangal",
-        "living_city": "Everett",
-        "generation": "Generation X",
-        "birth_city_geohash": "tg0w5pns",
-        "living_city_geohash": "c290gnr1"
+        "birth_city": "Bangalore",
+        "living_city": "Des Moines",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdr1v9qt",
+        "living_city_geohash": "c23j8mnp"
     },
     {
         "nickname": "Falcon",
-        "birth_city": "Madurai",
-        "living_city": "Mercer Island",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9z83wv4",
-        "living_city_geohash": "c23ndgbx"
+        "birth_city": "Nellore",
+        "living_city": "Tukwila",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tf8fhjhq",
+        "living_city_geohash": "c23n1fkk"
     },
     {
         "nickname": "Fire",
-        "birth_city": "Vellore",
-        "living_city": "Burien",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Kirkland",
         "generation": "Millennial",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c22ypctz"
+        "birth_city_geohash": "tg5htevc",
+        "living_city_geohash": "c23p704k"
     },
     {
         "nickname": "Flash",
-        "birth_city": "Mysore",
-        "living_city": "Lake Forest Park",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23p9mvb"
+        "birth_city": "Bangalore",
+        "living_city": "Edmonds",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdr1v9qt",
+        "living_city_geohash": "c22zzpxm"
     },
     {
         "nickname": "Fool",
-        "birth_city": "Vellore",
-        "living_city": "Mercer Island",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf232xqs",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Aphrodite",
-        "birth_city": "Bangalore",
-        "living_city": "Newcastle",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdr1v9qt",
-        "living_city_geohash": "c23nkq00"
+        "birth_city": "Visakhapatnam",
+        "living_city": "SeaTac",
+        "generation": "Millennial",
+        "birth_city_geohash": "tg5htevc",
+        "living_city_geohash": "c23jchfz"
     },
     {
         "nickname": "Force",
-        "birth_city": "Trivandrum",
-        "living_city": "Woodinville",
-        "generation": "Millennial",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c23psj7k"
+        "birth_city": "Karimnagar",
+        "living_city": "Bellevue",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg22bseu",
+        "living_city_geohash": "c23ng5ps"
     },
     {
         "nickname": "Frost",
-        "birth_city": "Trivandrum",
-        "living_city": "Sammamish",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c23nzh23"
+        "birth_city": "Visakhapatnam",
+        "living_city": "Redmond",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg5htevc",
+        "living_city_geohash": "c23pjncc"
     },
     {
         "nickname": "Galaxy",
-        "birth_city": "Mysore",
-        "living_city": "Newcastle",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23nkq00"
+        "birth_city": "Rajahmundry",
+        "living_city": "SeaTac",
+        "generation": "Generation X",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c23jchfz"
     },
     {
         "nickname": "Gamer1",
-        "birth_city": "Mangalore",
+        "birth_city": "Erode",
+        "living_city": "Seattle",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdp282xf",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Gamer10",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Auburn",
+        "generation": "Generation X",
+        "birth_city_geohash": "tg5htevc",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Gamer2",
+        "birth_city": "Chennai",
         "living_city": "Tukwila",
         "generation": "Generation X",
+        "birth_city_geohash": "tf346tek",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Gamer3",
+        "birth_city": "Rajahmundry",
+        "living_city": "Lynnwood",
+        "generation": "Generation X",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c29009sb"
+    },
+    {
+        "nickname": "Gamer4",
+        "birth_city": "Tiruppur",
+        "living_city": "Newcastle",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9yzpynp",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Gamer5",
+        "birth_city": "Rajahmundry",
+        "living_city": "Issaquah",
+        "generation": "Generation X",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c23nrhdd"
+    },
+    {
+        "nickname": "Gamer6",
+        "birth_city": "Vellore",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tf232xqs",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Gamer7",
+        "birth_city": "Mangalore",
+        "living_city": "Tukwila",
+        "generation": "Millennial",
         "birth_city_geohash": "tdm1rquq",
         "living_city_geohash": "c23n1fkk"
     },
     {
-        "nickname": "Gamer10",
-        "birth_city": "Erode",
-        "living_city": "Mercer Island",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdp282xf",
-        "living_city_geohash": "c23ndgbx"
-    },
-    {
-        "nickname": "Gamer2",
-        "birth_city": "Guntur",
-        "living_city": "Redmond",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfchy2s1",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Gamer3",
-        "birth_city": "Mysore",
-        "living_city": "Issaquah",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23nrhdd"
-    },
-    {
-        "nickname": "Gamer4",
-        "birth_city": "Puducherry",
-        "living_city": "Redmond",
-        "generation": "Millennial",
-        "birth_city_geohash": "tf0gbjfs",
-        "living_city_geohash": "c23pjncc"
-    },
-    {
-        "nickname": "Gamer5",
-        "birth_city": "Mysore",
-        "living_city": "Lynnwood",
-        "generation": "Generation X",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c29009sb"
-    },
-    {
-        "nickname": "Gamer6",
-        "birth_city": "Tiruppur",
-        "living_city": "Kenmore",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9yzpynp",
-        "living_city_geohash": "c23pdmbw"
-    },
-    {
-        "nickname": "Apollo",
-        "birth_city": "Mangalore",
-        "living_city": "Lake Forest Park",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdm1rquq",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Gamer7",
-        "birth_city": "Puducherry",
-        "living_city": "Renton",
-        "generation": "Generation X",
-        "birth_city_geohash": "tf0gbjfs",
-        "living_city_geohash": "c23n4gup"
-    },
-    {
         "nickname": "Gamer8",
-        "birth_city": "Vijayawada",
-        "living_city": "Burien",
-        "generation": "Millennial",
-        "birth_city_geohash": "tfcmghy5",
-        "living_city_geohash": "c22ypctz"
-    },
-    {
-        "nickname": "Gamer9",
-        "birth_city": "Mysore",
-        "living_city": "Lake Forest Park",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdnmzyrh",
-        "living_city_geohash": "c23p9mvb"
-    },
-    {
-        "nickname": "Gamma",
-        "birth_city": "Tirunelveli",
+        "birth_city": "Karur",
         "living_city": "Woodinville",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9x396kd",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9zw2ejx",
         "living_city_geohash": "c23psj7k"
     },
     {
+        "nickname": "Gamer9",
+        "birth_city": "Belgaum",
+        "living_city": "Newcastle",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdufpjre",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Gamma",
+        "birth_city": "Kochi",
+        "living_city": "Kenmore",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9y0rxbj",
+        "living_city_geohash": "c23pdmbq"
+    },
+    {
         "nickname": "General",
-        "birth_city": "Guntur",
+        "birth_city": "Erode",
+        "living_city": "Renton",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdp282xf",
+        "living_city_geohash": "c23n4gup"
+    },
+    {
+        "nickname": "Ghost",
+        "birth_city": "Karur",
+        "living_city": "Seattle",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9zw2ejx",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Giant",
+        "birth_city": "Rajahmundry",
+        "living_city": "Tacoma",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c22uvdnu"
+    },
+    {
+        "nickname": "Gladiator",
+        "birth_city": "Nellore",
+        "living_city": "Kirkland",
+        "generation": "Millennial",
+        "birth_city_geohash": "tf8fhjhq",
+        "living_city_geohash": "c23p704k"
+    },
+    {
+        "nickname": "Goliath",
+        "birth_city": "Chennai",
+        "living_city": "Seattle",
+        "generation": "Generation X",
+        "birth_city_geohash": "tf346tek",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Green",
+        "birth_city": "Jaipur",
+        "living_city": "Everett",
+        "generation": "Generation X",
+        "birth_city_geohash": "tsvche68",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Guardian",
+        "birth_city": "Lucknow",
+        "living_city": "Edmonds",
+        "generation": "Millennial",
+        "birth_city_geohash": "tuc89zr1",
+        "living_city_geohash": "c22zzpxm"
+    },
+    {
+        "nickname": "Hack",
+        "birth_city": "Mangalore",
+        "living_city": "Auburn",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdm1rquq",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Hades",
+        "birth_city": "Davanagere",
+        "living_city": "Mercer Island",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdtfr9ht",
+        "living_city_geohash": "c23ndgbx"
+    },
+    {
+        "nickname": "Hammer",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Bellevue",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg5htevc",
+        "living_city_geohash": "c23ng5ps"
+    },
+    {
+        "nickname": "Harlequin",
+        "birth_city": "Rajahmundry",
+        "living_city": "Newcastle",
+        "generation": "Millennial",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Hawk",
+        "birth_city": "Delhi",
+        "living_city": "Burien",
+        "generation": "Generation Z",
+        "birth_city_geohash": "ttng692m",
+        "living_city_geohash": "c22ypctz"
+    },
+    {
+        "nickname": "Hecate",
+        "birth_city": "Lucknow",
+        "living_city": "Everett",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tuc89zr1",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Hera",
+        "birth_city": "Rajahmundry",
+        "living_city": "Mercer Island",
+        "generation": "Millennial",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c23ndgbx"
+    },
+    {
+        "nickname": "Hermes",
+        "birth_city": "Gulbarga",
+        "living_city": "Auburn",
+        "generation": "Millennial",
+        "birth_city_geohash": "tends6v0",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Hero1",
+        "birth_city": "Mysore",
+        "living_city": "Everett",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdnmzyrh",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Hero10",
+        "birth_city": "Rajahmundry",
+        "living_city": "Mercer Island",
+        "generation": "Generation X",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c23ndgbx"
+    },
+    {
+        "nickname": "Hero2",
+        "birth_city": "Mysore",
+        "living_city": "SeaTac",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdnmzyrh",
+        "living_city_geohash": "c23jchfz"
+    },
+    {
+        "nickname": "Hero3",
+        "birth_city": "Salem",
+        "living_city": "Redmond",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdpd672j",
+        "living_city_geohash": "c23pjncc"
+    },
+    {
+        "nickname": "Hero4",
+        "birth_city": "Nellore",
+        "living_city": "Kenmore",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tf8fhjhq",
+        "living_city_geohash": "c23pdmbq"
+    },
+    {
+        "nickname": "Hero5",
+        "birth_city": "Pune",
+        "living_city": "Sammamish",
+        "generation": "Millennial",
+        "birth_city_geohash": "tek92esc",
+        "living_city_geohash": "c23nzh23"
+    },
+    {
+        "nickname": "Hero6",
+        "birth_city": "Bangalore",
+        "living_city": "Bellevue",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdr1v9qt",
+        "living_city_geohash": "c23ng5ps"
+    },
+    {
+        "nickname": "Hero7",
+        "birth_city": "Belgaum",
+        "living_city": "Federal Way",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdufpjre",
+        "living_city_geohash": "c23j0wy8"
+    },
+    {
+        "nickname": "Hero8",
+        "birth_city": "Bangalore",
+        "living_city": "Tukwila",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdr1v9qt",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Hero9",
+        "birth_city": "Belgaum",
+        "living_city": "Bellevue",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdufpjre",
+        "living_city_geohash": "c23ng5ps"
+    },
+    {
+        "nickname": "Hestia",
+        "birth_city": "Madurai",
+        "living_city": "Burien",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9z83wv4",
+        "living_city_geohash": "c22ypctz"
+    },
+    {
+        "nickname": "Hex",
+        "birth_city": "Vellore",
+        "living_city": "Des Moines",
+        "generation": "Generation X",
+        "birth_city_geohash": "tf232xqs",
+        "living_city_geohash": "c23j8mnp"
+    },
+    {
+        "nickname": "Hulk",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Kent",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9zvqur5",
+        "living_city_geohash": "c23jd3rm"
+    },
+    {
+        "nickname": "Hunter",
+        "birth_city": "Mumbai",
+        "living_city": "Issaquah",
+        "generation": "Generation X",
+        "birth_city_geohash": "te7ud2ev",
+        "living_city_geohash": "c23nrhdd"
+    },
+    {
+        "nickname": "Ice",
+        "birth_city": "Gulbarga",
+        "living_city": "Sammamish",
+        "generation": "Millennial",
+        "birth_city_geohash": "tends6v0",
+        "living_city_geohash": "c23nzh23"
+    },
+    {
+        "nickname": "Impact",
+        "birth_city": "Delhi",
+        "living_city": "Edmonds",
+        "generation": "Millennial",
+        "birth_city_geohash": "ttng692m",
+        "living_city_geohash": "c22zzpxm"
+    },
+    {
+        "nickname": "Iris",
+        "birth_city": "Erode",
+        "living_city": "Seattle",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdp282xf",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Jester",
+        "birth_city": "Erode",
+        "living_city": "Renton",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdp282xf",
+        "living_city_geohash": "c23n4gup"
+    },
+    {
+        "nickname": "Jinx",
+        "birth_city": "Mangalore",
+        "living_city": "Seattle",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdm1rquq",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Joker",
+        "birth_city": "Mangalore",
+        "living_city": "Seattle",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdm1rquq",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Juggernaut",
+        "birth_city": "Gulbarga",
+        "living_city": "Everett",
+        "generation": "Millennial",
+        "birth_city_geohash": "tends6v0",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Kappa",
+        "birth_city": "Chennai",
+        "living_city": "Newcastle",
+        "generation": "Generation X",
+        "birth_city_geohash": "tf346tek",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Keeper",
+        "birth_city": "Vijayawada",
+        "living_city": "Tacoma",
+        "generation": "Generation X",
+        "birth_city_geohash": "tfcmghy5",
+        "living_city_geohash": "c22uvdnu"
+    },
+    {
+        "nickname": "Kinetic",
+        "birth_city": "Jaipur",
+        "living_city": "Shoreline",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tsvche68",
+        "living_city_geohash": "c23p8j9t"
+    },
+    {
+        "nickname": "King",
+        "birth_city": "Ahmedabad",
+        "living_city": "Bothell",
+        "generation": "Generation X",
+        "birth_city_geohash": "ts5dgrhg",
+        "living_city_geohash": "c23penue"
+    },
+    {
+        "nickname": "Knight",
+        "birth_city": "Rajahmundry",
+        "living_city": "Kenmore",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c23pdmbq"
+    },
+    {
+        "nickname": "Lady",
+        "birth_city": "Coimbatore",
+        "living_city": "Federal Way",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9ywxjt9",
+        "living_city_geohash": "c23j0wy8"
+    },
+    {
+        "nickname": "Lambda",
+        "birth_city": "Warangal",
+        "living_city": "Tacoma",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg0w5pns",
+        "living_city_geohash": "c22uvdnu"
+    },
+    {
+        "nickname": "Lance",
+        "birth_city": "Salem",
+        "living_city": "Issaquah",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdpd672j",
+        "living_city_geohash": "c23nrhdd"
+    },
+    {
+        "nickname": "Laser",
+        "birth_city": "Coimbatore",
+        "living_city": "Tukwila",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9ywxjt9",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Legend1",
+        "birth_city": "Delhi",
         "living_city": "Kent",
         "generation": "Millennial",
+        "birth_city_geohash": "ttng692m",
+        "living_city_geohash": "c23jd3rm"
+    },
+    {
+        "nickname": "Legend10",
+        "birth_city": "Chennai",
+        "living_city": "Sammamish",
+        "generation": "Millennial",
+        "birth_city_geohash": "tf346tek",
+        "living_city_geohash": "c23nzh23"
+    },
+    {
+        "nickname": "Legend2",
+        "birth_city": "Lucknow",
+        "living_city": "Newcastle",
+        "generation": "Generation X",
+        "birth_city_geohash": "tuc89zr1",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Legend3",
+        "birth_city": "Karimnagar",
+        "living_city": "Tacoma",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg22bseu",
+        "living_city_geohash": "c22uvdnu"
+    },
+    {
+        "nickname": "Legend4",
+        "birth_city": "Gulbarga",
+        "living_city": "Federal Way",
+        "generation": "Generation X",
+        "birth_city_geohash": "tends6v0",
+        "living_city_geohash": "c23j0wy8"
+    },
+    {
+        "nickname": "Legend5",
+        "birth_city": "Mysore",
+        "living_city": "Woodinville",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdnmzyrh",
+        "living_city_geohash": "c23psj7k"
+    },
+    {
+        "nickname": "Legend6",
+        "birth_city": "Coimbatore",
+        "living_city": "Kenmore",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9ywxjt9",
+        "living_city_geohash": "c23pdmbq"
+    },
+    {
+        "nickname": "Legend7",
+        "birth_city": "Vijayawada",
+        "living_city": "Renton",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tfcmghy5",
+        "living_city_geohash": "c23n4gup"
+    },
+    {
+        "nickname": "Legend8",
+        "birth_city": "Salem",
+        "living_city": "Everett",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdpd672j",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Legend9",
+        "birth_city": "Guntur",
+        "living_city": "Woodinville",
+        "generation": "Generation X",
+        "birth_city_geohash": "tfchy2s1",
+        "living_city_geohash": "c23psj7k"
+    },
+    {
+        "nickname": "Leviathan",
+        "birth_city": "Pune",
+        "living_city": "Tukwila",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tek92esc",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Lightning",
+        "birth_city": "Kakinada",
+        "living_city": "Shoreline",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg42xsfb",
+        "living_city_geohash": "c23p8j9t"
+    },
+    {
+        "nickname": "Link",
+        "birth_city": "Kakinada",
+        "living_city": "Tacoma",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg42xsfb",
+        "living_city_geohash": "c22uvdnu"
+    },
+    {
+        "nickname": "Lion",
+        "birth_city": "Jaipur",
+        "living_city": "Redmond",
+        "generation": "Generation X",
+        "birth_city_geohash": "tsvche68",
+        "living_city_geohash": "c23pjncc"
+    },
+    {
+        "nickname": "Loki",
+        "birth_city": "Pune",
+        "living_city": "Kirkland",
+        "generation": "Millennial",
+        "birth_city_geohash": "tek92esc",
+        "living_city_geohash": "c23p704k"
+    },
+    {
+        "nickname": "Lord",
+        "birth_city": "Mangalore",
+        "living_city": "Issaquah",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdm1rquq",
+        "living_city_geohash": "c23nrhdd"
+    },
+    {
+        "nickname": "Mace",
+        "birth_city": "Guntur",
+        "living_city": "Kent",
+        "generation": "Generation X",
         "birth_city_geohash": "tfchy2s1",
         "living_city_geohash": "c23jd3rm"
     },
     {
-        "nickname": "Ghost",
-        "birth_city": "Trivandrum",
-        "living_city": "Everett",
-        "generation": "Generation X",
-        "birth_city_geohash": "t9w8qxz8",
-        "living_city_geohash": "c290gnr1"
+        "nickname": "Mage",
+        "birth_city": "Tirunelveli",
+        "living_city": "SeaTac",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9x396kd",
+        "living_city_geohash": "c23jchfz"
     },
     {
-        "nickname": "Giant",
-        "birth_city": "Salem",
+        "nickname": "Magma",
+        "birth_city": "Rajahmundry",
         "living_city": "Kent",
-        "generation": "Millennial",
-        "birth_city_geohash": "tdpd672j",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg40tqzg",
         "living_city_geohash": "c23jd3rm"
     },
     {
-        "nickname": "Gladiator",
-        "birth_city": "Visakhapatnam",
-        "living_city": "Federal Way",
-        "generation": "Millennial",
-        "birth_city_geohash": "tg5htevc",
-        "living_city_geohash": "c23j0wy8"
+        "nickname": "Major",
+        "birth_city": "Belgaum",
+        "living_city": "Lynnwood",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdufpjre",
+        "living_city_geohash": "c29009sb"
     },
     {
-        "nickname": "Goliath",
-        "birth_city": "Hubli",
-        "living_city": "Kirkland",
+        "nickname": "Mammoth",
+        "birth_city": "Davanagere",
+        "living_city": "Tukwila",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdtfr9ht",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Marksman",
+        "birth_city": "Jaipur",
+        "living_city": "Seattle",
+        "generation": "Millennial",
+        "birth_city_geohash": "tsvche68",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Master",
+        "birth_city": "Tirunelveli",
+        "living_city": "Tukwila",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9x396kd",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Matrix",
+        "birth_city": "Hyderabad",
+        "living_city": "Redmond",
+        "generation": "Millennial",
+        "birth_city_geohash": "tepffhb6",
+        "living_city_geohash": "c23pjncc"
+    },
+    {
+        "nickname": "Meteor",
+        "birth_city": "Mumbai",
+        "living_city": "Seattle",
+        "generation": "Generation Z",
+        "birth_city_geohash": "te7ud2ev",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Mimic",
+        "birth_city": "Karur",
+        "living_city": "Woodinville",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9zw2ejx",
+        "living_city_geohash": "c23psj7k"
+    },
+    {
+        "nickname": "Missile",
+        "birth_city": "Kolkata",
+        "living_city": "Lake Forest Park",
         "generation": "Generation X",
-        "birth_city_geohash": "tdtrmmp9",
+        "birth_city_geohash": "tunb6v0w",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Momentum",
+        "birth_city": "Vellore",
+        "living_city": "Kirkland",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tf232xqs",
         "living_city_geohash": "c23p704k"
     },
     {
-        "nickname": "Green",
+        "nickname": "Monster",
+        "birth_city": "Chennai",
+        "living_city": "Sammamish",
+        "generation": "Generation X",
+        "birth_city_geohash": "tf346tek",
+        "living_city_geohash": "c23nzh23"
+    },
+    {
+        "nickname": "Moon",
+        "birth_city": "Warangal",
+        "living_city": "Shoreline",
+        "generation": "Generation X",
+        "birth_city_geohash": "tg0w5pns",
+        "living_city_geohash": "c23p8j9t"
+    },
+    {
+        "nickname": "Motion",
+        "birth_city": "Davanagere",
+        "living_city": "Edmonds",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdtfr9ht",
+        "living_city_geohash": "c22zzpxm"
+    },
+    {
+        "nickname": "Mystic",
+        "birth_city": "Tirunelveli",
+        "living_city": "Tukwila",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9x396kd",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Nebula",
         "birth_city": "Tiruppur",
+        "living_city": "Newcastle",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9yzpynp",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Necromancer",
+        "birth_city": "Karur",
+        "living_city": "Kenmore",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9zw2ejx",
+        "living_city_geohash": "c23pdmbq"
+    },
+    {
+        "nickname": "Neutron",
+        "birth_city": "Vijayawada",
+        "living_city": "Newcastle",
+        "generation": "Generation X",
+        "birth_city_geohash": "tfcmghy5",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Nike",
+        "birth_city": "Warangal",
+        "living_city": "Newcastle",
+        "generation": "Millennial",
+        "birth_city_geohash": "tg0w5pns",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Ninja",
+        "birth_city": "Nellore",
+        "living_city": "Bothell",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tf8fhjhq",
+        "living_city_geohash": "c23penue"
+    },
+    {
+        "nickname": "Noble",
+        "birth_city": "Warangal",
+        "living_city": "Edmonds",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg0w5pns",
+        "living_city_geohash": "c22zzpxm"
+    },
+    {
+        "nickname": "Node",
+        "birth_city": "Mumbai",
+        "living_city": "Redmond",
+        "generation": "Generation Z",
+        "birth_city_geohash": "te7ud2ev",
+        "living_city_geohash": "c23pjncc"
+    },
+    {
+        "nickname": "Nova",
+        "birth_city": "Karur",
+        "living_city": "Everett",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9zw2ejx",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Odin",
+        "birth_city": "Kolkata",
         "living_city": "Lynnwood",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tunb6v0w",
+        "living_city_geohash": "c29009sb"
+    },
+    {
+        "nickname": "Omega",
+        "birth_city": "Tirunelveli",
+        "living_city": "Newcastle",
+        "generation": "Generation X",
+        "birth_city_geohash": "t9x396kd",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Orange",
+        "birth_city": "Mumbai",
+        "living_city": "Tukwila",
+        "generation": "Generation Z",
+        "birth_city_geohash": "te7ud2ev",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Orb",
+        "birth_city": "Erode",
+        "living_city": "Woodinville",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdp282xf",
+        "living_city_geohash": "c23psj7k"
+    },
+    {
+        "nickname": "Orbit",
+        "birth_city": "Kochi",
+        "living_city": "Bellevue",
+        "generation": "Generation X",
+        "birth_city_geohash": "t9y0rxbj",
+        "living_city_geohash": "c23ng5ps"
+    },
+    {
+        "nickname": "Paladin",
+        "birth_city": "Thanjavur",
+        "living_city": "Kent",
+        "generation": "Millennial",
+        "birth_city_geohash": "tcbm2gdq",
+        "living_city_geohash": "c23jd3rm"
+    },
+    {
+        "nickname": "Panther",
+        "birth_city": "Kochi",
+        "living_city": "Burien",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9y0rxbj",
+        "living_city_geohash": "c22ypctz"
+    },
+    {
+        "nickname": "Peak",
+        "birth_city": "Kochi",
+        "living_city": "Everett",
+        "generation": "Generation X",
+        "birth_city_geohash": "t9y0rxbj",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Persephone",
+        "birth_city": "Delhi",
+        "living_city": "Redmond",
+        "generation": "Millennial",
+        "birth_city_geohash": "ttng692m",
+        "living_city_geohash": "c23pjncc"
+    },
+    {
+        "nickname": "Phantom",
+        "birth_city": "Rajahmundry",
+        "living_city": "Tacoma",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c22uvdnu"
+    },
+    {
+        "nickname": "Phoenix",
+        "birth_city": "Kakinada",
+        "living_city": "Shoreline",
+        "generation": "Generation X",
+        "birth_city_geohash": "tg42xsfb",
+        "living_city_geohash": "c23p8j9t"
+    },
+    {
+        "nickname": "Photon",
+        "birth_city": "Vijayawada",
+        "living_city": "Edmonds",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tfcmghy5",
+        "living_city_geohash": "c22zzpxm"
+    },
+    {
+        "nickname": "Pink",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg5htevc",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Pinnacle",
+        "birth_city": "Karimnagar",
+        "living_city": "Auburn",
+        "generation": "Millennial",
+        "birth_city_geohash": "tg22bseu",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Pixel",
+        "birth_city": "Nellore",
+        "living_city": "Shoreline",
+        "generation": "Millennial",
+        "birth_city_geohash": "tf8fhjhq",
+        "living_city_geohash": "c23p8j9t"
+    },
+    {
+        "nickname": "Plague",
+        "birth_city": "Davanagere",
+        "living_city": "Shoreline",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdtfr9ht",
+        "living_city_geohash": "c23p8j9t"
+    },
+    {
+        "nickname": "Plasma",
+        "birth_city": "Ahmedabad",
+        "living_city": "Federal Way",
+        "generation": "Millennial",
+        "birth_city_geohash": "ts5dgrhg",
+        "living_city_geohash": "c23j0wy8"
+    },
+    {
+        "nickname": "Player1",
+        "birth_city": "Thanjavur",
+        "living_city": "Woodinville",
+        "generation": "Millennial",
+        "birth_city_geohash": "tcbm2gdq",
+        "living_city_geohash": "c23psj7k"
+    },
+    {
+        "nickname": "Player10",
+        "birth_city": "Mysore",
+        "living_city": "Burien",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdnmzyrh",
+        "living_city_geohash": "c22ypctz"
+    },
+    {
+        "nickname": "Player2",
+        "birth_city": "Jaipur",
+        "living_city": "Kenmore",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tsvche68",
+        "living_city_geohash": "c23pdmbq"
+    },
+    {
+        "nickname": "Player3",
+        "birth_city": "Hubli",
+        "living_city": "Des Moines",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdtrmmp9",
+        "living_city_geohash": "c23j8mnp"
+    },
+    {
+        "nickname": "Player4",
+        "birth_city": "Mangalore",
+        "living_city": "Shoreline",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdm1rquq",
+        "living_city_geohash": "c23p8j9t"
+    },
+    {
+        "nickname": "Player5",
+        "birth_city": "Jaipur",
+        "living_city": "Issaquah",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tsvche68",
+        "living_city_geohash": "c23nrhdd"
+    },
+    {
+        "nickname": "Player6",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Tukwila",
+        "generation": "Generation X",
+        "birth_city_geohash": "t9zvqur5",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Player7",
+        "birth_city": "Nellore",
+        "living_city": "Newcastle",
+        "generation": "Millennial",
+        "birth_city_geohash": "tf8fhjhq",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Player8",
+        "birth_city": "Nellore",
+        "living_city": "Issaquah",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tf8fhjhq",
+        "living_city_geohash": "c23nrhdd"
+    },
+    {
+        "nickname": "Player9",
+        "birth_city": "Ahmedabad",
+        "living_city": "Issaquah",
+        "generation": "Generation Z",
+        "birth_city_geohash": "ts5dgrhg",
+        "living_city_geohash": "c23nrhdd"
+    },
+    {
+        "nickname": "Poison",
+        "birth_city": "Vijayawada",
+        "living_city": "Auburn",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tfcmghy5",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Poseidon",
+        "birth_city": "Kolkata",
+        "living_city": "Redmond",
+        "generation": "Generation X",
+        "birth_city_geohash": "tunb6v0w",
+        "living_city_geohash": "c23pjncc"
+    },
+    {
+        "nickname": "Power",
+        "birth_city": "Kochi",
+        "living_city": "Bothell",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9y0rxbj",
+        "living_city_geohash": "c23penue"
+    },
+    {
+        "nickname": "Prankster",
+        "birth_city": "Davanagere",
+        "living_city": "Burien",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdtfr9ht",
+        "living_city_geohash": "c22ypctz"
+    },
+    {
+        "nickname": "Prime",
+        "birth_city": "Delhi",
+        "living_city": "Kent",
+        "generation": "Millennial",
+        "birth_city_geohash": "ttng692m",
+        "living_city_geohash": "c23jd3rm"
+    },
+    {
+        "nickname": "Prince",
+        "birth_city": "Mumbai",
+        "living_city": "Bothell",
+        "generation": "Generation X",
+        "birth_city_geohash": "te7ud2ev",
+        "living_city_geohash": "c23penue"
+    },
+    {
+        "nickname": "Pro1",
+        "birth_city": "Mysore",
+        "living_city": "Redmond",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdnmzyrh",
+        "living_city_geohash": "c23pjncc"
+    },
+    {
+        "nickname": "Pro10",
+        "birth_city": "Pune",
+        "living_city": "Des Moines",
+        "generation": "Millennial",
+        "birth_city_geohash": "tek92esc",
+        "living_city_geohash": "c23j8mnp"
+    },
+    {
+        "nickname": "Pro2",
+        "birth_city": "Davanagere",
+        "living_city": "Issaquah",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdtfr9ht",
+        "living_city_geohash": "c23nrhdd"
+    },
+    {
+        "nickname": "Pro3",
+        "birth_city": "Vellore",
+        "living_city": "Woodinville",
+        "generation": "Millennial",
+        "birth_city_geohash": "tf232xqs",
+        "living_city_geohash": "c23psj7k"
+    },
+    {
+        "nickname": "Pro4",
+        "birth_city": "Thanjavur",
+        "living_city": "Everett",
+        "generation": "Millennial",
+        "birth_city_geohash": "tcbm2gdq",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Pro5",
+        "birth_city": "Madurai",
+        "living_city": "Newcastle",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9z83wv4",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Pro6",
+        "birth_city": "Gulbarga",
+        "living_city": "Tacoma",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tends6v0",
+        "living_city_geohash": "c22uvdnu"
+    },
+    {
+        "nickname": "Pro7",
+        "birth_city": "Hyderabad",
+        "living_city": "Seattle",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tepffhb6",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Pro8",
+        "birth_city": "Kakinada",
+        "living_city": "Seattle",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg42xsfb",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Pro9",
+        "birth_city": "Guntur",
+        "living_city": "Auburn",
+        "generation": "Generation X",
+        "birth_city_geohash": "tfchy2s1",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Protector",
+        "birth_city": "Tirunelveli",
+        "living_city": "Redmond",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9x396kd",
+        "living_city_geohash": "c23pjncc"
+    },
+    {
+        "nickname": "Proton",
+        "birth_city": "Tiruppur",
+        "living_city": "Federal Way",
         "generation": "Generation X",
         "birth_city_geohash": "t9yzpynp",
+        "living_city_geohash": "c23j0wy8"
+    },
+    {
+        "nickname": "Purple",
+        "birth_city": "Chennai",
+        "living_city": "Shoreline",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tf346tek",
+        "living_city_geohash": "c23p8j9t"
+    },
+    {
+        "nickname": "Quark",
+        "birth_city": "Tirunelveli",
+        "living_city": "Auburn",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9x396kd",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Queen",
+        "birth_city": "Vijayawada",
+        "living_city": "Shoreline",
+        "generation": "Millennial",
+        "birth_city_geohash": "tfcmghy5",
+        "living_city_geohash": "c23p8j9t"
+    },
+    {
+        "nickname": "Quick",
+        "birth_city": "Delhi",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation Z",
+        "birth_city_geohash": "ttng692m",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Ranger",
+        "birth_city": "Delhi",
+        "living_city": "Kirkland",
+        "generation": "Millennial",
+        "birth_city_geohash": "ttng692m",
+        "living_city_geohash": "c23p704k"
+    },
+    {
+        "nickname": "Rapid",
+        "birth_city": "Kakinada",
+        "living_city": "Everett",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg42xsfb",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Raven",
+        "birth_city": "Kochi",
+        "living_city": "Des Moines",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9y0rxbj",
+        "living_city_geohash": "c23j8mnp"
+    },
+    {
+        "nickname": "Red",
+        "birth_city": "Mangalore",
+        "living_city": "Issaquah",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdm1rquq",
+        "living_city_geohash": "c23nrhdd"
+    },
+    {
+        "nickname": "Relic",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Burien",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9zvqur5",
+        "living_city_geohash": "c22ypctz"
+    },
+    {
+        "nickname": "Ring",
+        "birth_city": "Vellore",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial",
+        "birth_city_geohash": "tf232xqs",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Rocket",
+        "birth_city": "Nellore",
+        "living_city": "Tukwila",
+        "generation": "Millennial",
+        "birth_city_geohash": "tf8fhjhq",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Rogue",
+        "birth_city": "Pune",
+        "living_city": "Renton",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tek92esc",
+        "living_city_geohash": "c23n4gup"
+    },
+    {
+        "nickname": "Ronin",
+        "birth_city": "Ahmedabad",
+        "living_city": "Federal Way",
+        "generation": "Millennial",
+        "birth_city_geohash": "ts5dgrhg",
+        "living_city_geohash": "c23j0wy8"
+    },
+    {
+        "nickname": "Rush",
+        "birth_city": "Mumbai",
+        "living_city": "Seattle",
+        "generation": "Millennial",
+        "birth_city_geohash": "te7ud2ev",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Samurai",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Seattle",
+        "generation": "Generation X",
+        "birth_city_geohash": "tg5htevc",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Scepter",
+        "birth_city": "Vellore",
+        "living_city": "Newcastle",
+        "generation": "Millennial",
+        "birth_city_geohash": "tf232xqs",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Scout",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Bothell",
+        "generation": "Generation X",
+        "birth_city_geohash": "t9zvqur5",
+        "living_city_geohash": "c23penue"
+    },
+    {
+        "nickname": "Sentinel",
+        "birth_city": "Guntur",
+        "living_city": "Bellevue",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tfchy2s1",
+        "living_city_geohash": "c23ng5ps"
+    },
+    {
+        "nickname": "Seraph",
+        "birth_city": "Davanagere",
+        "living_city": "Woodinville",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdtfr9ht",
+        "living_city_geohash": "c23psj7k"
+    },
+    {
+        "nickname": "Shadow",
+        "birth_city": "Hubli",
+        "living_city": "Renton",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdtrmmp9",
+        "living_city_geohash": "c23n4gup"
+    },
+    {
+        "nickname": "Shaman",
+        "birth_city": "Ahmedabad",
+        "living_city": "Everett",
+        "generation": "Millennial",
+        "birth_city_geohash": "ts5dgrhg",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Shield",
+        "birth_city": "Tiruppur",
+        "living_city": "Lynnwood",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9yzpynp",
         "living_city_geohash": "c29009sb"
+    },
+    {
+        "nickname": "Shogun",
+        "birth_city": "Vijayawada",
+        "living_city": "Redmond",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tfcmghy5",
+        "living_city_geohash": "c23pjncc"
+    },
+    {
+        "nickname": "Sigma",
+        "birth_city": "Kakinada",
+        "living_city": "Everett",
+        "generation": "Millennial",
+        "birth_city_geohash": "tg42xsfb",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Silver",
+        "birth_city": "Hyderabad",
+        "living_city": "Mercer Island",
+        "generation": "Millennial",
+        "birth_city_geohash": "tepffhb6",
+        "living_city_geohash": "c23ndgbx"
+    },
+    {
+        "nickname": "Sniper",
+        "birth_city": "Mumbai",
+        "living_city": "Kirkland",
+        "generation": "Millennial",
+        "birth_city_geohash": "te7ud2ev",
+        "living_city_geohash": "c23p704k"
+    },
+    {
+        "nickname": "Sonic",
+        "birth_city": "Visakhapatnam",
+        "living_city": "Issaquah",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg5htevc",
+        "living_city_geohash": "c23nrhdd"
+    },
+    {
+        "nickname": "Sorcerer",
+        "birth_city": "Warangal",
+        "living_city": "Auburn",
+        "generation": "Millennial",
+        "birth_city_geohash": "tg0w5pns",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Spartan",
+        "birth_city": "Mangalore",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdm1rquq",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Spear",
+        "birth_city": "Belgaum",
+        "living_city": "Newcastle",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdufpjre",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Specter",
+        "birth_city": "Nellore",
+        "living_city": "Redmond",
+        "generation": "Generation X",
+        "birth_city_geohash": "tf8fhjhq",
+        "living_city_geohash": "c23pjncc"
+    },
+    {
+        "nickname": "Speed",
+        "birth_city": "Karur",
+        "living_city": "Tukwila",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9zw2ejx",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Spirit",
+        "birth_city": "Erode",
+        "living_city": "Seattle",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdp282xf",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Star",
+        "birth_city": "Lucknow",
+        "living_city": "Kirkland",
+        "generation": "Millennial",
+        "birth_city_geohash": "tuc89zr1",
+        "living_city_geohash": "c23p704k"
+    },
+    {
+        "nickname": "Steel",
+        "birth_city": "Vijayawada",
+        "living_city": "Newcastle",
+        "generation": "Generation X",
+        "birth_city_geohash": "tfcmghy5",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Storm",
+        "birth_city": "Guntur",
+        "living_city": "Kirkland",
+        "generation": "Generation X",
+        "birth_city_geohash": "tfchy2s1",
+        "living_city_geohash": "c23p704k"
+    },
+    {
+        "nickname": "Summit",
+        "birth_city": "Karur",
+        "living_city": "Newcastle",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9zw2ejx",
+        "living_city_geohash": "c23nkq0b"
+    },
+    {
+        "nickname": "Summoner",
+        "birth_city": "Kolkata",
+        "living_city": "Auburn",
+        "generation": "Generation X",
+        "birth_city_geohash": "tunb6v0w",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Sun",
+        "birth_city": "Salem",
+        "living_city": "Seattle",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tdpd672j",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Supreme",
+        "birth_city": "Erode",
+        "living_city": "Kent",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdp282xf",
+        "living_city_geohash": "c23jd3rm"
+    },
+    {
+        "nickname": "Swift",
+        "birth_city": "Karur",
+        "living_city": "Bellevue",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9zw2ejx",
+        "living_city_geohash": "c23ng5ps"
+    },
+    {
+        "nickname": "Sword",
+        "birth_city": "Thanjavur",
+        "living_city": "Tacoma",
+        "generation": "Millennial",
+        "birth_city_geohash": "tcbm2gdq",
+        "living_city_geohash": "c22uvdnu"
+    },
+    {
+        "nickname": "Talisman",
+        "birth_city": "Lucknow",
+        "living_city": "Mercer Island",
+        "generation": "Millennial",
+        "birth_city_geohash": "tuc89zr1",
+        "living_city_geohash": "c23ndgbx"
+    },
+    {
+        "nickname": "Tank",
+        "birth_city": "Erode",
+        "living_city": "Tukwila",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdp282xf",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Thief",
+        "birth_city": "Lucknow",
+        "living_city": "Auburn",
+        "generation": "Generation X",
+        "birth_city_geohash": "tuc89zr1",
+        "living_city_geohash": "c23j4s5b"
+    },
+    {
+        "nickname": "Thor",
+        "birth_city": "Tiruppur",
+        "living_city": "SeaTac",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9yzpynp",
+        "living_city_geohash": "c23jchfz"
+    },
+    {
+        "nickname": "Throne",
+        "birth_city": "Gulbarga",
+        "living_city": "Lynnwood",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tends6v0",
+        "living_city_geohash": "c29009sb"
+    },
+    {
+        "nickname": "Thrust",
+        "birth_city": "Tiruchirappalli",
+        "living_city": "Bothell",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9zvqur5",
+        "living_city_geohash": "c23penue"
+    },
+    {
+        "nickname": "Thunder",
+        "birth_city": "Mysore",
+        "living_city": "Lynnwood",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdnmzyrh",
+        "living_city_geohash": "c29009sb"
+    },
+    {
+        "nickname": "Tiger",
+        "birth_city": "Kolkata",
+        "living_city": "Federal Way",
+        "generation": "Generation X",
+        "birth_city_geohash": "tunb6v0w",
+        "living_city_geohash": "c23j0wy8"
+    },
+    {
+        "nickname": "Titan",
+        "birth_city": "Kochi",
+        "living_city": "Mercer Island",
+        "generation": "Generation X",
+        "birth_city_geohash": "t9y0rxbj",
+        "living_city_geohash": "c23ndgbx"
+    },
+    {
+        "nickname": "Titan1",
+        "birth_city": "Thanjavur",
+        "living_city": "Sammamish",
+        "generation": "Generation X",
+        "birth_city_geohash": "tcbm2gdq",
+        "living_city_geohash": "c23nzh23"
+    },
+    {
+        "nickname": "Titan10",
+        "birth_city": "Pune",
+        "living_city": "Edmonds",
+        "generation": "Generation X",
+        "birth_city_geohash": "tek92esc",
+        "living_city_geohash": "c22zzpxm"
+    },
+    {
+        "nickname": "Titan2",
+        "birth_city": "Mumbai",
+        "living_city": "Woodinville",
+        "generation": "Generation X",
+        "birth_city_geohash": "te7ud2ev",
+        "living_city_geohash": "c23psj7k"
+    },
+    {
+        "nickname": "Titan3",
+        "birth_city": "Pune",
+        "living_city": "Edmonds",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tek92esc",
+        "living_city_geohash": "c22zzpxm"
+    },
+    {
+        "nickname": "Titan4",
+        "birth_city": "Guntur",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation X",
+        "birth_city_geohash": "tfchy2s1",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Titan5",
+        "birth_city": "Lucknow",
+        "living_city": "Tukwila",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tuc89zr1",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Titan6",
+        "birth_city": "Chennai",
+        "living_city": "Bellevue",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tf346tek",
+        "living_city_geohash": "c23ng5ps"
+    },
+    {
+        "nickname": "Titan7",
+        "birth_city": "Vellore",
+        "living_city": "Shoreline",
+        "generation": "Generation X",
+        "birth_city_geohash": "tf232xqs",
+        "living_city_geohash": "c23p8j9t"
+    },
+    {
+        "nickname": "Titan8",
+        "birth_city": "Rajahmundry",
+        "living_city": "Everett",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Titan9",
+        "birth_city": "Coimbatore",
+        "living_city": "Kent",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9ywxjt9",
+        "living_city_geohash": "c23jd3rm"
+    },
+    {
+        "nickname": "Top",
+        "birth_city": "Mumbai",
+        "living_city": "Seattle",
+        "generation": "Generation Z",
+        "birth_city_geohash": "te7ud2ev",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Torpedo",
+        "birth_city": "Lucknow",
+        "living_city": "Mercer Island",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tuc89zr1",
+        "living_city_geohash": "c23ndgbx"
+    },
+    {
+        "nickname": "Toxic",
+        "birth_city": "Nellore",
+        "living_city": "Shoreline",
+        "generation": "Millennial",
+        "birth_city_geohash": "tf8fhjhq",
+        "living_city_geohash": "c23p8j9t"
+    },
+    {
+        "nickname": "Tracker",
+        "birth_city": "Kakinada",
+        "living_city": "SeaTac",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg42xsfb",
+        "living_city_geohash": "c23jchfz"
+    },
+    {
+        "nickname": "Treasure",
+        "birth_city": "Madurai",
+        "living_city": "Kent",
+        "generation": "Generation Z",
+        "birth_city_geohash": "t9z83wv4",
+        "living_city_geohash": "c23jd3rm"
+    },
+    {
+        "nickname": "Trickster",
+        "birth_city": "Rajahmundry",
+        "living_city": "Lynnwood",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c29009sb"
+    },
+    {
+        "nickname": "Velocity",
+        "birth_city": "Ahmedabad",
+        "living_city": "Burien",
+        "generation": "Millennial",
+        "birth_city_geohash": "ts5dgrhg",
+        "living_city_geohash": "c22ypctz"
+    },
+    {
+        "nickname": "Venom",
+        "birth_city": "Karur",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation X",
+        "birth_city_geohash": "t9zw2ejx",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Viking",
+        "birth_city": "Mumbai",
+        "living_city": "Burien",
+        "generation": "Generation Z",
+        "birth_city_geohash": "te7ud2ev",
+        "living_city_geohash": "c22ypctz"
+    },
+    {
+        "nickname": "Viper",
+        "birth_city": "Erode",
+        "living_city": "Seattle",
+        "generation": "Millennial",
+        "birth_city_geohash": "tdp282xf",
+        "living_city_geohash": "c23nb62q"
+    },
+    {
+        "nickname": "Virus",
+        "birth_city": "Karur",
+        "living_city": "Renton",
+        "generation": "Millennial",
+        "birth_city_geohash": "t9zw2ejx",
+        "living_city_geohash": "c23n4gup"
+    },
+    {
+        "nickname": "Warden",
+        "birth_city": "Karur",
+        "living_city": "SeaTac",
+        "generation": "Generation X",
+        "birth_city_geohash": "t9zw2ejx",
+        "living_city_geohash": "c23jchfz"
+    },
+    {
+        "nickname": "Warlock",
+        "birth_city": "Lucknow",
+        "living_city": "Kenmore",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tuc89zr1",
+        "living_city_geohash": "c23pdmbq"
+    },
+    {
+        "nickname": "Warrior",
+        "birth_city": "Rajahmundry",
+        "living_city": "Lake Forest Park",
+        "generation": "Millennial",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Water",
+        "birth_city": "Tiruppur",
+        "living_city": "Tacoma",
+        "generation": "Generation X",
+        "birth_city_geohash": "t9yzpynp",
+        "living_city_geohash": "c22uvdnu"
+    },
+    {
+        "nickname": "White",
+        "birth_city": "Delhi",
+        "living_city": "Lynnwood",
+        "generation": "Generation X",
+        "birth_city_geohash": "ttng692m",
+        "living_city_geohash": "c29009sb"
+    },
+    {
+        "nickname": "Wind",
+        "birth_city": "Pune",
+        "living_city": "Burien",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tek92esc",
+        "living_city_geohash": "c22ypctz"
+    },
+    {
+        "nickname": "Wizard",
+        "birth_city": "Warangal",
+        "living_city": "Bellevue",
+        "generation": "Generation X",
+        "birth_city_geohash": "tg0w5pns",
+        "living_city_geohash": "c23ng5ps"
+    },
+    {
+        "nickname": "Wolf",
+        "birth_city": "Warangal",
+        "living_city": "Burien",
+        "generation": "Generation X",
+        "birth_city_geohash": "tg0w5pns",
+        "living_city_geohash": "c22ypctz"
+    },
+    {
+        "nickname": "Wraith",
+        "birth_city": "Chennai",
+        "living_city": "Lake Forest Park",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tf346tek",
+        "living_city_geohash": "c23p9mvg"
+    },
+    {
+        "nickname": "Yellow",
+        "birth_city": "Hubli",
+        "living_city": "Redmond",
+        "generation": "Generation X",
+        "birth_city_geohash": "tdtrmmp9",
+        "living_city_geohash": "c23pjncc"
+    },
+    {
+        "nickname": "Zenith",
+        "birth_city": "Karimnagar",
+        "living_city": "Everett",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg22bseu",
+        "living_city_geohash": "c290gnr1"
+    },
+    {
+        "nickname": "Zeta",
+        "birth_city": "Rajahmundry",
+        "living_city": "Tukwila",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tg40tqzg",
+        "living_city_geohash": "c23n1fkk"
+    },
+    {
+        "nickname": "Zeus",
+        "birth_city": "Vellore",
+        "living_city": "Kirkland",
+        "generation": "Generation X",
+        "birth_city_geohash": "tf232xqs",
+        "living_city_geohash": "c23p704k"
+    },
+    {
+        "nickname": "Zoom",
+        "birth_city": "Nellore",
+        "living_city": "Newcastle",
+        "generation": "Generation Z",
+        "birth_city_geohash": "tf8fhjhq",
+        "living_city_geohash": "c23nkq0b"
     }
 ]

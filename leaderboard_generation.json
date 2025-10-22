@@ -1,10 +1,14 @@
 [
   {
-    "name": "Generation X",
-    "points": 3308656
+    "name": "Generation Z",
+    "points": 2648457
   },
   {
     "name": "Millennial",
-    "points": 3218332
+    "points": 2136022
+  },
+  {
+    "name": "Generation X",
+    "points": 1685110
   }
 ]

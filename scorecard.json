@@ -1,53 +1,51 @@
 [
     {
         "round": "Round 1",
-        "fastest": "Mystic",
-        "fastesttime": 0.502,
-        "pointsleader": "Poison",
-        "points": 4672
+        "fastest": "Summit",
+        "fastesttime": 0.519,
+        "pointsleader": "Knight",
+        "points": 5894
     },
     {
         "round": "Round 2",
-        "fastest": "Node",
-        "fastesttime": 0.502,
+        "fastest": "Photon",
+        "fastesttime": 0.503,
         "pointsleader": "Knight",
-        "points": 5641
+        "points": 7815
     },
     {
         "round": "Round 3",
-        "fastest": "Poison",
-        "fastesttime": 0.505,
+        "fastest": "Ghost",
+        "fastesttime": 0.501,
         "pointsleader": "Knight",
-        "points": 5353
+        "points": 5240
     },
     {
         "round": "Round 4",
-        "fastest": "Photon",
+        "fastest": "Chip",
         "fastesttime": 0.502,
-        "pointsleader": "Knight",
-        "points": 4838
+        "pointsleader": "Hero9",
+        "points": 4618
     },
     {
         "round": "Round 5",
-        "fastest": "Scout",
-        "fastesttime": 0.503,
+        "fastest": "Protector",
+        "fastesttime": 0.506,
         "pointsleader": "Knight",
-        "points": 6058
+        "points": 4326
     },
     {
         "round": "Round 6",
-        "fastest": "Peak",
-        "fastesttime": 0.507,
+        "fastest": "Player2",
+        "fastesttime": 0.509,
         "pointsleader": "Knight",
-        "points": 5104
+        "points": 5821
     },
     {
         "round": "Round 7",
-        "fastest": "Legend3",
-        "fastesttime": 0.502,
+        "fastest": "Swift",
+        "fastesttime": 0.501,
         "pointsleader": "Knight",
-        "points": 8258
+        "points": 10049
     }
-
 ]
-
