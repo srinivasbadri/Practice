@@ -1,0 +1,91 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Grafana Labs blog on Grafana Labs</title>
+<link>https://grafana.com/blog/</link>
+<description>Recent content in Grafana Labs blog on Grafana Labs</description>
+<generator>Hugo -- gohugo.io</generator>
+<language>en</language>
+<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Making logs work smarter: Evolving your observability strategy</title>
+<meta property="og:image" content="https://a-us.storyblok.com/f/1022730/1200x628/9f833a1a7f/log-optimize-meta.png"/>
+<link>https://grafana.com/blog/2025/10/20/making-logs-work-smarter-evolving-your-observability-strategy/?utm_source=grafana_news&utm_medium=rss</link>
+<pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+<guid>https://grafana.com/blog/2025/10/20/making-logs-work-smarter-evolving-your-observability-strategy/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+<description><p>When you start building an observability stack, it’s natural to reach for logs first. They’re familiar, easy to generate, and often already part of a developer’s workflow. And sending logs to a centralized system feels like a quick win, too. Simply add a log shipper, and voila, your application is observable. </p></description>
+</item>
+<item>
+<title>Show me the (meeting) money: How to monitor the real-time costs of a meeting in Grafana</title>
+<meta property="og:image" content="https://a-us.storyblok.com/f/1022730/1200x628/aab09f00d1/cost-of-meetings-meta.png"/>
+<link>https://grafana.com/blog/2025/10/17/show-me-the-meeting-money-how-to-monitor-the-real-time-costs-of-a-meeting-in-grafana/?utm_source=grafana_news&utm_medium=rss</link>
+<pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+<guid>https://grafana.com/blog/2025/10/17/show-me-the-meeting-money-how-to-monitor-the-real-time-costs-of-a-meeting-in-grafana/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+<description><p><em>This meeting could’ve been an email.</em> </p> <p>It’s a phrase most of us have said (or at least thought) at some point in our careers. </p> <p>For me, that realization hit years ago while working for a government organization. I’d frequently sit through long, agendaless meetings that seemingly went nowhere. I wasn’t sure why I was there. And because I’m an engineer at heart, I started to wonder: what were these meetings actually costing the organization? Not just in abstract productivity hours, but in actual dollars and cents?</p></description>
+</item>
+<item>
+<title>From pillars to rings: How interconnected observability in Grafana Cloud optimizes performance and reduces telemetry waste</title>
+<meta property="og:image" content="https://a-us.storyblok.com/f/1022730/1200x628/5d3d61e649/grafana-opinionated-solutions-meta.png"/>
+<link>https://grafana.com/blog/2025/10/16/from-pillars-to-rings-how-interconnected-observability-in-grafana-cloud-optimizes-performance-and-reduces-telemetry-waste/?utm_source=grafana_news&utm_medium=rss</link>
+<pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+<guid>https://grafana.com/blog/2025/10/16/from-pillars-to-rings-how-interconnected-observability-in-grafana-cloud-optimizes-performance-and-reduces-telemetry-waste/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+<description><p>In observability, we’ve traditionally been taught to think in terms of <em>pillars</em>, namely logs, metrics, and traces (and more recently, profiles). But pillars are rigid and disconnected. They don’t reflect how modern systems actually work or how we troubleshoot in real time.</p></description>
+</item>
+<item>
+<title>Baking in site reliability with observability and AI: How SpotOn uses Grafana Assistant to keep restaurants running</title>
+<meta property="og:image" content="https://a-us.storyblok.com/f/1022730/1920x1080/17d4d9d187/obscon25-spoton-meta.png"/>
+<link>https://grafana.com/blog/2025/10/15/baking-in-site-reliability-with-observability-and-ai-how-spoton-uses-grafana-assistant-to-keep-restaurants-running/?utm_source=grafana_news&utm_medium=rss</link>
+<pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+<guid>https://grafana.com/blog/2025/10/15/baking-in-site-reliability-with-observability-and-ai-how-spoton-uses-grafana-assistant-to-keep-restaurants-running/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+<description><p>When you operate a restaurant, the last thing you want to do is shut your doors and turn away guests and staff because of some technology failure. And if you&rsquo;re the one providing that tech, it&rsquo;s your job to make sure that doesn&rsquo;t happen.</p></description>
+</item>
+<item>
+<title>Managing observability costs at scale: A look at the latest cost management features in Grafana Cloud</title>
+<meta property="og:image" content="https://a-us.storyblok.com/f/1022730/1200x628/d82f9c9c33/cost-management-grafana-cloud-meta.png"/>
+<link>https://grafana.com/blog/2025/10/14/managing-observability-costs-at-scale-a-look-at-the-latest-cost-management-features-in-grafana-cloud/?utm_source=grafana_news&utm_medium=rss</link>
+<pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+<guid>https://grafana.com/blog/2025/10/14/managing-observability-costs-at-scale-a-look-at-the-latest-cost-management-features-in-grafana-cloud/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+<description><p>The benefits of observability are clear: deep visibility into system health, faster troubleshooting, and improved reliability (to name a few). But what’s equally clear is that, as organizations scale and evolve their observability strategies, they need a way to tap into these benefits without runaway costs.</p></description>
+</item>
+<item>
+<title>A serverless approach to CI/CD observability with GitLab and Grafana</title>
+<meta property="og:image" content="https://a-us.storyblok.com/f/1022730/1200x628/080f42a8c2/lambda-gitlab-loki-meta.png"/>
+<link>https://grafana.com/blog/2025/10/10/a-serverless-approach-to-ci-cd-observability-with-gitlab-and-grafana/?utm_source=grafana_news&utm_medium=rss</link>
+<pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+<guid>https://grafana.com/blog/2025/10/10/a-serverless-approach-to-ci-cd-observability-with-gitlab-and-grafana/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+<description><p>In today&rsquo;s fast-paced development environment, it&rsquo;s critical that you understand what&rsquo;s happening in your CI/CD pipeline. And yet, many teams struggle with fragmented tooling that makes it difficult to get a holistic view of their dev lifecycle. </p></description>
+</item>
+<item>
+<title>AI-powered observability: Resolve incidents faster, reduce alert fatigue, and expand access</title>
+<meta property="og:image" content="https://a-us.storyblok.com/f/1022730/1920x1080/fe66f9d460/obscon-25-assistant-ga-meta.png"/>
+<link>https://grafana.com/blog/2025/10/08/grafana-assistant-ga-assistant-investigations-preview/?utm_source=grafana_news&utm_medium=rss</link>
+<pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+<guid>https://grafana.com/blog/2025/10/08/grafana-assistant-ga-assistant-investigations-preview/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+<description><p>When an incident lands in your lap, you&rsquo;ll often start with a lot of questions: <em>Why is latency so high? What&rsquo;s causing this outage? How much money are we losing at this very moment?</em></p></description>
+</item>
+<item>
+<title>Maximize data value and cut costs: Adaptive Telemetry for metrics, logs, traces, and profiles in Grafana Cloud</title>
+<meta property="og:image" content="https://a-us.storyblok.com/f/1022730/1920x1080/cb6fe38e72/adaptive-telemetry-meta-2.png"/>
+<link>https://grafana.com/blog/2025/10/08/adaptive-telemetry-suite-in-grafana-cloud/?utm_source=grafana_news&utm_medium=rss</link>
+<pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+<guid>https://grafana.com/blog/2025/10/08/adaptive-telemetry-suite-in-grafana-cloud/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+<description><p>When it comes to observability, more data doesn’t always mean more clarity. In fact, as telemetry volumes grow, it only becomes more difficult to discern the signals from the noise and to keep overall costs in check.</p></description>
+</item>
+<item>
+<title>ObservabilityCON 2025: A guide to all the announcements from Grafana Labs</title>
+<meta property="og:image" content="https://a-us.storyblok.com/f/1022730/1920x1080/7d24606b53/obscon-25-announcements-meta.png"/>
+<link>https://grafana.com/blog/2025/10/08/observabilitycon-2025-announcements/?utm_source=grafana_news&utm_medium=rss</link>
+<pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+<guid>https://grafana.com/blog/2025/10/08/observabilitycon-2025-announcements/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+<description><p>Today at <a href="/events/observabilitycon/?pg=blog&amp;plcmt=body-txt">ObservabilityCON 2025</a> in London, we unveiled a number of exciting announcements and updates to Grafana Cloud that reimagine SaaS economics, simplify the complexity of running your observability stack at scale, and provide AI tooling that&rsquo;s actually useful. (Root cause analysis via chatbot? Yes, please!)</p></description>
+</item>
+<item>
+<title>The observability maturity curve: How IT leaders are shifting from tools to outcomes</title>
+<meta property="og:image" content="https://a-us.storyblok.com/f/1022730/1200x628/8bb36dbba5/etr-survey-meta.png"/>
+<link>https://grafana.com/blog/2025/10/06/the-observability-maturity-curve-how-it-leaders-are-shifting-from-tools-to-outcomes/?utm_source=grafana_news&utm_medium=rss</link>
+<pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+<guid>https://grafana.com/blog/2025/10/06/the-observability-maturity-curve-how-it-leaders-are-shifting-from-tools-to-outcomes/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+<description><p>Observability has come a long way from its origins in monitoring logs and metrics. Today, it sits on a maturity curve: Organizations move from fragmented tool stacks to unified platforms to proactive engineering practices that tie reliability to business outcomes.</p></description>
+</item>
+</channel>
+</rss>
