@@ -1,8 +1,8 @@
 {
-    "RoundsCompleted": 2,
-    "RoundsRemaining": 7,
-    "LastRoundWinner": "KnightRider",
-    "LastRoundFastestAnswer": "PoisonIvy (2.3s)",
-    "LastRoundFastestAnswerTime": 2.3,
-    "LastRoundAllCorrectPercent": 80
+    "rounds_completed": 7,
+    "rounds_remaining": 1,
+    "lastroundwinner": "Knight",
+    "fastest_answer": "Storm (0.51 s)",
+    "answertime": 0.505,
+    "all_correct_percent": 71.41
 }
