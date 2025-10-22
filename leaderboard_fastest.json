@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Poison",
+    "points": 0.83
+  },
+  {
+    "name": "Phoenix",
+    "points": 1.03
+  },
+  {
+    "name": "Knight",
+    "points": 1.08
+  },
+  {
+    "name": "Diamond",
+    "points": 1.23
+  },
+  {
+    "name": "Hammer",
+    "points": 1.34
+  }
+]
