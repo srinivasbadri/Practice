@@ -1,8 +1,8 @@
 {
-    "rounds_completed": 7,
-    "rounds_remaining": 1,
-    "lastroundwinner": "Knight",
-    "fastest_answer": "Storm (0.51 s)",
-    "answertime": 0.505,
-    "all_correct_percent": 71.41
+    "RoundsCompleted": 7,
+    "RoundsRemaining": 1,
+    "LastRoundWinner": "Knight",
+    "LastRoundFastestAnswer": "Storm (0.51 s)",
+    "LastRoundFastestAnswerTime": 0.505,
+    "LastRoundAllCorrect": 71.41
 }
