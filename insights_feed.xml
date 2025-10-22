@@ -3,31 +3,31 @@
 <channel>
 <title>Kahoot Insights Feed</title>
 <description>Latest insights and trends from Kahoot answers and demographics</description>
-<lastBuildDate>Wed, 22 Oct 2025 16:05:21 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Oct 2025 18:42:59 GMT</lastBuildDate>
 <item>
-<title>Top City by Points</title>
-<description>Rajahmundry leads in total points. Fun fact: Fun fact: This city has the most quiz champions!</description>
-<guid>kahoot-insight-1</guid>
+<title>Top Birth City by Points</title>
+<description>Mumbai leads with the highest total points! Fun fact: This city has produced quiz champions across all rounds!</description>
+<guid>insight-1</guid>
 </item>
 <item>
-<title>Most Popular Living City</title>
-<description>Tukwila is the most popular living city among participants. Fun fact: Fun fact: This city is a hub for quiz lovers!</description>
-<guid>kahoot-insight-2</guid>
+<title>Generation Champions</title>
+<description>Millennial generation dominates the leaderboard! Fun fact: Different generations bring unique perspectives to the quiz!</description>
+<guid>insight-2</guid>
 </item>
 <item>
-<title>Living City with Highest Score</title>
-<description>Tukwila has the highest total score. Fun fact: Fun fact: This city is home to many quick thinkers!</description>
-<guid>kahoot-insight-3</guid>
+<title>Speed Demon</title>
+<description>Sb is the fastest correct answerer with 1.45s average! Fun fact: Quick thinking often correlates with higher scores!</description>
+<guid>insight-3</guid>
 </item>
 <item>
-<title>Fastest Group</title>
-<description>Thunder group answers fastest on average. Fun fact: Fun fact: Speedy answers often lead to more points!</description>
-<guid>kahoot-insight-4</guid>
+<title>Overall Accuracy</title>
+<description>Participants achieved 54.5% accuracy across all rounds! Fun fact: This shows the perfect balance of challenge and knowledge!</description>
+<guid>insight-4</guid>
 </item>
 <item>
-<title>Trend Insight</title>
-<description>Total points are trending up! Fun fact: Fun fact: Trends can change with every round!</description>
-<guid>kahoot-insight-5</guid>
+<title>Performance Trend</title>
+<description>Scores are trending up from Round 1 to Round 5! Fun fact: Teams learn and adapt as they progress through rounds!</description>
+<guid>insight-5</guid>
 </item>
 </channel>
 </rss>
