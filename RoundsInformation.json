@@ -1,8 +1,8 @@
 {
-    "RoundsCompleted": 7,
-    "RoundsRemaining": 1,
+    "RoundsCompleted": 6,
+    "RoundsRemaining": 2,
     "LastRoundWinner": "Knight",
-    "LastRoundFastestAnswer": "Storm (0.51 s)",
-    "LastRoundFastestAnswerTime": 0.505,
-    "LastRoundAllCorrectPercent": 71.41
+    "LastRoundFastestAnswer": "Player2 (0.51 s)",
+    "LastRoundFastestAnswerTime": 0.509,
+    "LastRoundAllCorrectPercent": 69.16
 }
