@@ -1,2 +1,66 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Ponmaalai Kahoot Demographic Insights Feed</title><description>A curated feed of top 5 demographic-based insights from the Ponmaalai Music Kahoot Game Show.</description><link>http://ponmaalai.kahoot.local/insights</link><item><title>Millennial Power Surge</title><description>Millennials make up the largest share of Kahoot players, dominating both participation and average scoring. Their energy and recall speed stand out across all rounds, making them the most competitive demographic group.</description><pubDate>Sun, 26 Oct 2025 18:27:50 </pubDate></item><item><title>Gen Z: The Fast Thinkers</title><description>Generation Z participants show exceptional reflexes, averaging the quickest response times—3.4 seconds per question—indicating sharp recall and digital adaptability in trivia-style challenges.</description><pubDate>Sun, 26 Oct 2025 18:27:50 </pubDate></item><item><title>South Indian Roots Shine Bright</title><description>Players born in Warangal, Trivandrum, and Coimbatore frequently top the charts, reflecting how cultural familiarity with Tamil and Telugu cinema deepens music trivia performance.</description><pubDate>Sun, 26 Oct 2025 18:27:50 </pubDate></item><item><title>Seattle Suburb Supremacy</title><description>Participants living in Redmond, Woodinville, and Sammamish exhibit the highest consistency and accuracy rates, likely reflecting strong community participation among South Indian families in these neighborhoods.</description><pubDate>Sun, 26 Oct 2025 18:27:50 </pubDate></item><item><title>Generation X: Steady and Strategic</title><description>Though fewer in number, Generation X participants display remarkable steadiness, maintaining performance levels across rounds with minimal score variation—proof that experience balances speed.</description><pubDate>Sun, 26 Oct 2025 18:27:50 </pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Ponmaalai Music Kahoot – Demographic Insights</title>
+  <link>https://ponmaalai.example/insights</link>
+  <description>Five bite-sized demographic insights from Ponmaalai Music Kahoot.</description>
+  <language>en-us</language>
+  <lastBuildDate>Sun, 26 Oct 2025 21:00:40 GMT</lastBuildDate>
+  <item>
+    <title>Generation Showdown: Generation Z lead on total points</title>
+    <description><![CDATA[Generation Z: ████████████████████ (999345)
+Millennial: ████████████████ (798443)
+
+Total points: 999345 | Δ vs #2: 200902
+
+FUN FACT: Generation Z—often called “Zoomers”—is typically defined as people born 1997–2012 and is the first social generation to grow up with Web 2.0 and digital tech. [cite]]]></description>
+    <pubDate>Sun, 26 Oct 2025 21:00:40 GMT</pubDate>
+    <guid isPermaLink="false">-8195753665576018542</guid>
+  </item>
+  <item>
+    <title>City Powerhouse: Tukwila racks up the most points</title>
+    <description><![CDATA[Tukwila: ████████████████████ (144549)
+Newcastle: ███████████████████ (134147)
+
+Total points: 144549 | Δ vs #2: 10402 | Avg reaction: 4.63s
+
+FUN FACT: Tukwila is home to Westfield Southcenter, the largest shopping mall in Washington state. [cite]]]></description>
+    <pubDate>Sun, 26 Oct 2025 21:00:40 GMT</pubDate>
+    <guid isPermaLink="false">773423978417578757</guid>
+  </item>
+  <item>
+    <title>Accuracy Ace: Gulbarga tops correctness rate</title>
+    <description><![CDATA[Gulbarga: ████████████████████ (80.2%)
+Delhi: ███████████████████ (76.2%)
+
+Total points: 61965 | Δ accuracy vs #2: 4.0pp
+
+FUN FACT: Gulbarga (Kalaburagi) was the first capital of the Bahmani Sultanate in the 14th century. [cite]]]></description>
+    <pubDate>Sun, 26 Oct 2025 21:00:40 GMT</pubDate>
+    <guid isPermaLink="false">1878181808244732745</guid>
+  </item>
+  <item>
+    <title>Round-wise Dominance: Which generation owned each round</title>
+    <description><![CDATA[Round 1 • Generation Z: 385708 (Δ 71563)
+Round 2 • Generation Z: 381113 (Δ 76487)
+Round 3 • Generation Z: 232524 (Δ 52852)
+
+Grand total points across all rounds: 2419480
+
+FUN FACT: The name “Generation Z” continues the sequence after Generation Y (Millennials). [cite]]]></description>
+    <pubDate>Sun, 26 Oct 2025 21:00:40 GMT</pubDate>
+    <guid isPermaLink="false">-4272341529961483089</guid>
+  </item>
+  <item>
+    <title>Momentum & Projection: Generation Z surges in share</title>
+    <description><![CDATA[Round1 → Round3: 41.1% → 42.2%
+Next round (proj): 43.3%
+
+Δ share: 1.1pp
+
+FUN FACT: Most members of Gen Z are children of Generation X. [cite]]]></description>
+    <pubDate>Sun, 26 Oct 2025 21:00:40 GMT</pubDate>
+    <guid isPermaLink="false">8613622243599792848</guid>
+  </item>
+</channel>
+</rss>
