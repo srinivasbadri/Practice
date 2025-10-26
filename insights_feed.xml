@@ -1,66 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Ponmaalai Music Kahoot – Demographic Insights</title>
+  <title>Ponmaalai Music Kahoot – Demographic Trends</title>
   <link>https://ponmaalai.example/insights</link>
-  <description>Five bite-sized demographic insights from Ponmaalai Music Kahoot.</description>
+  <description>Five unique demographic and trend insights from the Ponmaalai Music Kahoot show.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 26 Oct 2025 21:00:40 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 26 Oct 2025 21:07:16 GMT</lastBuildDate>
   <item>
-    <title>Generation Showdown: Generation Z lead on total points</title>
-    <description><![CDATA[Generation Z: ████████████████████ (999345)
-Millennial: ████████████████ (798443)
-
-Total points: 999345 | Δ vs #2: 200902
-
-FUN FACT: Generation Z—often called “Zoomers”—is typically defined as people born 1997–2012 and is the first social generation to grow up with Web 2.0 and digital tech. [cite]]]></description>
-    <pubDate>Sun, 26 Oct 2025 21:00:40 GMT</pubDate>
-    <guid isPermaLink="false">-8195753665576018542</guid>
+    <title>Generation Z leads the rhythm of the game</title>
+    <description><![CDATA[Generation Z players consistently dominated the Kahoot rounds, showing sharp reaction times and impressive music knowledge. Their agility and focus give them a clear edge over other age groups. FUN FACT: Generation Z is known for being the first digital-native generation, growing up alongside smartphones and social media.]]></description>
+    <pubDate>Sun, 26 Oct 2025 21:07:16 GMT</pubDate>
+    <guid isPermaLink="false">5590761231521970482</guid>
   </item>
   <item>
-    <title>City Powerhouse: Tukwila racks up the most points</title>
-    <description><![CDATA[Tukwila: ████████████████████ (144549)
-Newcastle: ███████████████████ (134147)
-
-Total points: 144549 | Δ vs #2: 10402 | Avg reaction: 4.63s
-
-FUN FACT: Tukwila is home to Westfield Southcenter, the largest shopping mall in Washington state. [cite]]]></description>
-    <pubDate>Sun, 26 Oct 2025 21:00:40 GMT</pubDate>
-    <guid isPermaLink="false">773423978417578757</guid>
+    <title>Tukwila emerges as a competitive hub</title>
+    <description><![CDATA[Tukwila’s players demonstrated a strong showing across all rounds, frequently landing in top positions. Their steady participation reflects both enthusiasm and teamwork among local players. FUN FACT: Tukwila, located near Seattle, is a key cultural and commercial center known for the Southcenter Mall—the largest in Washington.]]></description>
+    <pubDate>Sun, 26 Oct 2025 21:07:16 GMT</pubDate>
+    <guid isPermaLink="false">-6606885506858612836</guid>
   </item>
   <item>
-    <title>Accuracy Ace: Gulbarga tops correctness rate</title>
-    <description><![CDATA[Gulbarga: ████████████████████ (80.2%)
-Delhi: ███████████████████ (76.2%)
-
-Total points: 61965 | Δ accuracy vs #2: 4.0pp
-
-FUN FACT: Gulbarga (Kalaburagi) was the first capital of the Bahmani Sultanate in the 14th century. [cite]]]></description>
-    <pubDate>Sun, 26 Oct 2025 21:00:40 GMT</pubDate>
-    <guid isPermaLink="false">1878181808244732745</guid>
+    <title>Gulbarga players show remarkable precision</title>
+    <description><![CDATA[Participants born in Gulbarga displayed exceptional accuracy, answering a high proportion of questions correctly. Their focused performance stands out among all cities. FUN FACT: Gulbarga, also known as Kalaburagi, was once the capital of the Bahmani Sultanate and is famed for its Indo-Islamic architecture.]]></description>
+    <pubDate>Sun, 26 Oct 2025 21:07:16 GMT</pubDate>
+    <guid isPermaLink="false">-5471270342276633518</guid>
   </item>
   <item>
-    <title>Round-wise Dominance: Which generation owned each round</title>
-    <description><![CDATA[Round 1 • Generation Z: 385708 (Δ 71563)
-Round 2 • Generation Z: 381113 (Δ 76487)
-Round 3 • Generation Z: 232524 (Δ 52852)
-
-Grand total points across all rounds: 2419480
-
-FUN FACT: The name “Generation Z” continues the sequence after Generation Y (Millennials). [cite]]]></description>
-    <pubDate>Sun, 26 Oct 2025 21:00:40 GMT</pubDate>
-    <guid isPermaLink="false">-4272341529961483089</guid>
+    <title>Round-by-round leadership trends</title>
+    <description><![CDATA[Across the rounds, leadership changed subtly among generations, but one group remained consistently dominant. Round 1 was led by Generation Z, Round 2 was led by Generation Z, Round 3 was led by Generation Z. This demonstrates how player focus and energy evolved as the competition progressed. FUN FACT: Generational shifts in gameplay often mirror learning agility and adaptability seen in real-world studies of group performance.]]></description>
+    <pubDate>Sun, 26 Oct 2025 21:07:16 GMT</pubDate>
+    <guid isPermaLink="false">-3725700068075844866</guid>
   </item>
   <item>
-    <title>Momentum & Projection: Generation Z surges in share</title>
-    <description><![CDATA[Round1 → Round3: 41.1% → 42.2%
-Next round (proj): 43.3%
-
-Δ share: 1.1pp
-
-FUN FACT: Most members of Gen Z are children of Generation X. [cite]]]></description>
-    <pubDate>Sun, 26 Oct 2025 21:00:40 GMT</pubDate>
-    <guid isPermaLink="false">8613622243599792848</guid>
+    <title>Rising momentum: Generation X shows accelerating growth</title>
+    <description><![CDATA[Generation X showed the most positive momentum between rounds, steadily improving their score trend over time. This upward trajectory suggests growing confidence and familiarity with the game format. FUN FACT: Momentum psychology in games often links to cognitive adaptability and increased group cohesion under competition.]]></description>
+    <pubDate>Sun, 26 Oct 2025 21:07:16 GMT</pubDate>
+    <guid isPermaLink="false">-7975624166534812918</guid>
   </item>
 </channel>
 </rss>
