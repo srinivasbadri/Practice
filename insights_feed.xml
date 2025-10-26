@@ -1,33 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>Kahoot Insights Feed</title>
-<description>Latest insights and trends from Kahoot answers and demographics</description>
-<lastBuildDate>Wed, 22 Oct 2025 18:42:59 GMT</lastBuildDate>
+<title>Ponmaalai Music Kahoot — Demographic Insights (Top 5)</title>
+<link>https://example.invalid/ponmaalai</link>
+<description>Visual-first insights; no nicknames, only demographic trends with totals and deltas annotated in the images.</description>
+<lastBuildDate>Sun, 26 Oct 2025 17:43:31 GMT</lastBuildDate>
 <item>
-<title>Top Birth City by Points</title>
-<description>Mumbai leads with the highest total points! Fun fact: This city has produced quiz champions across all rounds!</description>
-<guid>insight-1</guid>
+<title>Top 5 Combos: Generation × Current City</title>
+<pubDate>Sun, 26 Oct 2025 17:43:31 GMT</pubDate>
+<guid isPermaLink="false">insight1-Sun, 26 Oct 2025 17:43:31 GMT</guid>
+<description><![CDATA[<img src="insight1_gen_city.png" alt="Top 5 Combos: Generation × Current City" /><br/>Fun fact: Generation X is often nicknamed the “Latchkey Generation,” reflecting their early independence.]]></description>
+<enclosure url="insight1_gen_city.png" length="/mnt/data/insight1_gen_city.png" type="image/png" />
 </item>
 <item>
-<title>Generation Champions</title>
-<description>Millennial generation dominates the leaderboard! Fun fact: Different generations bring unique perspectives to the quiz!</description>
-<guid>insight-2</guid>
+<title>Top Generations by Total Points</title>
+<pubDate>Sun, 26 Oct 2025 17:43:31 GMT</pubDate>
+<guid isPermaLink="false">insight2-Sun, 26 Oct 2025 17:43:31 GMT</guid>
+<description><![CDATA[<img src="insight2_generations.png" alt="Top Generations by Total Points" /><br/>Fun fact: Generation X is typically defined as people born from 1965 to 1980.]]></description>
+<enclosure url="insight2_generations.png" length="/mnt/data/insight2_generations.png" type="image/png" />
 </item>
 <item>
-<title>Speed Demon</title>
-<description>Sb is the fastest correct answerer with 1.45s average! Fun fact: Quick thinking often correlates with higher scores!</description>
-<guid>insight-3</guid>
+<title>Top Cities by Total Points</title>
+<pubDate>Sun, 26 Oct 2025 17:43:31 GMT</pubDate>
+<guid isPermaLink="false">insight3-Sun, 26 Oct 2025 17:43:31 GMT</guid>
+<description><![CDATA[<img src="insight3_cities.png" alt="Top Cities by Total Points" /><br/>Fun fact: Kirkland was the original home of the Seattle Seahawks’ headquarters and training facility (through 2007).]]></description>
+<enclosure url="insight3_cities.png" length="/mnt/data/insight3_cities.png" type="image/png" />
 </item>
 <item>
-<title>Overall Accuracy</title>
-<description>Participants achieved 54.5% accuracy across all rounds! Fun fact: This shows the perfect balance of challenge and knowledge!</description>
-<guid>insight-4</guid>
+<title>Generational Momentum: Round 7 vs Projected Round 8</title>
+<pubDate>Sun, 26 Oct 2025 17:43:31 GMT</pubDate>
+<guid isPermaLink="false">insight4-Sun, 26 Oct 2025 17:43:31 GMT</guid>
+<description><![CDATA[<img src="insight4_momentum.png" alt="Generational Momentum: Round 7 vs Projected Round 8" /><br/>Fun fact: Generation X sits between the Baby Boomers and Millennials and numbered about 65 million in the U.S. in 2019.]]></description>
+<enclosure url="insight4_momentum.png" length="/mnt/data/insight4_momentum.png" type="image/png" />
 </item>
 <item>
-<title>Performance Trend</title>
-<description>Scores are trending up from Round 1 to Round 5! Fun fact: Teams learn and adapt as they progress through rounds!</description>
-<guid>insight-5</guid>
+<title>Rising Cities: Momentum (Rounds 5–7 minus 1–3)</title>
+<pubDate>Sun, 26 Oct 2025 17:43:31 GMT</pubDate>
+<guid isPermaLink="false">insight5-Sun, 26 Oct 2025 17:43:31 GMT</guid>
+<description><![CDATA[<img src="insight5_rising_cities.png" alt="Rising Cities: Momentum (Rounds 5–7 minus 1–3)" /><br/>Fun fact: Everett hosts Boeing’s Everett Factory, the world’s largest building by volume.]]></description>
+<enclosure url="insight5_rising_cities.png" length="/mnt/data/insight5_rising_cities.png" type="image/png" />
 </item>
 </channel>
 </rss>
