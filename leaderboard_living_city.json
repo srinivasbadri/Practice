@@ -1,22 +1,22 @@
 [
   {
     "name": "Bothell",
-    "points": 14008
-  },
-  {
-    "name": "Sammamish",
-    "points": 13587
-  },
-  {
-    "name": "Redmond",
-    "points": 13515
+    "points": 5794
   },
   {
     "name": "Seattle",
-    "points": 9532
+    "points": 5711
   },
   {
-    "name": "Bellevue",
-    "points": 5445
+    "name": "Redmond",
+    "points": 4471
+  },
+  {
+    "name": "Sammamish",
+    "points": 3625
+  },
+  {
+    "name": "Woodinville",
+    "points": 827
   }
 ]
