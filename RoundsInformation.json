@@ -1,8 +1,8 @@
 {
-    "RoundsCompleted": 6,
-    "RoundsRemaining": 2,
-    "LastRoundWinner": "Knight",
-    "LastRoundFastestAnswer": "Player2 (0.51 s)",
-    "LastRoundFastestAnswerTime": 0.509,
-    "LastRoundAllCorrectPercent": 69.16
+    "RoundsCompleted": 1,
+    "RoundsRemaining": 7,
+    "LastRoundWinner": "sahana",
+    "LastRoundFastestAnswer": "saanvi (0.63 s)",
+    "LastRoundFastestAnswerTime": 0.629,
+    "LastRoundAllCorrectPercent": 28.57
 }

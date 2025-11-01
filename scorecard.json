@@ -1,51 +1,9 @@
 [
     {
         "round": "Round 1",
-        "fastest": "Summit",
-        "fastesttime": 0.519,
-        "pointsleader": "Knight",
-        "points": 5894
-    },
-    {
-        "round": "Round 2",
-        "fastest": "Photon",
-        "fastesttime": 0.503,
-        "pointsleader": "Knight",
-        "points": 7815
-    },
-    {
-        "round": "Round 3",
-        "fastest": "Ghost",
-        "fastesttime": 0.501,
-        "pointsleader": "Knight",
-        "points": 5240
-    },
-    {
-        "round": "Round 4",
-        "fastest": "Chip",
-        "fastesttime": 0.502,
-        "pointsleader": "Hero9",
-        "points": 4618
-    },
-    {
-        "round": "Round 5",
-        "fastest": "Protector",
-        "fastesttime": 0.506,
-        "pointsleader": "Knight",
-        "points": 4326
-    },
-    {
-        "round": "Round 6",
-        "fastest": "Player2",
-        "fastesttime": 0.509,
-        "pointsleader": "Knight",
-        "points": 5821
-    },
-    {
-        "round": "Round 7",
-        "fastest": "Swift",
-        "fastesttime": 0.501,
-        "pointsleader": "Knight",
-        "points": 10049
+        "fastest": "saanvi",
+        "fastesttime": 0.629,
+        "pointsleader": "sahana",
+        "points": 4514
     }
 ]

@@ -1,22 +1,22 @@
 [
   {
-    "name": "Tukwila",
-    "points": 381041
+    "name": "Sammamish",
+    "points": 5016
+  },
+  {
+    "name": "Redmond",
+    "points": 4925
+  },
+  {
+    "name": "Bellevue",
+    "points": 4514
   },
   {
     "name": "Seattle",
-    "points": 351677
+    "points": 2885
   },
   {
-    "name": "Auburn",
-    "points": 348442
-  },
-  {
-    "name": "Newcastle",
-    "points": 343526
-  },
-  {
-    "name": "Everett",
-    "points": 334778
+    "name": "Bothell",
+    "points": 2619
   }
 ]

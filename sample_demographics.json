@@ -1,77 +1,5 @@
 [
   {
-    "nickname": "Chrisworswick",
-    "birth_city": "Delhi",
-    "living_city": "Seattle",
-    "generation": "Baby Boomer (Born 1946–1964)",
-    "birth_city_geohash": "ttnfxqfm",
-    "living_city_geohash": ""
-  },
-  {
-    "nickname": "Jeevi",
-    "birth_city": "Vellore",
-    "living_city": "Seattle",
-    "generation": "Generation Alpha (Born 2010–2024)",
-    "birth_city_geohash": "",
-    "living_city_geohash": ""
-  },
-  {
-    "nickname": "Rajinikanth",
-    "birth_city": "Chennai",
-    "living_city": "Renton",
-    "generation": "Generation X (Born 1965–1980)",
-    "birth_city_geohash": "tf346tek",
-    "living_city_geohash": ""
-  },
-  {
-    "nickname": "Annihilation",
-    "birth_city": "Kollam",
-    "living_city": "Redmond",
-    "generation": "Gen Z (Born 1997–2010)",
-    "birth_city_geohash": "t9weterb",
-    "living_city_geohash": "c23pjncc"
-  },
-  {
-    "nickname": "mathew",
-    "birth_city": "Kochi",
-    "living_city": "Seattle",
-    "generation": "Generation Alpha (Born 2010–2024)",
-    "birth_city_geohash": "",
-    "living_city_geohash": ""
-  },
-  {
-    "nickname": "Kavya",
-    "birth_city": "Chennai",
-    "living_city": "Bothell",
-    "generation": "Gen Z (Born 1997–2010)",
-    "birth_city_geohash": "tf346tek",
-    "living_city_geohash": "c23penue"
-  },
-  {
-    "nickname": "HiFive",
-    "birth_city": "Chennai",
-    "living_city": "Sammamish",
-    "generation": "Millennial (Born 1981–1996)",
-    "birth_city_geohash": "tf346tek",
-    "living_city_geohash": ""
-  },
-  {
-    "nickname": "Kavya",
-    "birth_city": "Chennai",
-    "living_city": "Bothell",
-    "generation": "Gen Z (Born 1997–2010)",
-    "birth_city_geohash": "tf346tek",
-    "living_city_geohash": "c23penue"
-  },
-  {
-    "nickname": "pavana",
-    "birth_city": "Bhachau",
-    "living_city": "Seattle",
-    "generation": "Generation Alpha (Born 2010–2024)",
-    "birth_city_geohash": "",
-    "living_city_geohash": ""
-  },
-  {
     "nickname": "AA1",
     "birth_city": "Salem",
     "living_city": "Woodinville",
@@ -80,25 +8,17 @@
     "living_city_geohash": ""
   },
   {
-    "nickname": "Peshkar3",
-    "birth_city": "Hyderabad",
-    "living_city": "Redmond",
-    "generation": "Millennial (Born 1981–1996)",
-    "birth_city_geohash": "tepferpe",
-    "living_city_geohash": "c23pjncc"
-  },
-  {
-    "nickname": "Kk66",
-    "birth_city": "Hyderabad",
-    "living_city": "Redmond",
-    "generation": "Millennial (Born 1981–1996)",
-    "birth_city_geohash": "tepferpe",
-    "living_city_geohash": "c23pjncc"
-  },
-  {
     "nickname": "Aby",
     "birth_city": "Country: India (IN)\nState: Tamil Nadu",
     "living_city": "Lynnwood",
+    "generation": "Gen Z (Born 1997–2010)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "Annihilation",
+    "birth_city": "Kollam",
+    "living_city": "Redmond",
     "generation": "Gen Z (Born 1997–2010)",
     "birth_city_geohash": "",
     "living_city_geohash": ""
@@ -112,10 +32,58 @@
     "living_city_geohash": ""
   },
   {
-    "nickname": "nithila",
-    "birth_city": "Ottapalam",
+    "nickname": "Chester",
+    "birth_city": "Asarganj",
+    "living_city": "Redmond",
+    "generation": "",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "Chrisworswick",
+    "birth_city": "Delhi",
+    "living_city": "Seattle",
+    "generation": "Baby Boomer (Born 1946–1964)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "HiFive",
+    "birth_city": "Chennai",
     "living_city": "Sammamish",
+    "generation": "Millennial (Born 1981–1996)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "Jeevi",
+    "birth_city": "Vellore",
+    "living_city": "Seattle",
+    "generation": "Generation Alpha (Born 2010–2024)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "Kavya",
+    "birth_city": "Chennai",
+    "living_city": "Bothell",
     "generation": "Gen Z (Born 1997–2010)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "Kavya",
+    "birth_city": "Chennai",
+    "living_city": "Bothell",
+    "generation": "Gen Z (Born 1997–2010)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "Kk66",
+    "birth_city": "Hyderabad",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)",
     "birth_city_geohash": "",
     "living_city_geohash": ""
   },
@@ -124,31 +92,63 @@
     "birth_city": "Ernakulam",
     "living_city": "Redmond",
     "generation": "Gen Z (Born 1997–2010)",
-    "birth_city_geohash": "t9y2dzhr",
-    "living_city_geohash": "c23pjncc"
-  },
-  {
-    "nickname": "sahana",
-    "birth_city": "Chennai",
-    "living_city": "Bellevue",
-    "generation": "Gen Z (Born 1997–2010)",
-    "birth_city_geohash": "tf346tek",
-    "living_city_geohash": "c23ng5ps"
-  },
-  {
-    "nickname": "Chester",
-    "birth_city": "Asarganj",
-    "living_city": "Redmond",
-    "generation": "",
     "birth_city_geohash": "",
-    "living_city_geohash": "c23pjncc"
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "mathew",
+    "birth_city": "Kochi",
+    "living_city": "Seattle",
+    "generation": "Generation Alpha (Born 2010–2024)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "nithila",
+    "birth_city": "Ottapalam",
+    "living_city": "Sammamish",
+    "generation": "Gen Z (Born 1997–2010)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "pavana",
+    "birth_city": "Bhachau",
+    "living_city": "Seattle",
+    "generation": "Generation Alpha (Born 2010–2024)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "Peshkar3",
+    "birth_city": "Hyderabad",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "Rajinikanth",
+    "birth_city": "Chennai",
+    "living_city": "Renton",
+    "generation": "Generation X (Born 1965–1980)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
   },
   {
     "nickname": "saanvi",
     "birth_city": "Chennai",
     "living_city": "Seattle",
     "generation": "Gen Z (Born 1997–2010)",
-    "birth_city_geohash": "tf346tek",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "sahana",
+    "birth_city": "Chennai",
+    "living_city": "Bellevue",
+    "generation": "Gen Z (Born 1997–2010)",
+    "birth_city_geohash": "",
     "living_city_geohash": ""
   },
   {
@@ -156,8 +156,8 @@
     "birth_city": "Chennai",
     "living_city": "Bothell",
     "generation": "Generation X (Born 1965–1980)",
-    "birth_city_geohash": "tf346tek",
-    "living_city_geohash": "c23penue"
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
   },
   {
     "nickname": "Trey",
