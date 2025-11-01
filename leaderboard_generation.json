@@ -1,18 +1,14 @@
 [
   {
     "name": "Gen Z (Born 1997–2010)",
-    "points": 7477
+    "points": 16941
   },
   {
     "name": "Millennial (Born 1981–1996)",
-    "points": 5359
+    "points": 4171
   },
   {
     "name": "Generation X (Born 1965–1980)",
-    "points": 3830
-  },
-  {
-    "name": "Generation Alpha (Born 2010–2024)",
-    "points": 3762
+    "points": 567
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
     "name": "Chennai",
-    "points": 9595
-  },
-  {
-    "name": "Bhachau",
-    "points": 3762
-  },
-  {
-    "name": "Hyderabad",
-    "points": 3507
+    "points": 11704
   },
   {
     "name": "Ottapalam",
-    "points": 1773
+    "points": 3330
   },
   {
-    "name": "Ernakulam",
-    "points": 964
+    "name": "Hyderabad",
+    "points": 2485
+  },
+  {
+    "name": "Kollam",
+    "points": 2440
+  },
+  {
+    "name": "Salem",
+    "points": 1720
   }
 ]
