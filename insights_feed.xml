@@ -1,57 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-<title>Ponmaalai IPL News</title>
-<description></description>
-<link>https://ponmaalai.example.com/</link>
-<item>
-<title>Generation showdown – Generation Z pulling ahead</title>
-<description><![CDATA[██████████ Generation Z: 1375507 pts
-████████ Millennial: 1103239 pts
-██████ Generation X: 863047 pts
-Δ to next: 272268 pts
-Fun fact: Gen Z is the first generation to grow up fully mobile-first.]]></description>
-<pubDate>Sun, 02 Nov 2025 18:43:32 +0000</pubDate>
-<guid>gen-showdown</guid>
-</item><item>
-<title>Birth-city boost – Rajahmundry on top</title>
-<description><![CDATA[██████████ Rajahmundry: 163849 pts
-████████ Mangalore: 144413 pts
-████████ Nellore: 142837 pts
-████████ Davanagere: 138597 pts
-Δ to next: 19436 pts
-Fun fact: Rajahmundry has produced many artists and professionals.]]></description>
-<pubDate>Sun, 02 Nov 2025 18:43:32 +0000</pubDate>
-<guid>birth-city</guid>
-</item><item>
-<title>Living-city rivalry – Tukwila leads the scoreboard</title>
-<description><![CDATA[██████████ Tukwila: 195790 pts
-█████████ Seattle: 187446 pts
-█████████ Everett: 181056 pts
-█████████ Newcastle: 179571 pts
-Δ to next: 8344 pts
-Fun fact: Tukwila is an active hub for the players in this game.]]></description>
-<pubDate>Sun, 02 Nov 2025 18:43:32 +0000</pubDate>
-<guid>living-city</guid>
-</item><item>
-<title>Combo chemistry – Erode → Seattle is the hottest route</title>
-<description><![CDATA[██████████ Erode → Seattle: 42844 pts
-████████ Mumbai → Seattle: 37571 pts
-███████ Kakinada → Everett: 33111 pts
-███████ Warangal → Shoreline: 30081 pts
-Δ to next: 5273 pts
-Fun fact: Players born in Erode show strong mobility.]]></description>
-<pubDate>Sun, 02 Nov 2025 18:43:32 +0000</pubDate>
-<guid>combo-chemistry</guid>
-</item><item>
-<title>Demographic trend tracker & playful projection</title>
-<description><![CDATA[█████ → ████ → ███ → ████ Generation Z (Round 1:385708 | Round 2:381113 | Round 3:232524 | Round 4:376162) Δ last:143638 proj:519800
-Fun fact: Gen Z is the first generation to grow up fully mobile-first.
-█████ → ████ → ███ → ████ Millennial (Round 1:314145 | Round 2:304626 | Round 3:179672 | Round 4:304796) Δ last:125124 proj:429920
-Fun fact: Millennials grew up during the rise of the internet and social media.
-████ → █████ → ███ → ████ Generation X (Round 1:239512 | Round 2:243337 | Round 3:138843 | Round 4:241355) Δ last:102512 proj:343867]]></description>
-<pubDate>Sun, 02 Nov 2025 18:43:32 +0000</pubDate>
-<guid>trend-tracker</guid>
-</item>
+    <title>Ponmaalai IPL News</title>
+    <description></description>
+    <lastBuildDate>Sun, 02 Nov 2025 18:55:09 </lastBuildDate>
+    <language>en-us</language>
+    
+    <item>
+        <title>Generation Z players from Rajahmundry dominate with 88949 points!</title>
+        <description>Average reaction time: 4.29s. Accuracy: 72.22%. Total points delta: 29006.0. 
+Fun Fact: Rajahmundry is known for its unique contribution to Indian culture according to Wikipedia.</description>
+        <pubDate>Sun, 02 Nov 2025 18:55:09 </pubDate>
+    </item>
+    
+    <item>
+        <title>Generation Z players from Kakinada dominate with 78894 points!</title>
+        <description>Average reaction time: 4.62s. Accuracy: 73.81%. Total points delta: 31563.0. 
+Fun Fact: Kakinada is known for its unique contribution to Indian culture according to Wikipedia.</description>
+        <pubDate>Sun, 02 Nov 2025 18:55:09 </pubDate>
+    </item>
+    
+    <item>
+        <title>Generation Z players from Karur dominate with 75215 points!</title>
+        <description>Average reaction time: 4.47s. Accuracy: 69.84%. Total points delta: 19824.0. 
+Fun Fact: Karur is known for its unique contribution to Indian culture according to Wikipedia.</description>
+        <pubDate>Sun, 02 Nov 2025 18:55:09 </pubDate>
+    </item>
+    
+    <item>
+        <title>Millennial players from Delhi dominate with 72092 points!</title>
+        <description>Average reaction time: 4.64s. Accuracy: 77.78%. Total points delta: 16173.0. 
+Fun Fact: Delhi is known for its unique contribution to Indian culture according to Wikipedia.</description>
+        <pubDate>Sun, 02 Nov 2025 18:55:09 </pubDate>
+    </item>
+    
+    <item>
+        <title>Millennial players from Mangalore dominate with 68049 points!</title>
+        <description>Average reaction time: 4.51s. Accuracy: 75.00%. Total points delta: 48132.0. 
+Fun Fact: Mangalore is known for its unique contribution to Indian culture according to Wikipedia.</description>
+        <pubDate>Sun, 02 Nov 2025 18:55:09 </pubDate>
+    </item>
+    
 </channel>
 </rss>
