@@ -1,23 +1,9 @@
 [
     {
         "round": "Round 1",
-        "fastest": "saanvi",
-        "fastesttime": 0.629,
-        "pointsleader": "sahana",
-        "points": 4514
-    },
-    {
-        "round": "Round 2",
-        "fastest": "Kavya",
-        "fastesttime": 0.85,
-        "pointsleader": "Thiagu",
-        "points": 4626
-    },
-    {
-        "round": "Round 3",
-        "fastest": "Kavya",
-        "fastesttime": 0.553,
-        "pointsleader": "sujaa",
-        "points": 3830
+        "fastest": "jodha",
+        "fastesttime": 0.287,
+        "pointsleader": "Sri",
+        "points": 4311
     }
 ]
