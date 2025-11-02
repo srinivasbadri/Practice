@@ -2,23 +2,23 @@
   {
     "nickname": "ss123",
     "birth_city": "Moirang",
-    "living_city": "undefined",
+    "living_city": "other",
     "generation": "Gen Z (Born 1997–2010)",
     "birth_city_geohash": "",
     "living_city_geohash": ""
   },
   {
     "nickname": "ss123",
-    "birth_city": "No city in this state.",
-    "living_city": "undefined",
+    "birth_city": "other",
+    "living_city": "other",
     "generation": "Millennial (Born 1981–1996)",
     "birth_city_geohash": "",
     "living_city_geohash": ""
   },
   {
     "nickname": "example123",
-    "birth_city": "undefined",
-    "living_city": "undefined",
+    "birth_city": "other",
+    "living_city": "other",
     "generation": "Baby Boomer (Born 1946–1964)",
     "birth_city_geohash": "",
     "living_city_geohash": ""
