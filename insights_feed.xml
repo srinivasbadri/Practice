@@ -1,2 +1,57 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Ponmaalai IPL News</title><link>https://ponmaalai.example/kahoot/insights</link><description /><lastBuildDate>Sun, 02 Nov 2025 17:36:23 +0000</lastBuildDate><language>en-us</language><item><title>Gulbarga + Generation X lead pack</title><description>Total points: 4295. Avg points: 859.0. Delta vs demographic avg: +258.1. Signal: Generation X players born in Gulbarga are outperforming other location–generation mixes in this round. Fun fact – Gulbarga: Gulbarga, now Kalaburagi, was a key seat of the Bahmani Sultanate. Fun fact – Generation X: Gen X bridged the pre-digital and early-internet eras.</description><pubDate>Sun, 02 Nov 2025 12:00:00 +0000</pubDate><guid>ponmaalai:insight:1</guid></item><item><title>Tirunelveli + Generation X lead pack</title><description>Total points: 4246. Avg points: 849.2. Delta vs demographic avg: +248.3. Signal: Generation X players born in Tirunelveli are outperforming other location–generation mixes in this round. Fun fact – Tirunelveli: Tirunelveli is known for the iconic Nellaiappar Temple. Fun fact – Generation X: Gen X bridged the pre-digital and early-internet eras.</description><pubDate>Sun, 02 Nov 2025 11:57:00 +0000</pubDate><guid>ponmaalai:insight:2</guid></item><item><title>Thanjavur + Generation X lead pack</title><description>Total points: 7802. Avg points: 780.2. Delta vs demographic avg: +179.3. Signal: Generation X players born in Thanjavur are outperforming other location–generation mixes in this round. Fun fact – Thanjavur: Thanjavur was the Chola capital and is famed for Brihadisvara Temple. Fun fact – Generation X: Gen X bridged the pre-digital and early-internet eras.</description><pubDate>Sun, 02 Nov 2025 11:54:00 +0000</pubDate><guid>ponmaalai:insight:3</guid></item><item><title>Jaipur + Generation Z lead pack</title><description>Total points: 15405. Avg points: 770.2. Delta vs demographic avg: +169.3. Signal: Generation Z players born in Jaipur are outperforming other location–generation mixes in this round. Fun fact – Jaipur: Jaipur, the Pink City, was laid out with early modern urban planning. Fun fact – Generation Z: Gen Z is always-connected and highly visual in learning.</description><pubDate>Sun, 02 Nov 2025 11:51:00 +0000</pubDate><guid>ponmaalai:insight:4</guid></item><item><title>Rajahmundry + Millennial lead pack</title><description>Total points: 11540. Avg points: 769.3. Delta vs demographic avg: +168.4. Signal: Millennial players born in Rajahmundry are outperforming other location–generation mixes in this round. Fun fact – Rajahmundry: Rajahmundry on the Godavari is among Andhra’s oldest cultural hubs. Fun fact – Millennial: Millennials are the crossover generation for mobile + social.</description><pubDate>Sun, 02 Nov 2025 11:48:00 +0000</pubDate><guid>ponmaalai:insight:5</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Ponmaalai IPL News</title>
+<description></description>
+<link>https://ponmaalai.example.com/</link>
+<item>
+<title>Generation showdown – Generation Z pulling ahead</title>
+<description><![CDATA[██████████ Generation Z: 1375507 pts
+████████ Millennial: 1103239 pts
+██████ Generation X: 863047 pts
+Δ to next: 272268 pts
+Fun fact: Gen Z is the first generation to grow up fully mobile-first.]]></description>
+<pubDate>Sun, 02 Nov 2025 18:43:32 +0000</pubDate>
+<guid>gen-showdown</guid>
+</item><item>
+<title>Birth-city boost – Rajahmundry on top</title>
+<description><![CDATA[██████████ Rajahmundry: 163849 pts
+████████ Mangalore: 144413 pts
+████████ Nellore: 142837 pts
+████████ Davanagere: 138597 pts
+Δ to next: 19436 pts
+Fun fact: Rajahmundry has produced many artists and professionals.]]></description>
+<pubDate>Sun, 02 Nov 2025 18:43:32 +0000</pubDate>
+<guid>birth-city</guid>
+</item><item>
+<title>Living-city rivalry – Tukwila leads the scoreboard</title>
+<description><![CDATA[██████████ Tukwila: 195790 pts
+█████████ Seattle: 187446 pts
+█████████ Everett: 181056 pts
+█████████ Newcastle: 179571 pts
+Δ to next: 8344 pts
+Fun fact: Tukwila is an active hub for the players in this game.]]></description>
+<pubDate>Sun, 02 Nov 2025 18:43:32 +0000</pubDate>
+<guid>living-city</guid>
+</item><item>
+<title>Combo chemistry – Erode → Seattle is the hottest route</title>
+<description><![CDATA[██████████ Erode → Seattle: 42844 pts
+████████ Mumbai → Seattle: 37571 pts
+███████ Kakinada → Everett: 33111 pts
+███████ Warangal → Shoreline: 30081 pts
+Δ to next: 5273 pts
+Fun fact: Players born in Erode show strong mobility.]]></description>
+<pubDate>Sun, 02 Nov 2025 18:43:32 +0000</pubDate>
+<guid>combo-chemistry</guid>
+</item><item>
+<title>Demographic trend tracker & playful projection</title>
+<description><![CDATA[█████ → ████ → ███ → ████ Generation Z (Round 1:385708 | Round 2:381113 | Round 3:232524 | Round 4:376162) Δ last:143638 proj:519800
+Fun fact: Gen Z is the first generation to grow up fully mobile-first.
+█████ → ████ → ███ → ████ Millennial (Round 1:314145 | Round 2:304626 | Round 3:179672 | Round 4:304796) Δ last:125124 proj:429920
+Fun fact: Millennials grew up during the rise of the internet and social media.
+████ → █████ → ███ → ████ Generation X (Round 1:239512 | Round 2:243337 | Round 3:138843 | Round 4:241355) Δ last:102512 proj:343867]]></description>
+<pubDate>Sun, 02 Nov 2025 18:43:32 +0000</pubDate>
+<guid>trend-tracker</guid>
+</item>
+</channel>
+</rss>
