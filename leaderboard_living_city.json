@@ -1,22 +1,22 @@
 [
   {
-    "name": "Bothell",
-    "points": 6113
-  },
-  {
-    "name": "Sammamish",
-    "points": 4311
+    "name": "other",
+    "points": 8903
   },
   {
     "name": "Redmond",
-    "points": 3418
-  },
-  {
-    "name": "Lynnwood",
-    "points": 2506
+    "points": 8090
   },
   {
     "name": "Bellevue",
-    "points": 1563
+    "points": 4952
+  },
+  {
+    "name": "Bothell",
+    "points": 0
+  },
+  {
+    "name": "BOTHELL",
+    "points": 0
   }
 ]
