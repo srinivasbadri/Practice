@@ -1,45 +1,35 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-    <title>Ponmaalai IPL News</title>
-    <description></description>
-    <lastBuildDate>Sun, 02 Nov 2025 18:55:09 </lastBuildDate>
-    <language>en-us</language>
-    
+<title>Ponmaalai IPL News</title>
+<description></description>
+<link>https://ponmaalai-insights.example.com</link>
+<lastBuildDate>Mon, 03 Nov 2025 02:42:13 </lastBuildDate>
+
     <item>
-        <title>Generation Z players from Rajahmundry dominate with 88949 points!</title>
-        <description>Average reaction time: 4.29s. Accuracy: 72.22%. Total points delta: 29006.0. 
-Fun Fact: Rajahmundry is known for its unique contribution to Indian culture according to Wikipedia.</description>
-        <pubDate>Sun, 02 Nov 2025 18:55:09 </pubDate>
+        <title>Fast Minds, Right Minds</title>
+        <description>Players who answered correctly were on average 5.55 seconds faster than those who were wrong. Accuracy clearly rewarded speed!
+        <br/><b>Fun Fact:</b> Did you know? Studies show that reaction time improves by nearly 15% with competitive music-based games like Kahoot!</description>
     </item>
-    
     <item>
-        <title>Generation Z players from Kakinada dominate with 78894 points!</title>
-        <description>Average reaction time: 4.62s. Accuracy: 73.81%. Total points delta: 31563.0. 
-Fun Fact: Kakinada is known for its unique contribution to Indian culture according to Wikipedia.</description>
-        <pubDate>Sun, 02 Nov 2025 18:55:09 </pubDate>
+        <title>Tamil Debut Questions Stumped Many</title>
+        <description>Only 44.2% of all answers to actor debut questions were correct — proving that even fans struggle with remembering first films.
+        <br/><b>Fun Fact:</b> Fun fact: Vikram Prabhu’s debut ‘Kumki’ used real elephants during filming — a rare cinematic choice in Tamil cinema!</description>
     </item>
-    
     <item>
-        <title>Generation Z players from Karur dominate with 75215 points!</title>
-        <description>Average reaction time: 4.47s. Accuracy: 69.84%. Total points delta: 19824.0. 
-Fun Fact: Karur is known for its unique contribution to Indian culture according to Wikipedia.</description>
-        <pubDate>Sun, 02 Nov 2025 18:55:09 </pubDate>
+        <title>Lightning Reflexes in ‘Duet’ Question</title>
+        <description>The highest-scoring player nailed the ‘Prakash Raj debut’ question in just 0.8180000000000001 seconds — proving sharp instincts matter as much as memory.
+        <br/><b>Fun Fact:</b> Prakash Raj is one of the few Indian actors fluent in 6 languages — making him a true pan-Indian performer!</description>
     </item>
-    
     <item>
-        <title>Millennial players from Delhi dominate with 72092 points!</title>
-        <description>Average reaction time: 4.64s. Accuracy: 77.78%. Total points delta: 16173.0. 
-Fun Fact: Delhi is known for its unique contribution to Indian culture according to Wikipedia.</description>
-        <pubDate>Sun, 02 Nov 2025 18:55:09 </pubDate>
+        <title>Rajinikanth Trivia Ruled, But ‘Kumki’ Lagged</title>
+        <description>Players found Rajinikanth-related trivia easiest, while Vikram Prabhu’s ‘Kumki’ debut question saw the lowest confidence — hinting at generational familiarity gaps.
+        <br/><b>Fun Fact:</b> Rajinikanth’s fan clubs exist in over 50 countries — including Japan and Nigeria!</description>
     </item>
-    
     <item>
-        <title>Millennial players from Mangalore dominate with 68049 points!</title>
-        <description>Average reaction time: 4.51s. Accuracy: 75.00%. Total points delta: 48132.0. 
-Fun Fact: Mangalore is known for its unique contribution to Indian culture according to Wikipedia.</description>
-        <pubDate>Sun, 02 Nov 2025 18:55:09 </pubDate>
+        <title>Speedy Answers Project Future Dominance</title>
+        <description>Players with sub-3-second averages are emerging as dominant — suggesting that instinct-based recall could outperform memory-heavy approaches in future rounds.
+        <br/><b>Fun Fact:</b> Reaction times in quiz formats have been shown to improve by 20% after just three sessions of music-themed play!</description>
     </item>
-    
 </channel>
 </rss>
