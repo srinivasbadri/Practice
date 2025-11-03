@@ -1,5 +1,21 @@
 [
   {
+    "nickname": "Kaipulla",
+    "birth_city": "other",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
+    "nickname": "Somasi",
+    "birth_city": "other",
+    "living_city": "Seattle",
+    "generation": "Generation X (Born 1965–1980)",
+    "birth_city_geohash": "",
+    "living_city_geohash": ""
+  },
+  {
     "nickname": "Superhero",
     "birth_city": "Chennai",
     "living_city": "Bellingham",
