@@ -6,22 +6,12 @@
   },
   {
     "category": "living_city",
-    "value": "Everett",
-    "count": 1
-  },
-  {
-    "category": "living_city",
     "value": "Redmond",
     "count": 1
   },
   {
     "category": "birth_city",
     "value": "Anthiyur, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Bhavani, Tamil Nadu",
     "count": 1
   },
   {
@@ -52,6 +42,6 @@
   {
     "category": "generation",
     "value": "Generation Alpha (Born 2010–2024)",
-    "count": 1
+    "count": 0
   }
 ]
