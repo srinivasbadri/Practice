@@ -1,17 +1,47 @@
 [
   {
     "category": "living_city",
-    "value": "Aberdeen",
+    "value": "other",
+    "count": 28
+  },
+  {
+    "category": "living_city",
+    "value": "Woodinville",
+    "count": 3
+  },
+  {
+    "category": "living_city",
+    "value": "Pacific",
     "count": 1
   },
   {
     "category": "living_city",
-    "value": "Redmond",
+    "value": "Bellevue",
+    "count": 1
+  },
+  {
+    "category": "living_city",
+    "value": "Aberdeen",
     "count": 1
   },
   {
     "category": "birth_city",
-    "value": "Anthiyur, Tamil Nadu",
+    "value": "other",
+    "count": 28
+  },
+  {
+    "category": "birth_city",
+    "value": "Chennai, Tamil Nadu",
+    "count": 3
+  },
+  {
+    "category": "birth_city",
+    "value": "Palani, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Chengalpattu, Tamil Nadu",
     "count": 1
   },
   {
@@ -22,26 +52,26 @@
   {
     "category": "generation",
     "value": "Baby Boomer (Born 1946–1964)",
-    "count": 0
+    "count": 1
   },
   {
     "category": "generation",
     "value": "Generation X (Born 1965–1980)",
-    "count": 1
+    "count": 9
   },
   {
     "category": "generation",
     "value": "Millennial (Born 1981–1996)",
-    "count": 0
+    "count": 12
   },
   {
     "category": "generation",
     "value": "Gen Z (Born 1997–2010)",
-    "count": 1
+    "count": 5
   },
   {
     "category": "generation",
     "value": "Generation Alpha (Born 2010–2024)",
-    "count": 0
+    "count": 7
   }
 ]

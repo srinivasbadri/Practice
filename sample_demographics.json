@@ -1,14 +1,206 @@
 [
   {
-    "nickname": "sb123",
-    "birth_city": "Anthiyur, Tamil Nadu",
-    "living_city": "Aberdeen",
+    "nickname": "Walter white",
+    "birth_city": "Palani, Tamil Nadu",
+    "living_city": "Pacific",
     "generation": "Generation X (Born 1965–1980)"
   },
   {
-    "nickname": "1231231234",
-    "birth_city": "Ambur, Tamil Nadu",
-    "living_city": "Redmond",
+    "nickname": "a123",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bellevue",
     "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "Walter White",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Woodinville",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "a123",
+    "birth_city": "Chengalpattu, Tamil Nadu",
+    "living_city": "Woodinville",
+    "generation": "Baby Boomer (Born 1946–1964)"
+  },
+  {
+    "nickname": "a23",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Woodinville",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "a23",
+    "birth_city": "Ambur, Tamil Nadu",
+    "living_city": "Aberdeen",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "LeBron james",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Seb",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Kaipulla",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Somasi",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Superhero",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "brat",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "brat",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "PetaRaja",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Abcd",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Seb",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "chandramouleswaran",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Kk",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "CoolDude",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "NaMo tea kadai",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Happy potter",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Peshkar3",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "cookgramam",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Harini",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Jeeeeeeeeeeeeevi",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Kavya",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "Ganesh",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "pavana",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "GR",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "NaaneVaruvaen",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Walter white",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Mukund",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "chesterisgod",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "Mario",
+    "birth_city": "other",
+    "living_city": "other",
+    "generation": "Generation Alpha (Born 2010–2024)"
   }
 ]
