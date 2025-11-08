@@ -1,14 +1,20 @@
 [
   {
-    "nickname": "sb123",
-    "birth_city": "Anthiyur, Tamil Nadu",
-    "living_city": "Aberdeen",
-    "generation": "Generation X (Born 1965–1980)"
+    "nickname": "Crystal",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Buckley",
+    "generation": "Generation Alpha (Born 2010–2024)"
   },
   {
-    "nickname": "1231231234",
-    "birth_city": "Avadi, Tamil Nadu",
-    "living_city": "Redmond",
-    "generation": "Gen Z (Born 1997–2010)"
+    "nickname": "Loading",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bremerton",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "AS",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Chelan",
+    "generation": "Millennial (Born 1981–1996)"
   }
 ]

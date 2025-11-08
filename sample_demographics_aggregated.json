@@ -1,23 +1,23 @@
 [
   {
     "category": "living_city",
-    "value": "Aberdeen",
+    "value": "Buckley",
     "count": 1
   },
   {
     "category": "living_city",
-    "value": "Redmond",
+    "value": "Bremerton",
+    "count": 1
+  },
+  {
+    "category": "living_city",
+    "value": "Chelan",
     "count": 1
   },
   {
     "category": "birth_city",
-    "value": "Anthiyur, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Ambur, Tamil Nadu",
-    "count": 1
+    "value": "Chennai, Tamil Nadu",
+    "count": 3
   },
   {
     "category": "generation",
@@ -27,21 +27,21 @@
   {
     "category": "generation",
     "value": "Generation X (Born 1965–1980)",
-    "count": 1
+    "count": 0
   },
   {
     "category": "generation",
     "value": "Millennial (Born 1981–1996)",
-    "count": 0
-  },
-  {
-    "category": "generation",
-    "value": "Gen Z (Born 1997–2010)",
     "count": 1
   },
   {
     "category": "generation",
-    "value": "Generation Alpha (Born 2010–2024)",
+    "value": "Gen Z (Born 1997–2010)",
     "count": 0
+  },
+  {
+    "category": "generation",
+    "value": "Generation Alpha (Born 2010–2024)",
+    "count": 2
   }
 ]
