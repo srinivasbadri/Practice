@@ -1,6 +1,10 @@
 [
   {
-    "name": "Millennial (Born 1981–1996)",
-    "points": 859
+    "name": "Gen Z (Born 1997–2010)",
+    "points": 2885
+  },
+  {
+    "name": "Generation X (Born 1965–1980)",
+    "points": 975
   }
 ]
