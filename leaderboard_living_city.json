@@ -1,6 +1,22 @@
 [
   {
+    "name": "other",
+    "points": 8903
+  },
+  {
+    "name": "Redmond",
+    "points": 8090
+  },
+  {
     "name": "Bellevue",
-    "points": 859
+    "points": 4952
+  },
+  {
+    "name": "Bothell",
+    "points": 0
+  },
+  {
+    "name": "BOTHELL",
+    "points": 0
   }
 ]
