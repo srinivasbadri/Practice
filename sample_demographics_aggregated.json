@@ -1,112 +1,27 @@
 [
   {
-    "category": "living_city",
-    "value": "other",
-    "count": 28
-  },
-  {
-    "category": "living_city",
-    "value": "Redmond",
-    "count": 4
-  },
-  {
-    "category": "living_city",
-    "value": "Woodinville",
-    "count": 3
-  },
-  {
-    "category": "living_city",
-    "value": "Bellevue",
-    "count": 2
-  },
-  {
-    "category": "living_city",
-    "value": "Airway Heights",
-    "count": 2
-  },
-  {
-    "category": "living_city",
-    "value": "Lynnwood",
-    "count": 1
-  },
-  {
-    "category": "living_city",
-    "value": "Pacific",
-    "count": 1
-  },
-  {
-    "category": "living_city",
-    "value": "Aberdeen",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "other",
-    "count": 28
-  },
-  {
-    "category": "birth_city",
-    "value": "Chennai, Tamil Nadu",
-    "count": 5
-  },
-  {
-    "category": "birth_city",
-    "value": "Tirunelveli, Tamil Nadu",
-    "count": 2
-  },
-  {
-    "category": "birth_city",
-    "value": "Ambur, Tamil Nadu",
-    "count": 2
-  },
-  {
-    "category": "birth_city",
-    "value": "Other",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Avadi, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Anthiyur, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Palani, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Chengalpattu, Tamil Nadu",
-    "count": 1
-  },
-  {
     "category": "generation",
     "value": "Baby Boomer (Born 1946–1964)",
-    "count": 1
+    "count": 0
   },
   {
     "category": "generation",
     "value": "Generation X (Born 1965–1980)",
-    "count": 12
+    "count": 0
   },
   {
     "category": "generation",
     "value": "Millennial (Born 1981–1996)",
-    "count": 16
+    "count": 0
   },
   {
     "category": "generation",
     "value": "Gen Z (Born 1997–2010)",
-    "count": 6
+    "count": 0
   },
   {
     "category": "generation",
     "value": "Generation Alpha (Born 2010–2024)",
-    "count": 7
+    "count": 0
   }
 ]
