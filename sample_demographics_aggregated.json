@@ -6,17 +6,32 @@
   },
   {
     "category": "living_city",
+    "value": "Redmond",
+    "count": 4
+  },
+  {
+    "category": "living_city",
     "value": "Woodinville",
     "count": 3
   },
   {
     "category": "living_city",
-    "value": "Pacific",
+    "value": "Bellevue",
+    "count": 2
+  },
+  {
+    "category": "living_city",
+    "value": "Airway Heights",
+    "count": 2
+  },
+  {
+    "category": "living_city",
+    "value": "Lynnwood",
     "count": 1
   },
   {
     "category": "living_city",
-    "value": "Bellevue",
+    "value": "Pacific",
     "count": 1
   },
   {
@@ -32,7 +47,32 @@
   {
     "category": "birth_city",
     "value": "Chennai, Tamil Nadu",
-    "count": 3
+    "count": 5
+  },
+  {
+    "category": "birth_city",
+    "value": "Tirunelveli, Tamil Nadu",
+    "count": 2
+  },
+  {
+    "category": "birth_city",
+    "value": "Ambur, Tamil Nadu",
+    "count": 2
+  },
+  {
+    "category": "birth_city",
+    "value": "Other",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Avadi, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Anthiyur, Tamil Nadu",
+    "count": 1
   },
   {
     "category": "birth_city",
@@ -45,11 +85,6 @@
     "count": 1
   },
   {
-    "category": "birth_city",
-    "value": "Ambur, Tamil Nadu",
-    "count": 1
-  },
-  {
     "category": "generation",
     "value": "Baby Boomer (Born 1946–1964)",
     "count": 1
@@ -57,17 +92,17 @@
   {
     "category": "generation",
     "value": "Generation X (Born 1965–1980)",
-    "count": 9
-  },
-  {
-    "category": "generation",
-    "value": "Millennial (Born 1981–1996)",
     "count": 12
   },
   {
     "category": "generation",
+    "value": "Millennial (Born 1981–1996)",
+    "count": 16
+  },
+  {
+    "category": "generation",
     "value": "Gen Z (Born 1997–2010)",
-    "count": 5
+    "count": 6
   },
   {
     "category": "generation",
