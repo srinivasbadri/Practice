@@ -1,10 +1,14 @@
 [
   {
-    "name": "Aberdeen",
-    "points": 2821
+    "name": "Chelan",
+    "points": 5340
   },
   {
-    "name": "Redmond",
-    "points": 925
+    "name": "Buckley",
+    "points": 4656
+  },
+  {
+    "name": "Bremerton",
+    "points": 3864
   }
 ]

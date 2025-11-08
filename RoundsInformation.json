@@ -1,8 +1,8 @@
 {
     "RoundsCompleted": 1,
     "RoundsRemaining": 7,
-    "LastRoundWinner": "Sb123",
-    "LastRoundFastestAnswer": "Sb123 (2.13 s)",
-    "LastRoundFastestAnswerTime": 2.13,
-    "LastRoundAllCorrectPercent": 30.0
+    "LastRoundWinner": "AS",
+    "LastRoundFastestAnswer": "Loading (1.24 s)",
+    "LastRoundFastestAnswerTime": 1.238,
+    "LastRoundAllCorrectPercent": 80.0
 }
