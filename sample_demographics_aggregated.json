@@ -1,5 +1,35 @@
 [
   {
+    "category": "living_city",
+    "value": "Aberdeen",
+    "count": 1
+  },
+  {
+    "category": "living_city",
+    "value": "Everett",
+    "count": 1
+  },
+  {
+    "category": "living_city",
+    "value": "Redmond",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Anthiyur, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Bhavani, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Ambur, Tamil Nadu",
+    "count": 1
+  },
+  {
     "category": "generation",
     "value": "Baby Boomer (Born 1946–1964)",
     "count": 0
@@ -7,7 +37,7 @@
   {
     "category": "generation",
     "value": "Generation X (Born 1965–1980)",
-    "count": 0
+    "count": 1
   },
   {
     "category": "generation",
@@ -17,11 +47,11 @@
   {
     "category": "generation",
     "value": "Gen Z (Born 1997–2010)",
-    "count": 0
+    "count": 1
   },
   {
     "category": "generation",
     "value": "Generation Alpha (Born 2010–2024)",
-    "count": 0
+    "count": 1
   }
 ]
