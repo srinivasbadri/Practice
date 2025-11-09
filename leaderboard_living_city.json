@@ -1,22 +1,22 @@
 [
   {
     "name": "Woodinville",
-    "points": 4749.33
+    "points": 8808.67
   },
   {
-    "name": "Maple Valley",
-    "points": 3954.5
-  },
-  {
-    "name": "Marysville",
-    "points": 3949.5
-  },
-  {
-    "name": "Issaquah",
-    "points": 3909.0
+    "name": "Medina",
+    "points": 8524.0
   },
   {
     "name": "Kirkland",
-    "points": 3904.75
+    "points": 7710.75
+  },
+  {
+    "name": "Marysville",
+    "points": 7493.5
+  },
+  {
+    "name": "Seattle",
+    "points": 6959.5
   }
 ]
