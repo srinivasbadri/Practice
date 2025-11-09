@@ -1,30 +1,9 @@
 [
     {
         "round": "Round 1",
-        "fastest": "Divya",
-        "fastesttime": 0.259,
-        "pointsleader": "Bossgirl",
-        "points": 5420
-    },
-    {
-        "round": "Round 2",
-        "fastest": "Chithra",
-        "fastesttime": 0.841,
-        "pointsleader": "Chithra",
-        "points": 5315
-    },
-    {
-        "round": "Round 3",
-        "fastest": "Flaming Phoenix",
-        "fastesttime": 0.617,
-        "pointsleader": "Maha",
-        "points": 5656
-    },
-    {
-        "round": "Round 4",
-        "fastest": "Photon",
-        "fastesttime": 0.466,
-        "pointsleader": "Mr Chandru",
-        "points": 5473
+        "fastest": "Pikachu2",
+        "fastesttime": 1.294,
+        "pointsleader": "Pikachu2",
+        "points": 3399
     }
 ]
