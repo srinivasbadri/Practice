@@ -248,5 +248,10 @@
     "category": "generation",
     "value": "Generation Alpha (Born 2010–2024)",
     "count": 19
+  },
+  {
+    "category": "eureka_villages",
+    "value": "trichy:4, tirunelveli:2, cuddalore:1, ranipet:1, vellore:1",
+    "count": 9
   }
 ]
