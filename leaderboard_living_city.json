@@ -1,22 +1,22 @@
 [
   {
     "name": "Woodinville",
-    "points": 8451.97
+    "points": 9998.43
   },
   {
     "name": "Kirkland",
-    "points": 8418.53
-  },
-  {
-    "name": "Issaquah",
-    "points": 8214.97
+    "points": 9666.82
   },
   {
     "name": "Marysville",
-    "points": 8156.68
+    "points": 9412.77
+  },
+  {
+    "name": "Issaquah",
+    "points": 9305.63
   },
   {
     "name": "Seattle",
-    "points": 7504.72
+    "points": 8922.68
   }
 ]
