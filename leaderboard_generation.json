@@ -1,19 +1,19 @@
 [
   {
     "name": "Millennial (Born 1981–1996)",
-    "points": 5690.14
+    "points": 7989.58
   },
   {
     "name": "Generation X (Born 1965–1980)",
-    "points": 4983.17
-  },
-  {
-    "name": "Generation Alpha (Born 2010–2024)",
-    "points": 4065.07
+    "points": 7084.1
   },
   {
     "name": "Gen Z (Born 1997–2010)",
-    "points": 4015.56
+    "points": 6235.4
+  },
+  {
+    "name": "Generation Alpha (Born 2010–2024)",
+    "points": 5065.47
   },
   {
     "name": "Baby Boomer (Born 1946–1964)",
