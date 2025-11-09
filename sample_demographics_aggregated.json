@@ -7,7 +7,7 @@
   {
     "category": "living_city",
     "value": "Redmond",
-    "count": 40
+    "count": 42
   },
   {
     "category": "living_city",
@@ -27,32 +27,17 @@
   {
     "category": "living_city",
     "value": "Woodinville",
-    "count": 5
+    "count": 6
   },
   {
     "category": "living_city",
     "value": "Seattle",
-    "count": 4
+    "count": 5
   },
   {
     "category": "living_city",
     "value": "Kirkland",
     "count": 4
-  },
-  {
-    "category": "living_city",
-    "value": "Everett",
-    "count": 2
-  },
-  {
-    "category": "living_city",
-    "value": "Maple Valley",
-    "count": 2
-  },
-  {
-    "category": "living_city",
-    "value": "Issaquah",
-    "count": 2
   },
   {
     "category": "living_city",
@@ -66,12 +51,27 @@
   },
   {
     "category": "living_city",
-    "value": "Snohomish",
-    "count": 1
+    "value": "Everett",
+    "count": 2
+  },
+  {
+    "category": "living_city",
+    "value": "Maple Valley",
+    "count": 2
   },
   {
     "category": "living_city",
     "value": "Newcastle",
+    "count": 2
+  },
+  {
+    "category": "living_city",
+    "value": "Issaquah",
+    "count": 2
+  },
+  {
+    "category": "living_city",
+    "value": "Snohomish",
     "count": 1
   },
   {
@@ -87,7 +87,7 @@
   {
     "category": "birth_city",
     "value": "Madurai, Tamil Nadu",
-    "count": 10
+    "count": 11
   },
   {
     "category": "birth_city",
@@ -96,13 +96,13 @@
   },
   {
     "category": "birth_city",
-    "value": "Thanjavur, Tamil Nadu",
+    "value": "Bengaluru, Karnataka",
     "count": 5
   },
   {
     "category": "birth_city",
-    "value": "Bengaluru, Karnataka",
-    "count": 4
+    "value": "Thanjavur, Tamil Nadu",
+    "count": 5
   },
   {
     "category": "birth_city",
@@ -116,12 +116,17 @@
   },
   {
     "category": "birth_city",
-    "value": "Kochi (Cochin), Kerala",
+    "value": "Aruppukottai, Tamil Nadu",
     "count": 2
   },
   {
     "category": "birth_city",
-    "value": "Tirunelveli, Tamil Nadu",
+    "value": "Erode, Tamil Nadu",
+    "count": 2
+  },
+  {
+    "category": "birth_city",
+    "value": "Kochi (Cochin), Kerala",
     "count": 2
   },
   {
@@ -136,32 +141,17 @@
   },
   {
     "category": "birth_city",
-    "value": "Erode, Tamil Nadu",
+    "value": "Tirunelveli, Tamil Nadu",
     "count": 2
   },
   {
     "category": "birth_city",
-    "value": "Aruppukottai, Tamil Nadu",
-    "count": 2
-  },
-  {
-    "category": "birth_city",
-    "value": "Nagercoil, Tamil Nadu",
+    "value": "Avinashi, Tamil Nadu",
     "count": 1
   },
   {
     "category": "birth_city",
-    "value": "Ooty (Udhagamandalam), Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Dindigul, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Villupuram, Tamil Nadu",
+    "value": "Bhavani, Tamil Nadu",
     "count": 1
   },
   {
@@ -171,47 +161,7 @@
   },
   {
     "category": "birth_city",
-    "value": "Kanchipuram, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Mettupalayam, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Thiruvananthapuram, Kerala",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Tambaram, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Ranipet, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Avinashi, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Mannargudi, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Vellore, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Namakkal, Tamil Nadu",
+    "value": "Dindigul, Tamil Nadu",
     "count": 1
   },
   {
@@ -221,13 +171,78 @@
   },
   {
     "category": "birth_city",
-    "value": "Bhavani, Tamil Nadu",
+    "value": "Kanchipuram, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Mannargudi, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Mettupalayam, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Nagercoil, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Namakkal, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Ooty (Udhagamandalam), Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Pallavaram, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Pondicherry, Puducherry",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Ranipet, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Salem, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Tambaram, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Thiruvananthapuram, Kerala",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Vellore, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Villupuram, Tamil Nadu",
     "count": 1
   },
   {
     "category": "generation",
     "value": "Baby Boomer (Born 1946–1964)",
-    "count": 1
+    "count": 3
   },
   {
     "category": "generation",
@@ -237,7 +252,7 @@
   {
     "category": "generation",
     "value": "Millennial (Born 1981–1996)",
-    "count": 51
+    "count": 54
   },
   {
     "category": "generation",
