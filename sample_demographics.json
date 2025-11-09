@@ -1,5 +1,773 @@
 [
   {
+    "nickname": "Rishi",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "hi",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Navitha",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Rajnikanth",
+    "birth_city": "Bengaluru, Karnataka",
+    "living_city": "Bellevue",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Yajurr",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Srini",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Snohomish",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Senthivel",
+    "birth_city": "Madurai, Tamil Nadu",
+    "living_city": "Snoqualmie",
+    "generation": "Baby Boomer (Born 1946–1964)"
+  },
+  {
+    "nickname": "Virumaandi",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bellevue",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Michhis",
+    "birth_city": "Bengaluru, Karnataka",
+    "living_city": "Bellevue",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "ChitRam",
+    "birth_city": "Madurai, Tamil Nadu",
+    "living_city": "Snoqualmie",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Sudha",
+    "birth_city": "Nagercoil, Tamil Nadu",
+    "living_city": "Sammamish",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Ven",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Frodo",
+    "birth_city": "Ooty (Udhagamandalam), Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Isai",
+    "birth_city": "Tiruchirappalli (Trichy), Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Akila",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Laka",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Murugan J",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Thilaga",
+    "birth_city": "Coimbatore, Tamil Nadu",
+    "living_city": "Bellevue",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Selvi",
+    "birth_city": "Dindigul, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Pp80",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Sammamish",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "MaduraiAni",
+    "birth_city": "Madurai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Shirith",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Varun seattle",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Everett",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Prameela",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bellevue",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Lakshmibharu",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "ALN",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Sammamish",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Abivenkat",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Newcastle",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "RR",
+    "birth_city": "Madurai, Tamil Nadu",
+    "living_city": "Seattle",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Ramya B",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Snoqualmie",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Thilalangadi",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "RamKey",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Anusha",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Kocha",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Snoqualmie",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "M3",
+    "birth_city": "Villupuram, Tamil Nadu",
+    "living_city": "Kirkland",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Savitha",
+    "birth_city": "Cuddalore, Tamil Nadu",
+    "living_city": "Bellevue",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Sigma",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Suga",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Sammamish",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Tooth doctor",
+    "birth_city": "Madurai, Tamil Nadu",
+    "living_city": "Snoqualmie",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Sridhar",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Van",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Sam was",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Woodinville",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Sari",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Kirkland",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Deepa",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Woodinville",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "OK kanmani",
+    "birth_city": "Kanchipuram, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Venky",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Woodinville",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Harini",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Cool guy",
+    "birth_city": "Thanjavur, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Singaravel",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "kannmani",
+    "birth_city": "Coimbatore, Tamil Nadu",
+    "living_city": "Bellevue",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Photon",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bellevue",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Ramasubbu",
+    "birth_city": "Thanjavur, Tamil Nadu",
+    "living_city": "Sammamish",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Vaishu",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Maple Valley",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Jabs",
+    "birth_city": "Coimbatore, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Sindhuja",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Bhoons",
+    "birth_city": "Coimbatore, Tamil Nadu",
+    "living_city": "Sammamish",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Kaipulla",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Binu",
+    "birth_city": "Kochi (Cochin), Kerala",
+    "living_city": "Lake Stevens",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "marhew",
+    "birth_city": "Kochi (Cochin), Kerala",
+    "living_city": "Redmond",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Peshkar3",
+    "birth_city": "Hyderabad, Telangana",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Hani",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "isai listener",
+    "birth_city": "Tirunelveli, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Naav",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Palalamu",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Ari",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bellevue",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Kamal",
+    "birth_city": "Kumbakonam, Tamil Nadu",
+    "living_city": "Sammamish",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Maha",
+    "birth_city": "Mettupalayam, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Navya S",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Nived",
+    "birth_city": "Thiruvananthapuram, Kerala",
+    "living_city": "Sammamish",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "br at",
+    "birth_city": "Coimbatore, Tamil Nadu",
+    "living_city": "Seattle",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "AlanJ",
+    "birth_city": "Tambaram, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Paramount pavai",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Raspberry Pie",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Bossgirl",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Woodinville",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Ash",
+    "birth_city": "Hyderabad, Telangana",
+    "living_city": "Seattle",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "Kishorep007",
+    "birth_city": "Hyderabad, Telangana",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "MeenaAaru",
+    "birth_city": "Ranipet, Tamil Nadu",
+    "living_city": "Issaquah",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Matman",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Woodinville",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Jagan",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bellevue",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "aadhithya",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "Selvan",
+    "birth_city": "Madurai, Tamil Nadu",
+    "living_city": "Snoqualmie",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Selva",
+    "birth_city": "Madurai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Arunkumar11",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Den",
+    "birth_city": "Avinashi, Tamil Nadu",
+    "living_city": "Bellevue",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "Fire dragon",
+    "birth_city": "Bengaluru, Karnataka",
+    "living_city": "Medina",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "VinveliNayagi",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Beenu",
+    "birth_city": "Kurichi, Tamil Nadu",
+    "living_city": "Sammamish",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Vaa Thalaiva",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Medina",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Rasagulla",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Paas",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "MaanKarate",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Prathi",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Durga",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Amrita",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bellevue",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "TamilDa",
+    "birth_city": "Kurichi, Tamil Nadu",
+    "living_city": "Maple Valley",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "KaiPulla",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bellevue",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "moon",
+    "birth_city": "Thanjavur, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Rose",
+    "birth_city": "Coimbatore, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Dhara",
+    "birth_city": "Mannargudi, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Raghav67",
+    "birth_city": "Coimbatore, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Arjun",
+    "birth_city": "Thanjavur, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "SolidMetal",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Kirkland",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "VaaSuruthi",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "sh",
+    "birth_city": "Erode, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "DivzRaj",
+    "birth_city": "Coimbatore, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Lionheart",
+    "birth_city": "Bengaluru, Karnataka",
+    "living_city": "Sammamish",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Vandhana VC",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Shwe",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Everett",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Sk",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Arun",
+    "birth_city": "Vellore, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Pk",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Sammamish",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Krish",
+    "birth_city": "Madurai, Tamil Nadu",
+    "living_city": "Snoqualmie",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "Rama",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Madhu Naren",
+    "birth_city": "Namakkal, Tamil Nadu",
+    "living_city": "Issaquah",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "amatra",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Sammamish",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "KaruthaMachan",
+    "birth_city": "Tiruchirappalli (Trichy), Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "harini",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "AKCHARA Arun",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "Kalai",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "superstarrajni",
+    "birth_city": "Hassan, Karnataka",
+    "living_city": "Bellevue",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "DittyKumar",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Gen Z (Born 1997–2010)"
+  },
+  {
+    "nickname": "RealCSKFan",
+    "birth_city": "Madurai, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Akshay",
+    "birth_city": "Kumbakonam, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
+    "nickname": "Geeth",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "BothellKumar",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "MM",
+    "birth_city": "Thanjavur, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Pikachu2",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bothell",
+    "generation": "Millennial (Born 1981–1996)"
+  },
+  {
+    "nickname": "Dheram",
+    "birth_city": "Coimbatore, Tamil Nadu",
+    "living_city": "Redmond",
+    "generation": "Generation X (Born 1965–1980)"
+  },
+  {
+    "nickname": "Flaming Phoenix",
+    "birth_city": "Chennai, Tamil Nadu",
+    "living_city": "Bellevue",
+    "generation": "Generation Alpha (Born 2010–2024)"
+  },
+  {
     "nickname": "Sana",
     "birth_city": "Tirunelveli, Tamil Nadu",
     "living_city": "Sammamish",
@@ -74,12 +842,6 @@
   {
     "nickname": "Man United",
     "birth_city": "Aruppukottai, Tamil Nadu",
-    "living_city": "Bothell",
-    "generation": "Generation X (Born 1965–1980)"
-  },
-  {
-    "nickname": "Van",
-    "birth_city": "Chennai, Tamil Nadu",
     "living_city": "Bothell",
     "generation": "Generation X (Born 1965–1980)"
   },

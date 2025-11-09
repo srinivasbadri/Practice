@@ -2,12 +2,62 @@
   {
     "category": "living_city",
     "value": "Bothell",
-    "count": 11
+    "count": 46
   },
   {
     "category": "living_city",
     "value": "Redmond",
+    "count": 40
+  },
+  {
+    "category": "living_city",
+    "value": "Bellevue",
+    "count": 15
+  },
+  {
+    "category": "living_city",
+    "value": "Sammamish",
+    "count": 13
+  },
+  {
+    "category": "living_city",
+    "value": "Snoqualmie",
+    "count": 7
+  },
+  {
+    "category": "living_city",
+    "value": "Woodinville",
+    "count": 5
+  },
+  {
+    "category": "living_city",
+    "value": "Seattle",
     "count": 4
+  },
+  {
+    "category": "living_city",
+    "value": "Kirkland",
+    "count": 4
+  },
+  {
+    "category": "living_city",
+    "value": "Everett",
+    "count": 2
+  },
+  {
+    "category": "living_city",
+    "value": "Maple Valley",
+    "count": 2
+  },
+  {
+    "category": "living_city",
+    "value": "Issaquah",
+    "count": 2
+  },
+  {
+    "category": "living_city",
+    "value": "Medina",
+    "count": 2
   },
   {
     "category": "living_city",
@@ -16,27 +66,77 @@
   },
   {
     "category": "living_city",
-    "value": "Sammamish",
+    "value": "Snohomish",
     "count": 1
   },
   {
     "category": "living_city",
-    "value": "Kirkland",
+    "value": "Newcastle",
     "count": 1
   },
   {
     "category": "living_city",
-    "value": "Seattle",
+    "value": "Lake Stevens",
     "count": 1
   },
   {
     "category": "birth_city",
     "value": "Chennai, Tamil Nadu",
-    "count": 12
+    "count": 84
+  },
+  {
+    "category": "birth_city",
+    "value": "Madurai, Tamil Nadu",
+    "count": 10
+  },
+  {
+    "category": "birth_city",
+    "value": "Coimbatore, Tamil Nadu",
+    "count": 9
+  },
+  {
+    "category": "birth_city",
+    "value": "Thanjavur, Tamil Nadu",
+    "count": 5
+  },
+  {
+    "category": "birth_city",
+    "value": "Bengaluru, Karnataka",
+    "count": 4
   },
   {
     "category": "birth_city",
     "value": "Tiruchirappalli (Trichy), Tamil Nadu",
+    "count": 4
+  },
+  {
+    "category": "birth_city",
+    "value": "Hyderabad, Telangana",
+    "count": 3
+  },
+  {
+    "category": "birth_city",
+    "value": "Kochi (Cochin), Kerala",
+    "count": 2
+  },
+  {
+    "category": "birth_city",
+    "value": "Tirunelveli, Tamil Nadu",
+    "count": 2
+  },
+  {
+    "category": "birth_city",
+    "value": "Kumbakonam, Tamil Nadu",
+    "count": 2
+  },
+  {
+    "category": "birth_city",
+    "value": "Kurichi, Tamil Nadu",
+    "count": 2
+  },
+  {
+    "category": "birth_city",
+    "value": "Erode, Tamil Nadu",
     "count": 2
   },
   {
@@ -46,7 +146,77 @@
   },
   {
     "category": "birth_city",
-    "value": "Tirunelveli, Tamil Nadu",
+    "value": "Nagercoil, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Ooty (Udhagamandalam), Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Dindigul, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Villupuram, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Cuddalore, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Kanchipuram, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Mettupalayam, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Thiruvananthapuram, Kerala",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Tambaram, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Ranipet, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Avinashi, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Mannargudi, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Vellore, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Namakkal, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Hassan, Karnataka",
     "count": 1
   },
   {
@@ -55,38 +225,28 @@
     "count": 1
   },
   {
-    "category": "birth_city",
-    "value": "Erode, Tamil Nadu",
-    "count": 1
-  },
-  {
-    "category": "birth_city",
-    "value": "Madurai, Tamil Nadu",
-    "count": 1
-  },
-  {
     "category": "generation",
     "value": "Baby Boomer (Born 1946–1964)",
-    "count": 0
+    "count": 1
   },
   {
     "category": "generation",
     "value": "Generation X (Born 1965–1980)",
-    "count": 10
+    "count": 65
   },
   {
     "category": "generation",
     "value": "Millennial (Born 1981–1996)",
-    "count": 7
+    "count": 51
   },
   {
     "category": "generation",
     "value": "Gen Z (Born 1997–2010)",
-    "count": 1
+    "count": 11
   },
   {
     "category": "generation",
     "value": "Generation Alpha (Born 2010–2024)",
-    "count": 2
+    "count": 19
   }
 ]
