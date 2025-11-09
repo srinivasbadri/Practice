@@ -1,14 +1,22 @@
 [
   {
-    "name": "Buckley",
-    "points": 10002.0
+    "name": "Woodinville",
+    "points": 4749.33
   },
   {
-    "name": "Chelan",
-    "points": 8706.0
+    "name": "Maple Valley",
+    "points": 3954.5
   },
   {
-    "name": "Bremerton",
-    "points": 5757.0
+    "name": "Marysville",
+    "points": 3949.5
+  },
+  {
+    "name": "Issaquah",
+    "points": 3909.0
+  },
+  {
+    "name": "Kirkland",
+    "points": 3904.75
   }
 ]
