@@ -1,23 +1,68 @@
 [
   {
     "category": "living_city",
-    "value": "Buckley",
+    "value": "Bothell",
+    "count": 11
+  },
+  {
+    "category": "living_city",
+    "value": "Redmond",
+    "count": 4
+  },
+  {
+    "category": "living_city",
+    "value": "Marysville",
+    "count": 2
+  },
+  {
+    "category": "living_city",
+    "value": "Sammamish",
     "count": 1
   },
   {
     "category": "living_city",
-    "value": "Bremerton",
+    "value": "Kirkland",
     "count": 1
   },
   {
     "category": "living_city",
-    "value": "Chelan",
+    "value": "Seattle",
     "count": 1
   },
   {
     "category": "birth_city",
     "value": "Chennai, Tamil Nadu",
-    "count": 3
+    "count": 12
+  },
+  {
+    "category": "birth_city",
+    "value": "Tiruchirappalli (Trichy), Tamil Nadu",
+    "count": 2
+  },
+  {
+    "category": "birth_city",
+    "value": "Aruppukottai, Tamil Nadu",
+    "count": 2
+  },
+  {
+    "category": "birth_city",
+    "value": "Tirunelveli, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Bhavani, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Erode, Tamil Nadu",
+    "count": 1
+  },
+  {
+    "category": "birth_city",
+    "value": "Madurai, Tamil Nadu",
+    "count": 1
   },
   {
     "category": "generation",
@@ -27,17 +72,17 @@
   {
     "category": "generation",
     "value": "Generation X (Born 1965–1980)",
-    "count": 0
+    "count": 10
   },
   {
     "category": "generation",
     "value": "Millennial (Born 1981–1996)",
-    "count": 1
+    "count": 7
   },
   {
     "category": "generation",
     "value": "Gen Z (Born 1997–2010)",
-    "count": 0
+    "count": 1
   },
   {
     "category": "generation",
