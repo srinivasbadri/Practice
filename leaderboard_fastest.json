@@ -1,15 +1,11 @@
 [
   {
-    "name": "Flaming Phoenix",
-    "points": 1.09
+    "name": "Rowdy",
+    "points": 1.27
   },
   {
     "name": "Jumbalakadibmba",
     "points": 1.63
-  },
-  {
-    "name": "Hari",
-    "points": 1.65
   },
   {
     "name": "Thalaivar thuna",
@@ -18,5 +14,9 @@
   {
     "name": "Vijaya",
     "points": 1.69
+  },
+  {
+    "name": "Savy",
+    "points": 1.71
   }
 ]
