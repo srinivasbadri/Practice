@@ -1,8 +1,8 @@
 {
-    "RoundsCompleted": 2,
-    "RoundsRemaining": 6,
-    "LastRoundWinner": "Rumiwins",
-    "LastRoundFastestAnswer": "Sunny (0.95 s)",
-    "LastRoundFastestAnswerTime": 0.948,
-    "LastRoundAllCorrectPercent": 52.66
+    "RoundsCompleted": 3,
+    "RoundsRemaining": 5,
+    "LastRoundWinner": "Kaipulla",
+    "LastRoundFastestAnswer": "Rahul (0.79 s)",
+    "LastRoundFastestAnswerTime": 0.79,
+    "LastRoundAllCorrectPercent": 45.59
 }
