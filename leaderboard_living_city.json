@@ -1,22 +1,22 @@
 [
   {
-    "name": "Snoqualmie",
-    "points": 7206.58
-  },
-  {
     "name": "Woodinville",
-    "points": 6959.23
+    "points": 9134.13
   },
   {
     "name": "Issaquah",
-    "points": 6765.19
-  },
-  {
-    "name": "Edgewood",
-    "points": 6517.85
+    "points": 8858.2
   },
   {
     "name": "Lynnwood",
-    "points": 6496.68
+    "points": 8608.86
+  },
+  {
+    "name": "Snoqualmie",
+    "points": 8261.17
+  },
+  {
+    "name": "Redmond",
+    "points": 8095.33
   }
 ]
